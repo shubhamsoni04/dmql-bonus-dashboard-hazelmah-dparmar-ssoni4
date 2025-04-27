@@ -78,9 +78,9 @@ st.write("**Insight:** The hospital serves a diverse patient population across d
 
 st.markdown("---")
 st.subheader('Summary of Insights')
-st.write("1. Billing payments are fairly balanced but could be improved for pending and rejected bills.")
-st.write("2. Certain doctors are more popular based on appointment counts.")
-st.write("3. Lab reports show seasonal trends, with fluctuations over months.")
-st.write("4. The gender distribution among patients is fairly even.")
+st.write("1. Billing payments are fairly balanced among 'Paid', 'Pending', and 'Rejected', indicating an opportunity to further improve the payment clearance process.")
+st.write("2. Most doctors have a relatively low number of appointments, suggesting distributed workload across doctors rather than high specialization.")
+st.write("3. Lab report submissions show fluctuations over time but maintain consistency overall, implying stable operational activity with occasional spikes.")
+st.write("4. Gender distribution among patients is quite even across Male, Female, and Other categories, highlighting equitable healthcare access to all demographics.")
 
 # End of Dashboard
