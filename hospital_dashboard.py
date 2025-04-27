@@ -10,14 +10,14 @@ from sqlalchemy import create_engine
 # 1. Data Connection & Queries (5 Points)
 # --------------------------------------------
 
-# Database connection parameters
-host = 'localhost'
-database = 'hospital_management_system'
-user = 'postgres'
-password = 'postgres'
-port = '5432'  # default PostgreSQL port
 
-# Create engine for SQLAlchemy
+# Database connection parameters
+host = 'db.kjgvvqzpfqhcgsixmeol.supabase.co'
+database = 'postgres'
+user = 'postgres'
+password = 'Helloshubham@123'
+port = '5432'
+
 engine = create_engine(f'postgresql+psycopg2://{user}:{password}@{host}:{port}/{database}')
 
 # Queries:
