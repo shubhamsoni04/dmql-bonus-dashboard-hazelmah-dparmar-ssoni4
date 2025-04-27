@@ -1,0 +1,3501 @@
+PID,TestType,Results,ReportDate
+1547,MRI,Results indicate low values.,2025-02-01
+2129,MRI,Results indicate normal values.,2025-03-09
+964,X-Ray,Results indicate low values.,2025-02-08
+1803,MRI,Results indicate normal values.,2025-02-27
+1631,Blood Test,Results indicate abnormal values.,2025-02-19
+1554,MRI,Results indicate low values.,2025-02-12
+2895,X-Ray,Results indicate normal values.,2025-01-18
+1025,X-Ray,Results indicate high values.,2025-01-25
+2772,CT Scan,Results indicate low values.,2025-03-14
+3132,Blood Test,Results indicate normal values.,2025-02-06
+2582,Blood Test,Results indicate abnormal values.,2025-03-05
+819,MRI,Results indicate low values.,2025-02-23
+490,Blood Test,Results indicate normal values.,2025-02-02
+85,Blood Test,Results indicate abnormal values.,2025-02-14
+1573,MRI,Results indicate abnormal values.,2025-02-03
+1122,Blood Test,Results indicate normal values.,2025-01-14
+412,Blood Test,Results indicate high values.,2025-01-19
+2014,X-Ray,Results indicate abnormal values.,2025-02-06
+3368,Blood Test,Results indicate abnormal values.,2025-01-24
+581,Blood Test,Results indicate low values.,2025-01-06
+3019,MRI,Results indicate low values.,2025-03-04
+2536,CT Scan,Results indicate normal values.,2025-03-15
+2855,Blood Test,Results indicate normal values.,2025-01-29
+426,X-Ray,Results indicate normal values.,2025-01-23
+3100,CT Scan,Results indicate normal values.,2025-02-06
+693,Blood Test,Results indicate normal values.,2025-01-01
+3182,Blood Test,Results indicate high values.,2025-01-02
+90,Blood Test,Results indicate normal values.,2025-01-22
+1966,X-Ray,Results indicate low values.,2025-02-20
+3171,X-Ray,Results indicate abnormal values.,2025-02-02
+1738,X-Ray,Results indicate abnormal values.,2025-01-26
+1516,MRI,Results indicate low values.,2025-01-27
+1369,Blood Test,Results indicate low values.,2025-02-20
+873,CT Scan,Results indicate normal values.,2025-01-15
+2037,Blood Test,Results indicate abnormal values.,2025-02-09
+2800,Blood Test,Results indicate low values.,2025-01-09
+398,MRI,Results indicate high values.,2025-02-10
+798,X-Ray,Results indicate low values.,2025-01-15
+1687,CT Scan,Results indicate normal values.,2025-02-25
+489,CT Scan,Results indicate normal values.,2025-03-10
+251,X-Ray,Results indicate high values.,2025-01-31
+87,Blood Test,Results indicate low values.,2025-01-06
+2642,Blood Test,Results indicate abnormal values.,2025-01-20
+598,MRI,Results indicate abnormal values.,2025-01-11
+3391,Blood Test,Results indicate low values.,2025-03-11
+3329,CT Scan,Results indicate normal values.,2025-02-09
+2758,Blood Test,Results indicate high values.,2025-03-04
+491,CT Scan,Results indicate abnormal values.,2025-02-16
+2526,X-Ray,Results indicate abnormal values.,2025-02-03
+1396,MRI,Results indicate low values.,2025-01-17
+1858,X-Ray,Results indicate abnormal values.,2025-01-08
+3450,CT Scan,Results indicate high values.,2025-01-21
+2957,Blood Test,Results indicate high values.,2025-01-28
+218,Blood Test,Results indicate abnormal values.,2025-01-12
+2504,MRI,Results indicate normal values.,2025-01-13
+656,CT Scan,Results indicate high values.,2025-01-15
+1783,CT Scan,Results indicate normal values.,2025-01-24
+1684,Blood Test,Results indicate abnormal values.,2025-01-08
+899,X-Ray,Results indicate high values.,2025-02-02
+2365,CT Scan,Results indicate abnormal values.,2025-03-07
+729,X-Ray,Results indicate normal values.,2025-02-20
+2265,CT Scan,Results indicate normal values.,2025-03-14
+154,CT Scan,Results indicate abnormal values.,2025-01-03
+1610,CT Scan,Results indicate abnormal values.,2025-02-17
+3203,CT Scan,Results indicate abnormal values.,2025-01-15
+2724,X-Ray,Results indicate abnormal values.,2025-01-24
+2157,Blood Test,Results indicate abnormal values.,2025-03-04
+3436,X-Ray,Results indicate abnormal values.,2025-03-13
+879,MRI,Results indicate abnormal values.,2025-02-22
+1253,X-Ray,Results indicate high values.,2025-02-28
+2736,X-Ray,Results indicate high values.,2025-01-24
+1026,X-Ray,Results indicate low values.,2025-02-13
+2113,MRI,Results indicate abnormal values.,2025-03-08
+2681,Blood Test,Results indicate low values.,2025-03-04
+3452,CT Scan,Results indicate normal values.,2025-01-11
+180,Blood Test,Results indicate abnormal values.,2025-02-17
+2138,MRI,Results indicate normal values.,2025-02-02
+1615,MRI,Results indicate high values.,2025-01-20
+197,X-Ray,Results indicate low values.,2025-01-08
+1168,MRI,Results indicate low values.,2025-01-14
+627,CT Scan,Results indicate high values.,2025-01-28
+1793,MRI,Results indicate low values.,2025-02-04
+3065,Blood Test,Results indicate abnormal values.,2025-02-26
+191,MRI,Results indicate high values.,2025-01-04
+1695,X-Ray,Results indicate normal values.,2025-01-29
+3277,CT Scan,Results indicate high values.,2025-01-26
+3215,MRI,Results indicate high values.,2025-01-31
+2913,MRI,Results indicate abnormal values.,2025-01-07
+2171,Blood Test,Results indicate low values.,2025-01-04
+2840,CT Scan,Results indicate low values.,2025-01-30
+2329,Blood Test,Results indicate low values.,2025-02-05
+2341,MRI,Results indicate normal values.,2025-02-23
+971,CT Scan,Results indicate normal values.,2025-02-04
+3009,MRI,Results indicate normal values.,2025-02-14
+2674,CT Scan,Results indicate abnormal values.,2025-01-17
+2993,MRI,Results indicate normal values.,2025-02-17
+2719,Blood Test,Results indicate low values.,2025-03-11
+258,CT Scan,Results indicate low values.,2025-01-12
+2291,MRI,Results indicate low values.,2025-02-15
+1811,X-Ray,Results indicate low values.,2025-02-11
+1911,X-Ray,Results indicate high values.,2025-02-13
+1805,Blood Test,Results indicate low values.,2025-01-28
+3241,MRI,Results indicate low values.,2025-01-27
+3411,X-Ray,Results indicate high values.,2025-01-25
+2571,CT Scan,Results indicate abnormal values.,2025-01-14
+3165,Blood Test,Results indicate normal values.,2025-01-04
+2947,Blood Test,Results indicate normal values.,2025-01-26
+1719,MRI,Results indicate abnormal values.,2025-02-14
+1521,MRI,Results indicate normal values.,2025-02-17
+596,CT Scan,Results indicate low values.,2025-03-06
+1363,MRI,Results indicate high values.,2025-02-09
+1234,CT Scan,Results indicate abnormal values.,2025-01-15
+2643,MRI,Results indicate high values.,2025-01-28
+1872,CT Scan,Results indicate low values.,2025-01-17
+3163,Blood Test,Results indicate abnormal values.,2025-02-10
+1899,MRI,Results indicate high values.,2025-01-30
+2833,X-Ray,Results indicate abnormal values.,2025-02-10
+3316,CT Scan,Results indicate abnormal values.,2025-01-23
+2016,CT Scan,Results indicate high values.,2025-02-28
+2495,Blood Test,Results indicate high values.,2025-01-15
+523,Blood Test,Results indicate abnormal values.,2025-01-21
+650,MRI,Results indicate low values.,2025-02-01
+1082,X-Ray,Results indicate high values.,2025-02-19
+75,X-Ray,Results indicate high values.,2025-01-24
+1028,MRI,Results indicate low values.,2025-01-20
+2967,CT Scan,Results indicate low values.,2025-02-11
+468,Blood Test,Results indicate low values.,2025-03-07
+453,Blood Test,Results indicate abnormal values.,2025-01-17
+2589,X-Ray,Results indicate normal values.,2025-01-21
+245,Blood Test,Results indicate low values.,2025-02-15
+3454,X-Ray,Results indicate low values.,2025-03-13
+337,Blood Test,Results indicate abnormal values.,2025-03-10
+1356,CT Scan,Results indicate normal values.,2025-02-12
+3264,CT Scan,Results indicate high values.,2025-02-12
+2370,Blood Test,Results indicate abnormal values.,2025-01-06
+2896,X-Ray,Results indicate abnormal values.,2025-01-28
+710,Blood Test,Results indicate low values.,2025-02-02
+1477,X-Ray,Results indicate high values.,2025-01-02
+3453,Blood Test,Results indicate low values.,2025-01-09
+2558,X-Ray,Results indicate normal values.,2025-02-26
+28,MRI,Results indicate high values.,2025-03-12
+2164,MRI,Results indicate abnormal values.,2025-01-29
+33,X-Ray,Results indicate abnormal values.,2025-01-27
+3066,MRI,Results indicate normal values.,2025-02-23
+2822,Blood Test,Results indicate low values.,2025-01-16
+3351,CT Scan,Results indicate low values.,2025-03-05
+1283,Blood Test,Results indicate abnormal values.,2025-01-06
+1205,CT Scan,Results indicate normal values.,2025-01-19
+1297,Blood Test,Results indicate normal values.,2025-02-20
+1011,CT Scan,Results indicate low values.,2025-01-25
+3017,CT Scan,Results indicate normal values.,2025-01-16
+3324,X-Ray,Results indicate low values.,2025-02-23
+2164,Blood Test,Results indicate high values.,2025-01-19
+3120,CT Scan,Results indicate low values.,2025-01-23
+3337,Blood Test,Results indicate abnormal values.,2025-02-07
+3081,CT Scan,Results indicate low values.,2025-01-24
+1135,Blood Test,Results indicate low values.,2025-01-20
+1029,MRI,Results indicate normal values.,2025-02-12
+3223,CT Scan,Results indicate normal values.,2025-02-16
+2605,CT Scan,Results indicate high values.,2025-02-08
+2343,X-Ray,Results indicate abnormal values.,2025-03-04
+2749,MRI,Results indicate high values.,2025-03-03
+193,Blood Test,Results indicate normal values.,2025-02-21
+2539,CT Scan,Results indicate high values.,2025-02-05
+3101,Blood Test,Results indicate abnormal values.,2025-01-19
+2246,X-Ray,Results indicate normal values.,2025-01-01
+2475,Blood Test,Results indicate low values.,2025-01-04
+1821,MRI,Results indicate normal values.,2025-02-19
+2608,Blood Test,Results indicate low values.,2025-02-06
+181,MRI,Results indicate abnormal values.,2025-01-09
+2749,X-Ray,Results indicate low values.,2025-02-17
+1798,Blood Test,Results indicate low values.,2025-02-19
+46,MRI,Results indicate abnormal values.,2025-01-03
+487,CT Scan,Results indicate low values.,2025-02-18
+912,CT Scan,Results indicate high values.,2025-01-17
+2535,MRI,Results indicate high values.,2025-01-21
+1670,MRI,Results indicate low values.,2025-03-11
+319,MRI,Results indicate normal values.,2025-03-10
+2894,MRI,Results indicate high values.,2025-03-13
+3289,CT Scan,Results indicate normal values.,2025-03-02
+3068,X-Ray,Results indicate high values.,2025-02-07
+1005,Blood Test,Results indicate high values.,2025-01-27
+1182,CT Scan,Results indicate abnormal values.,2025-01-08
+1884,MRI,Results indicate normal values.,2025-02-08
+2645,MRI,Results indicate low values.,2025-01-13
+1783,MRI,Results indicate abnormal values.,2025-02-18
+1533,Blood Test,Results indicate low values.,2025-03-14
+1203,CT Scan,Results indicate low values.,2025-01-28
+3210,MRI,Results indicate high values.,2025-02-11
+112,CT Scan,Results indicate low values.,2025-03-15
+2587,MRI,Results indicate high values.,2025-01-23
+2254,X-Ray,Results indicate high values.,2025-01-16
+2961,MRI,Results indicate high values.,2025-02-20
+3256,CT Scan,Results indicate low values.,2025-01-17
+1581,X-Ray,Results indicate abnormal values.,2025-01-19
+2630,X-Ray,Results indicate low values.,2025-02-15
+1868,Blood Test,Results indicate low values.,2025-03-05
+615,X-Ray,Results indicate low values.,2025-01-09
+1602,MRI,Results indicate low values.,2025-02-26
+2779,MRI,Results indicate normal values.,2025-01-04
+1353,Blood Test,Results indicate high values.,2025-01-15
+217,X-Ray,Results indicate low values.,2025-03-08
+2685,CT Scan,Results indicate low values.,2025-02-09
+1188,Blood Test,Results indicate normal values.,2025-01-18
+3242,X-Ray,Results indicate low values.,2025-02-01
+2904,Blood Test,Results indicate high values.,2025-01-21
+2911,X-Ray,Results indicate normal values.,2025-03-07
+3047,Blood Test,Results indicate abnormal values.,2025-02-05
+122,X-Ray,Results indicate normal values.,2025-03-01
+3181,MRI,Results indicate high values.,2025-01-14
+418,MRI,Results indicate abnormal values.,2025-02-21
+3450,MRI,Results indicate high values.,2025-02-09
+3265,X-Ray,Results indicate low values.,2025-03-15
+2186,CT Scan,Results indicate normal values.,2025-01-08
+2812,CT Scan,Results indicate low values.,2025-01-29
+2633,CT Scan,Results indicate abnormal values.,2025-01-28
+792,Blood Test,Results indicate low values.,2025-02-27
+824,MRI,Results indicate low values.,2025-02-03
+2471,MRI,Results indicate abnormal values.,2025-01-14
+2615,Blood Test,Results indicate abnormal values.,2025-01-05
+2992,X-Ray,Results indicate abnormal values.,2025-03-15
+833,X-Ray,Results indicate high values.,2025-01-26
+376,X-Ray,Results indicate high values.,2025-03-09
+1086,CT Scan,Results indicate high values.,2025-03-07
+2685,MRI,Results indicate abnormal values.,2025-01-15
+1064,Blood Test,Results indicate abnormal values.,2025-02-18
+3442,X-Ray,Results indicate high values.,2025-02-11
+1726,MRI,Results indicate high values.,2025-01-18
+2586,CT Scan,Results indicate low values.,2025-01-08
+405,CT Scan,Results indicate low values.,2025-01-27
+3382,MRI,Results indicate high values.,2025-02-15
+856,MRI,Results indicate normal values.,2025-02-19
+1947,X-Ray,Results indicate normal values.,2025-02-22
+3006,Blood Test,Results indicate abnormal values.,2025-02-01
+3037,CT Scan,Results indicate abnormal values.,2025-02-26
+2242,X-Ray,Results indicate low values.,2025-02-28
+3439,X-Ray,Results indicate low values.,2025-03-15
+1617,Blood Test,Results indicate low values.,2025-01-07
+383,CT Scan,Results indicate normal values.,2025-01-14
+854,CT Scan,Results indicate normal values.,2025-02-04
+658,X-Ray,Results indicate high values.,2025-03-07
+2161,X-Ray,Results indicate low values.,2025-03-08
+1924,CT Scan,Results indicate normal values.,2025-02-24
+2510,X-Ray,Results indicate abnormal values.,2025-01-12
+2538,MRI,Results indicate high values.,2025-03-15
+763,MRI,Results indicate low values.,2025-03-14
+2330,Blood Test,Results indicate high values.,2025-03-08
+2555,MRI,Results indicate abnormal values.,2025-01-07
+1729,CT Scan,Results indicate normal values.,2025-01-22
+1193,CT Scan,Results indicate low values.,2025-02-20
+3332,X-Ray,Results indicate low values.,2025-02-03
+2514,MRI,Results indicate low values.,2025-02-04
+1430,Blood Test,Results indicate high values.,2025-02-21
+1695,MRI,Results indicate high values.,2025-02-15
+1426,Blood Test,Results indicate high values.,2025-03-10
+277,CT Scan,Results indicate high values.,2025-01-06
+3429,Blood Test,Results indicate normal values.,2025-01-28
+3155,Blood Test,Results indicate abnormal values.,2025-01-11
+1104,CT Scan,Results indicate low values.,2025-02-25
+770,X-Ray,Results indicate high values.,2025-01-15
+798,Blood Test,Results indicate abnormal values.,2025-03-15
+1974,CT Scan,Results indicate low values.,2025-01-29
+2779,Blood Test,Results indicate low values.,2025-02-22
+1247,X-Ray,Results indicate normal values.,2025-03-01
+2948,Blood Test,Results indicate normal values.,2025-02-16
+2444,Blood Test,Results indicate abnormal values.,2025-02-10
+3402,CT Scan,Results indicate normal values.,2025-03-14
+548,X-Ray,Results indicate abnormal values.,2025-02-19
+2238,CT Scan,Results indicate abnormal values.,2025-02-18
+1537,MRI,Results indicate normal values.,2025-02-20
+2108,X-Ray,Results indicate high values.,2025-02-18
+2803,MRI,Results indicate low values.,2025-02-05
+2515,Blood Test,Results indicate high values.,2025-01-26
+3355,Blood Test,Results indicate normal values.,2025-01-05
+2172,Blood Test,Results indicate abnormal values.,2025-01-05
+1471,CT Scan,Results indicate abnormal values.,2025-02-01
+1797,CT Scan,Results indicate high values.,2025-03-15
+1506,MRI,Results indicate low values.,2025-02-03
+679,Blood Test,Results indicate high values.,2025-01-29
+2893,X-Ray,Results indicate low values.,2025-02-07
+518,X-Ray,Results indicate high values.,2025-03-14
+1708,CT Scan,Results indicate normal values.,2025-02-23
+539,Blood Test,Results indicate high values.,2025-03-01
+37,CT Scan,Results indicate low values.,2025-03-02
+1226,CT Scan,Results indicate normal values.,2025-01-17
+354,MRI,Results indicate low values.,2025-01-29
+1076,MRI,Results indicate normal values.,2025-01-29
+1338,X-Ray,Results indicate normal values.,2025-02-03
+815,CT Scan,Results indicate high values.,2025-03-06
+1612,MRI,Results indicate normal values.,2025-01-30
+1137,CT Scan,Results indicate abnormal values.,2025-01-26
+1189,MRI,Results indicate low values.,2025-01-23
+2320,Blood Test,Results indicate normal values.,2025-01-24
+2922,CT Scan,Results indicate high values.,2025-02-05
+2321,X-Ray,Results indicate low values.,2025-02-28
+926,MRI,Results indicate normal values.,2025-01-23
+295,Blood Test,Results indicate abnormal values.,2025-02-28
+613,CT Scan,Results indicate low values.,2025-02-27
+1817,X-Ray,Results indicate normal values.,2025-02-12
+818,X-Ray,Results indicate low values.,2025-02-24
+1554,X-Ray,Results indicate low values.,2025-03-03
+1673,X-Ray,Results indicate low values.,2025-02-03
+3122,Blood Test,Results indicate low values.,2025-01-04
+2026,Blood Test,Results indicate normal values.,2025-02-26
+1719,X-Ray,Results indicate normal values.,2025-03-02
+1684,CT Scan,Results indicate low values.,2025-01-16
+776,Blood Test,Results indicate abnormal values.,2025-02-24
+3057,X-Ray,Results indicate normal values.,2025-02-23
+938,MRI,Results indicate low values.,2025-02-08
+361,MRI,Results indicate high values.,2025-01-11
+726,MRI,Results indicate high values.,2025-02-18
+1591,X-Ray,Results indicate normal values.,2025-01-21
+2679,Blood Test,Results indicate normal values.,2025-02-20
+2476,X-Ray,Results indicate abnormal values.,2025-02-26
+8,Blood Test,Results indicate normal values.,2025-01-21
+1821,MRI,Results indicate high values.,2025-02-13
+2959,CT Scan,Results indicate normal values.,2025-02-20
+454,MRI,Results indicate low values.,2025-02-01
+3373,Blood Test,Results indicate high values.,2025-01-13
+1204,X-Ray,Results indicate high values.,2025-03-01
+3130,CT Scan,Results indicate low values.,2025-02-28
+522,MRI,Results indicate low values.,2025-02-03
+1194,MRI,Results indicate normal values.,2025-02-24
+761,CT Scan,Results indicate normal values.,2025-01-10
+3063,Blood Test,Results indicate normal values.,2025-01-18
+668,MRI,Results indicate abnormal values.,2025-03-01
+2919,X-Ray,Results indicate low values.,2025-03-10
+2633,CT Scan,Results indicate high values.,2025-02-23
+3150,CT Scan,Results indicate low values.,2025-02-04
+2359,CT Scan,Results indicate high values.,2025-02-05
+1496,X-Ray,Results indicate low values.,2025-02-03
+1726,CT Scan,Results indicate high values.,2025-01-12
+395,Blood Test,Results indicate low values.,2025-01-20
+2742,MRI,Results indicate normal values.,2025-02-21
+2173,MRI,Results indicate normal values.,2025-02-21
+1405,MRI,Results indicate high values.,2025-02-04
+1725,CT Scan,Results indicate normal values.,2025-02-17
+550,MRI,Results indicate normal values.,2025-03-12
+1422,X-Ray,Results indicate high values.,2025-03-06
+3045,MRI,Results indicate high values.,2025-02-01
+1197,Blood Test,Results indicate abnormal values.,2025-02-25
+3476,X-Ray,Results indicate abnormal values.,2025-02-21
+2314,MRI,Results indicate low values.,2025-01-09
+3130,CT Scan,Results indicate high values.,2025-03-02
+2233,X-Ray,Results indicate abnormal values.,2025-02-07
+3066,X-Ray,Results indicate abnormal values.,2025-01-10
+502,X-Ray,Results indicate high values.,2025-02-24
+1354,CT Scan,Results indicate high values.,2025-01-13
+783,Blood Test,Results indicate low values.,2025-02-24
+2851,MRI,Results indicate low values.,2025-01-11
+232,X-Ray,Results indicate low values.,2025-01-02
+2196,MRI,Results indicate low values.,2025-01-15
+2772,MRI,Results indicate low values.,2025-01-31
+2914,MRI,Results indicate high values.,2025-03-13
+2645,MRI,Results indicate high values.,2025-02-10
+2972,MRI,Results indicate low values.,2025-02-21
+2732,MRI,Results indicate abnormal values.,2025-01-03
+2771,MRI,Results indicate low values.,2025-01-14
+2529,X-Ray,Results indicate normal values.,2025-03-06
+1386,MRI,Results indicate high values.,2025-01-24
+1384,Blood Test,Results indicate normal values.,2025-01-28
+1548,CT Scan,Results indicate normal values.,2025-02-03
+689,Blood Test,Results indicate normal values.,2025-02-21
+130,CT Scan,Results indicate low values.,2025-02-11
+2394,CT Scan,Results indicate high values.,2025-02-08
+211,Blood Test,Results indicate abnormal values.,2025-02-18
+2824,X-Ray,Results indicate low values.,2025-01-23
+174,Blood Test,Results indicate normal values.,2025-01-18
+1380,Blood Test,Results indicate normal values.,2025-02-17
+3115,X-Ray,Results indicate low values.,2025-02-08
+2845,CT Scan,Results indicate abnormal values.,2025-02-23
+336,Blood Test,Results indicate abnormal values.,2025-02-07
+1909,Blood Test,Results indicate abnormal values.,2025-01-23
+3455,MRI,Results indicate abnormal values.,2025-01-18
+2589,X-Ray,Results indicate normal values.,2025-01-26
+2308,Blood Test,Results indicate abnormal values.,2025-03-13
+2371,CT Scan,Results indicate normal values.,2025-03-02
+2036,Blood Test,Results indicate high values.,2025-01-15
+772,CT Scan,Results indicate abnormal values.,2025-03-06
+2560,CT Scan,Results indicate abnormal values.,2025-03-11
+162,X-Ray,Results indicate low values.,2025-01-08
+2115,X-Ray,Results indicate abnormal values.,2025-01-22
+631,CT Scan,Results indicate high values.,2025-02-22
+3114,CT Scan,Results indicate abnormal values.,2025-02-01
+29,X-Ray,Results indicate abnormal values.,2025-02-04
+524,MRI,Results indicate abnormal values.,2025-01-20
+2391,Blood Test,Results indicate normal values.,2025-01-18
+2217,Blood Test,Results indicate high values.,2025-01-25
+2435,CT Scan,Results indicate abnormal values.,2025-02-01
+1158,Blood Test,Results indicate normal values.,2025-01-14
+3047,X-Ray,Results indicate high values.,2025-02-12
+1145,X-Ray,Results indicate abnormal values.,2025-03-12
+23,MRI,Results indicate normal values.,2025-02-19
+476,CT Scan,Results indicate normal values.,2025-01-23
+2668,MRI,Results indicate low values.,2025-02-18
+2408,MRI,Results indicate abnormal values.,2025-01-09
+245,Blood Test,Results indicate abnormal values.,2025-02-02
+1110,Blood Test,Results indicate low values.,2025-02-04
+624,Blood Test,Results indicate low values.,2025-01-17
+1318,CT Scan,Results indicate high values.,2025-01-09
+292,CT Scan,Results indicate abnormal values.,2025-01-23
+584,CT Scan,Results indicate high values.,2025-01-10
+1983,Blood Test,Results indicate low values.,2025-01-30
+1739,X-Ray,Results indicate low values.,2025-01-26
+215,CT Scan,Results indicate normal values.,2025-01-08
+2737,Blood Test,Results indicate abnormal values.,2025-02-14
+1898,MRI,Results indicate abnormal values.,2025-01-21
+2898,Blood Test,Results indicate abnormal values.,2025-01-12
+768,X-Ray,Results indicate normal values.,2025-02-14
+2409,MRI,Results indicate low values.,2025-03-14
+1634,X-Ray,Results indicate normal values.,2025-01-09
+1117,MRI,Results indicate normal values.,2025-03-10
+1556,Blood Test,Results indicate high values.,2025-01-10
+2382,Blood Test,Results indicate high values.,2025-03-01
+1002,Blood Test,Results indicate abnormal values.,2025-02-05
+3500,MRI,Results indicate high values.,2025-01-17
+1274,Blood Test,Results indicate normal values.,2025-03-05
+667,CT Scan,Results indicate low values.,2025-01-19
+1462,Blood Test,Results indicate low values.,2025-03-08
+1319,MRI,Results indicate low values.,2025-03-01
+2110,MRI,Results indicate high values.,2025-01-20
+698,Blood Test,Results indicate abnormal values.,2025-02-28
+1977,CT Scan,Results indicate low values.,2025-01-28
+2196,MRI,Results indicate high values.,2025-01-06
+2567,MRI,Results indicate abnormal values.,2025-02-19
+2562,CT Scan,Results indicate abnormal values.,2025-03-07
+765,Blood Test,Results indicate low values.,2025-02-09
+2242,MRI,Results indicate abnormal values.,2025-03-04
+765,CT Scan,Results indicate low values.,2025-01-11
+537,MRI,Results indicate abnormal values.,2025-01-31
+1807,MRI,Results indicate low values.,2025-01-08
+2802,X-Ray,Results indicate abnormal values.,2025-02-02
+519,X-Ray,Results indicate normal values.,2025-01-09
+1624,X-Ray,Results indicate abnormal values.,2025-01-11
+982,X-Ray,Results indicate high values.,2025-01-05
+1565,CT Scan,Results indicate high values.,2025-01-30
+3353,CT Scan,Results indicate low values.,2025-01-12
+797,X-Ray,Results indicate low values.,2025-02-11
+1688,MRI,Results indicate low values.,2025-03-12
+2483,MRI,Results indicate low values.,2025-01-08
+790,X-Ray,Results indicate low values.,2025-01-04
+3252,X-Ray,Results indicate high values.,2025-03-14
+91,X-Ray,Results indicate low values.,2025-01-23
+1557,Blood Test,Results indicate normal values.,2025-01-27
+820,CT Scan,Results indicate normal values.,2025-02-08
+3474,MRI,Results indicate high values.,2025-01-09
+2187,X-Ray,Results indicate normal values.,2025-02-22
+208,MRI,Results indicate low values.,2025-01-15
+1894,Blood Test,Results indicate low values.,2025-01-22
+3399,Blood Test,Results indicate abnormal values.,2025-02-22
+1990,MRI,Results indicate low values.,2025-03-14
+2905,X-Ray,Results indicate high values.,2025-02-11
+2141,MRI,Results indicate low values.,2025-02-18
+850,CT Scan,Results indicate high values.,2025-01-01
+1903,X-Ray,Results indicate low values.,2025-01-07
+2011,X-Ray,Results indicate abnormal values.,2025-01-12
+1911,CT Scan,Results indicate low values.,2025-03-07
+3324,CT Scan,Results indicate low values.,2025-02-10
+803,CT Scan,Results indicate normal values.,2025-01-01
+119,CT Scan,Results indicate low values.,2025-02-10
+3445,CT Scan,Results indicate abnormal values.,2025-02-09
+479,Blood Test,Results indicate normal values.,2025-01-01
+2450,X-Ray,Results indicate normal values.,2025-03-04
+2979,Blood Test,Results indicate normal values.,2025-01-13
+1023,CT Scan,Results indicate low values.,2025-01-27
+302,Blood Test,Results indicate low values.,2025-02-18
+613,X-Ray,Results indicate low values.,2025-02-19
+2645,Blood Test,Results indicate low values.,2025-03-11
+1792,MRI,Results indicate abnormal values.,2025-01-14
+1491,X-Ray,Results indicate low values.,2025-01-02
+3064,X-Ray,Results indicate normal values.,2025-03-10
+76,X-Ray,Results indicate low values.,2025-03-10
+145,Blood Test,Results indicate normal values.,2025-02-02
+3443,Blood Test,Results indicate high values.,2025-02-26
+70,Blood Test,Results indicate abnormal values.,2025-02-14
+2511,CT Scan,Results indicate high values.,2025-01-19
+2169,MRI,Results indicate normal values.,2025-02-18
+708,X-Ray,Results indicate normal values.,2025-01-25
+2862,X-Ray,Results indicate high values.,2025-01-27
+107,Blood Test,Results indicate normal values.,2025-01-10
+842,X-Ray,Results indicate low values.,2025-02-27
+2281,Blood Test,Results indicate normal values.,2025-01-15
+1213,X-Ray,Results indicate high values.,2025-02-27
+1978,X-Ray,Results indicate low values.,2025-02-10
+2632,CT Scan,Results indicate low values.,2025-01-11
+2630,Blood Test,Results indicate low values.,2025-01-10
+787,MRI,Results indicate abnormal values.,2025-02-17
+540,Blood Test,Results indicate abnormal values.,2025-02-22
+1049,Blood Test,Results indicate abnormal values.,2025-02-23
+598,MRI,Results indicate abnormal values.,2025-02-28
+1150,Blood Test,Results indicate abnormal values.,2025-01-30
+715,CT Scan,Results indicate normal values.,2025-01-04
+1804,X-Ray,Results indicate abnormal values.,2025-01-01
+1553,MRI,Results indicate low values.,2025-02-06
+655,Blood Test,Results indicate high values.,2025-01-20
+1035,CT Scan,Results indicate low values.,2025-01-24
+1457,X-Ray,Results indicate abnormal values.,2025-01-02
+1916,Blood Test,Results indicate high values.,2025-02-03
+638,MRI,Results indicate normal values.,2025-01-10
+3112,Blood Test,Results indicate abnormal values.,2025-03-08
+1114,CT Scan,Results indicate low values.,2025-01-05
+2103,X-Ray,Results indicate abnormal values.,2025-01-16
+3038,X-Ray,Results indicate abnormal values.,2025-02-15
+264,Blood Test,Results indicate normal values.,2025-02-14
+1559,Blood Test,Results indicate abnormal values.,2025-03-07
+2833,X-Ray,Results indicate normal values.,2025-02-13
+701,X-Ray,Results indicate low values.,2025-02-22
+3396,Blood Test,Results indicate high values.,2025-01-05
+1584,X-Ray,Results indicate normal values.,2025-02-17
+3413,CT Scan,Results indicate high values.,2025-01-21
+3008,CT Scan,Results indicate low values.,2025-03-15
+2560,Blood Test,Results indicate abnormal values.,2025-02-14
+3304,Blood Test,Results indicate abnormal values.,2025-03-10
+1863,CT Scan,Results indicate abnormal values.,2025-02-05
+367,CT Scan,Results indicate abnormal values.,2025-01-15
+172,X-Ray,Results indicate low values.,2025-03-13
+1416,CT Scan,Results indicate low values.,2025-02-26
+1703,CT Scan,Results indicate low values.,2025-02-19
+157,Blood Test,Results indicate high values.,2025-02-03
+1879,X-Ray,Results indicate abnormal values.,2025-01-02
+1862,X-Ray,Results indicate high values.,2025-01-03
+2040,X-Ray,Results indicate high values.,2025-03-12
+1157,CT Scan,Results indicate low values.,2025-02-19
+1473,Blood Test,Results indicate normal values.,2025-01-04
+1758,MRI,Results indicate high values.,2025-02-06
+2100,Blood Test,Results indicate low values.,2025-02-08
+308,MRI,Results indicate low values.,2025-01-04
+530,Blood Test,Results indicate low values.,2025-02-10
+2357,X-Ray,Results indicate high values.,2025-01-21
+1074,Blood Test,Results indicate normal values.,2025-01-01
+13,Blood Test,Results indicate high values.,2025-03-15
+1573,X-Ray,Results indicate high values.,2025-03-05
+2605,MRI,Results indicate high values.,2025-01-09
+257,CT Scan,Results indicate high values.,2025-02-02
+881,Blood Test,Results indicate normal values.,2025-01-03
+41,CT Scan,Results indicate abnormal values.,2025-02-14
+1800,X-Ray,Results indicate abnormal values.,2025-02-15
+1136,Blood Test,Results indicate abnormal values.,2025-01-25
+535,CT Scan,Results indicate normal values.,2025-02-19
+2352,X-Ray,Results indicate low values.,2025-03-09
+323,CT Scan,Results indicate low values.,2025-01-31
+2952,X-Ray,Results indicate low values.,2025-03-04
+2600,CT Scan,Results indicate low values.,2025-01-22
+2565,CT Scan,Results indicate high values.,2025-02-09
+2265,CT Scan,Results indicate high values.,2025-01-22
+1836,Blood Test,Results indicate high values.,2025-03-11
+2723,CT Scan,Results indicate abnormal values.,2025-01-15
+2455,X-Ray,Results indicate low values.,2025-01-10
+389,Blood Test,Results indicate normal values.,2025-01-15
+158,CT Scan,Results indicate abnormal values.,2025-02-18
+475,CT Scan,Results indicate normal values.,2025-01-06
+1037,MRI,Results indicate abnormal values.,2025-01-11
+159,MRI,Results indicate low values.,2025-02-21
+1733,CT Scan,Results indicate normal values.,2025-01-15
+1775,Blood Test,Results indicate abnormal values.,2025-01-25
+476,X-Ray,Results indicate low values.,2025-01-03
+1265,CT Scan,Results indicate normal values.,2025-02-08
+2134,MRI,Results indicate normal values.,2025-01-02
+2074,X-Ray,Results indicate low values.,2025-03-14
+1125,CT Scan,Results indicate abnormal values.,2025-02-11
+2229,CT Scan,Results indicate high values.,2025-02-13
+3070,CT Scan,Results indicate normal values.,2025-03-10
+2460,CT Scan,Results indicate normal values.,2025-01-03
+833,X-Ray,Results indicate high values.,2025-02-17
+3274,Blood Test,Results indicate abnormal values.,2025-02-05
+2128,CT Scan,Results indicate high values.,2025-01-27
+146,X-Ray,Results indicate abnormal values.,2025-02-28
+614,MRI,Results indicate high values.,2025-02-18
+2120,CT Scan,Results indicate normal values.,2025-03-04
+694,Blood Test,Results indicate low values.,2025-01-17
+1398,MRI,Results indicate low values.,2025-02-21
+1364,MRI,Results indicate high values.,2025-01-19
+3366,Blood Test,Results indicate high values.,2025-03-12
+81,Blood Test,Results indicate low values.,2025-02-13
+2742,MRI,Results indicate normal values.,2025-03-15
+1547,X-Ray,Results indicate abnormal values.,2025-01-31
+3123,MRI,Results indicate abnormal values.,2025-02-09
+904,X-Ray,Results indicate abnormal values.,2025-02-08
+1695,Blood Test,Results indicate high values.,2025-01-17
+2542,MRI,Results indicate abnormal values.,2025-03-04
+2658,X-Ray,Results indicate low values.,2025-01-23
+3281,Blood Test,Results indicate abnormal values.,2025-02-12
+1313,X-Ray,Results indicate abnormal values.,2025-01-19
+1498,Blood Test,Results indicate normal values.,2025-03-10
+1970,Blood Test,Results indicate high values.,2025-01-21
+551,MRI,Results indicate high values.,2025-03-05
+3202,MRI,Results indicate normal values.,2025-03-14
+2179,X-Ray,Results indicate abnormal values.,2025-01-05
+1843,MRI,Results indicate high values.,2025-02-08
+2610,CT Scan,Results indicate normal values.,2025-01-09
+1563,X-Ray,Results indicate normal values.,2025-03-04
+2169,MRI,Results indicate abnormal values.,2025-02-18
+2491,CT Scan,Results indicate normal values.,2025-02-20
+3357,MRI,Results indicate high values.,2025-02-12
+2061,Blood Test,Results indicate normal values.,2025-01-20
+3224,MRI,Results indicate abnormal values.,2025-01-04
+1385,MRI,Results indicate high values.,2025-02-04
+1483,X-Ray,Results indicate high values.,2025-01-28
+1203,X-Ray,Results indicate normal values.,2025-03-03
+2401,X-Ray,Results indicate normal values.,2025-02-22
+3315,X-Ray,Results indicate low values.,2025-01-17
+1402,MRI,Results indicate abnormal values.,2025-02-18
+2197,Blood Test,Results indicate high values.,2025-02-09
+2254,X-Ray,Results indicate normal values.,2025-03-06
+1713,X-Ray,Results indicate abnormal values.,2025-01-01
+1107,MRI,Results indicate high values.,2025-03-14
+3347,CT Scan,Results indicate low values.,2025-02-08
+533,MRI,Results indicate high values.,2025-03-02
+2212,X-Ray,Results indicate abnormal values.,2025-02-05
+28,Blood Test,Results indicate low values.,2025-03-06
+2144,X-Ray,Results indicate low values.,2025-03-15
+1043,MRI,Results indicate high values.,2025-01-27
+1444,CT Scan,Results indicate low values.,2025-01-09
+383,X-Ray,Results indicate high values.,2025-01-18
+7,MRI,Results indicate low values.,2025-02-24
+2715,MRI,Results indicate high values.,2025-01-03
+734,Blood Test,Results indicate normal values.,2025-01-07
+2092,MRI,Results indicate abnormal values.,2025-01-04
+76,Blood Test,Results indicate low values.,2025-01-17
+3324,Blood Test,Results indicate abnormal values.,2025-01-15
+1090,MRI,Results indicate normal values.,2025-02-10
+132,Blood Test,Results indicate high values.,2025-02-01
+473,CT Scan,Results indicate normal values.,2025-01-23
+826,X-Ray,Results indicate high values.,2025-02-06
+2292,X-Ray,Results indicate high values.,2025-02-06
+427,MRI,Results indicate abnormal values.,2025-02-07
+1636,X-Ray,Results indicate low values.,2025-01-03
+1814,CT Scan,Results indicate high values.,2025-01-23
+519,Blood Test,Results indicate low values.,2025-01-24
+729,MRI,Results indicate high values.,2025-01-02
+2197,MRI,Results indicate abnormal values.,2025-01-05
+2154,MRI,Results indicate abnormal values.,2025-02-12
+380,MRI,Results indicate normal values.,2025-02-22
+976,CT Scan,Results indicate high values.,2025-01-22
+3362,CT Scan,Results indicate high values.,2025-02-28
+325,Blood Test,Results indicate normal values.,2025-03-03
+2433,Blood Test,Results indicate high values.,2025-03-09
+2524,Blood Test,Results indicate normal values.,2025-03-10
+1348,X-Ray,Results indicate high values.,2025-01-11
+2626,X-Ray,Results indicate low values.,2025-01-24
+227,Blood Test,Results indicate high values.,2025-02-13
+2186,MRI,Results indicate abnormal values.,2025-02-04
+3206,MRI,Results indicate normal values.,2025-02-12
+168,CT Scan,Results indicate abnormal values.,2025-01-30
+1071,Blood Test,Results indicate low values.,2025-03-05
+63,MRI,Results indicate normal values.,2025-02-14
+243,X-Ray,Results indicate normal values.,2025-01-22
+1297,CT Scan,Results indicate low values.,2025-02-22
+2919,X-Ray,Results indicate normal values.,2025-02-22
+3416,Blood Test,Results indicate high values.,2025-01-19
+1945,CT Scan,Results indicate high values.,2025-02-21
+782,Blood Test,Results indicate abnormal values.,2025-01-17
+2715,X-Ray,Results indicate abnormal values.,2025-01-05
+2393,X-Ray,Results indicate low values.,2025-01-07
+1065,CT Scan,Results indicate normal values.,2025-01-03
+190,X-Ray,Results indicate abnormal values.,2025-02-27
+2794,MRI,Results indicate normal values.,2025-01-09
+2035,MRI,Results indicate normal values.,2025-01-01
+732,CT Scan,Results indicate low values.,2025-01-06
+2240,CT Scan,Results indicate abnormal values.,2025-02-04
+1807,Blood Test,Results indicate normal values.,2025-01-30
+2273,X-Ray,Results indicate normal values.,2025-01-16
+521,Blood Test,Results indicate low values.,2025-03-05
+2226,X-Ray,Results indicate abnormal values.,2025-01-27
+1973,CT Scan,Results indicate abnormal values.,2025-01-06
+2390,Blood Test,Results indicate high values.,2025-03-02
+1650,MRI,Results indicate normal values.,2025-01-04
+307,X-Ray,Results indicate abnormal values.,2025-01-03
+3205,CT Scan,Results indicate abnormal values.,2025-02-21
+2425,MRI,Results indicate normal values.,2025-01-11
+3381,MRI,Results indicate high values.,2025-02-11
+2713,CT Scan,Results indicate low values.,2025-02-10
+1095,X-Ray,Results indicate high values.,2025-02-24
+47,MRI,Results indicate abnormal values.,2025-01-16
+787,CT Scan,Results indicate abnormal values.,2025-02-20
+3288,MRI,Results indicate normal values.,2025-02-08
+1347,Blood Test,Results indicate normal values.,2025-01-23
+1724,MRI,Results indicate high values.,2025-03-06
+2876,X-Ray,Results indicate high values.,2025-01-31
+1857,CT Scan,Results indicate low values.,2025-02-22
+1587,Blood Test,Results indicate abnormal values.,2025-02-10
+2397,CT Scan,Results indicate normal values.,2025-03-10
+529,X-Ray,Results indicate abnormal values.,2025-02-08
+2697,X-Ray,Results indicate normal values.,2025-01-19
+2016,MRI,Results indicate high values.,2025-01-23
+1834,X-Ray,Results indicate normal values.,2025-01-28
+467,MRI,Results indicate normal values.,2025-01-08
+994,Blood Test,Results indicate normal values.,2025-03-11
+139,CT Scan,Results indicate normal values.,2025-02-06
+760,MRI,Results indicate low values.,2025-01-05
+2452,CT Scan,Results indicate normal values.,2025-02-12
+1331,X-Ray,Results indicate low values.,2025-01-01
+1347,CT Scan,Results indicate high values.,2025-02-10
+327,X-Ray,Results indicate high values.,2025-02-20
+1612,CT Scan,Results indicate normal values.,2025-01-24
+1896,X-Ray,Results indicate low values.,2025-02-06
+2189,CT Scan,Results indicate normal values.,2025-01-29
+3090,CT Scan,Results indicate low values.,2025-03-05
+2289,Blood Test,Results indicate normal values.,2025-01-28
+892,Blood Test,Results indicate abnormal values.,2025-02-08
+2705,X-Ray,Results indicate low values.,2025-01-14
+499,CT Scan,Results indicate low values.,2025-02-13
+2861,Blood Test,Results indicate abnormal values.,2025-02-11
+436,Blood Test,Results indicate high values.,2025-02-22
+3378,Blood Test,Results indicate low values.,2025-02-16
+1285,X-Ray,Results indicate high values.,2025-01-17
+3012,MRI,Results indicate high values.,2025-03-15
+1981,X-Ray,Results indicate normal values.,2025-01-11
+1878,MRI,Results indicate high values.,2025-01-13
+3201,X-Ray,Results indicate low values.,2025-02-19
+3361,CT Scan,Results indicate high values.,2025-02-21
+2888,CT Scan,Results indicate low values.,2025-01-28
+1914,CT Scan,Results indicate high values.,2025-02-08
+1812,Blood Test,Results indicate low values.,2025-03-04
+871,MRI,Results indicate abnormal values.,2025-01-22
+759,X-Ray,Results indicate normal values.,2025-03-06
+2693,MRI,Results indicate abnormal values.,2025-01-15
+2416,MRI,Results indicate low values.,2025-02-21
+2962,Blood Test,Results indicate high values.,2025-02-22
+3349,MRI,Results indicate normal values.,2025-01-28
+2051,MRI,Results indicate abnormal values.,2025-02-22
+2645,Blood Test,Results indicate high values.,2025-01-13
+2363,MRI,Results indicate low values.,2025-02-23
+1032,MRI,Results indicate high values.,2025-03-05
+2925,CT Scan,Results indicate normal values.,2025-01-19
+40,CT Scan,Results indicate normal values.,2025-02-10
+2526,CT Scan,Results indicate normal values.,2025-01-17
+1676,Blood Test,Results indicate low values.,2025-02-26
+1997,X-Ray,Results indicate normal values.,2025-01-06
+2584,Blood Test,Results indicate normal values.,2025-01-31
+1482,X-Ray,Results indicate normal values.,2025-02-06
+2841,CT Scan,Results indicate abnormal values.,2025-02-27
+252,CT Scan,Results indicate abnormal values.,2025-03-05
+989,MRI,Results indicate abnormal values.,2025-01-07
+2857,CT Scan,Results indicate normal values.,2025-01-10
+1326,CT Scan,Results indicate abnormal values.,2025-02-10
+775,MRI,Results indicate high values.,2025-02-03
+160,X-Ray,Results indicate low values.,2025-01-12
+161,Blood Test,Results indicate low values.,2025-02-08
+2167,X-Ray,Results indicate high values.,2025-02-10
+1288,Blood Test,Results indicate abnormal values.,2025-02-28
+2675,X-Ray,Results indicate normal values.,2025-02-22
+1956,X-Ray,Results indicate normal values.,2025-01-22
+2536,CT Scan,Results indicate normal values.,2025-01-12
+1561,X-Ray,Results indicate low values.,2025-01-13
+1650,CT Scan,Results indicate low values.,2025-01-07
+1456,MRI,Results indicate low values.,2025-02-21
+444,CT Scan,Results indicate abnormal values.,2025-01-14
+695,CT Scan,Results indicate abnormal values.,2025-02-27
+399,CT Scan,Results indicate normal values.,2025-02-13
+2820,MRI,Results indicate high values.,2025-01-20
+2333,CT Scan,Results indicate high values.,2025-01-25
+315,CT Scan,Results indicate abnormal values.,2025-01-29
+60,MRI,Results indicate normal values.,2025-01-30
+1974,X-Ray,Results indicate normal values.,2025-02-04
+2131,CT Scan,Results indicate high values.,2025-02-22
+440,X-Ray,Results indicate normal values.,2025-02-02
+1819,CT Scan,Results indicate abnormal values.,2025-01-16
+2730,CT Scan,Results indicate high values.,2025-01-27
+1548,MRI,Results indicate abnormal values.,2025-01-22
+714,X-Ray,Results indicate abnormal values.,2025-02-15
+912,CT Scan,Results indicate low values.,2025-02-05
+454,X-Ray,Results indicate high values.,2025-03-08
+2811,CT Scan,Results indicate high values.,2025-03-01
+455,MRI,Results indicate low values.,2025-03-06
+3247,MRI,Results indicate high values.,2025-02-02
+2639,Blood Test,Results indicate high values.,2025-01-01
+2307,Blood Test,Results indicate abnormal values.,2025-02-02
+2395,Blood Test,Results indicate low values.,2025-03-03
+2039,X-Ray,Results indicate normal values.,2025-01-13
+1793,CT Scan,Results indicate abnormal values.,2025-01-31
+820,X-Ray,Results indicate high values.,2025-01-17
+1834,CT Scan,Results indicate abnormal values.,2025-01-21
+2210,MRI,Results indicate normal values.,2025-01-30
+936,CT Scan,Results indicate high values.,2025-03-06
+259,Blood Test,Results indicate high values.,2025-01-10
+2700,CT Scan,Results indicate high values.,2025-01-21
+2924,MRI,Results indicate normal values.,2025-01-24
+138,X-Ray,Results indicate high values.,2025-03-11
+2837,CT Scan,Results indicate low values.,2025-02-03
+1310,CT Scan,Results indicate abnormal values.,2025-02-03
+1613,MRI,Results indicate low values.,2025-02-02
+2683,CT Scan,Results indicate abnormal values.,2025-03-11
+2139,MRI,Results indicate abnormal values.,2025-03-06
+2494,MRI,Results indicate normal values.,2025-01-06
+2478,X-Ray,Results indicate abnormal values.,2025-03-09
+1812,CT Scan,Results indicate high values.,2025-03-07
+2167,CT Scan,Results indicate abnormal values.,2025-03-13
+3325,X-Ray,Results indicate high values.,2025-01-12
+1863,X-Ray,Results indicate normal values.,2025-02-03
+366,X-Ray,Results indicate normal values.,2025-02-08
+2985,CT Scan,Results indicate low values.,2025-01-18
+637,MRI,Results indicate normal values.,2025-01-03
+3207,X-Ray,Results indicate normal values.,2025-02-05
+1225,CT Scan,Results indicate normal values.,2025-01-21
+1740,CT Scan,Results indicate normal values.,2025-03-01
+13,X-Ray,Results indicate normal values.,2025-02-04
+316,X-Ray,Results indicate normal values.,2025-02-22
+1646,X-Ray,Results indicate high values.,2025-01-11
+1747,CT Scan,Results indicate abnormal values.,2025-01-25
+417,CT Scan,Results indicate high values.,2025-03-09
+1438,X-Ray,Results indicate abnormal values.,2025-01-08
+282,Blood Test,Results indicate abnormal values.,2025-01-10
+3098,MRI,Results indicate low values.,2025-02-28
+523,X-Ray,Results indicate low values.,2025-01-08
+362,MRI,Results indicate abnormal values.,2025-02-09
+86,X-Ray,Results indicate high values.,2025-02-12
+1903,Blood Test,Results indicate normal values.,2025-02-05
+1124,MRI,Results indicate abnormal values.,2025-03-05
+2670,CT Scan,Results indicate high values.,2025-01-31
+419,MRI,Results indicate low values.,2025-02-18
+898,Blood Test,Results indicate normal values.,2025-01-19
+2313,CT Scan,Results indicate abnormal values.,2025-02-16
+324,CT Scan,Results indicate abnormal values.,2025-03-05
+2665,CT Scan,Results indicate normal values.,2025-03-10
+3183,MRI,Results indicate abnormal values.,2025-01-20
+2167,MRI,Results indicate high values.,2025-02-19
+1627,Blood Test,Results indicate abnormal values.,2025-01-22
+1541,CT Scan,Results indicate normal values.,2025-02-16
+13,MRI,Results indicate normal values.,2025-02-16
+2862,CT Scan,Results indicate abnormal values.,2025-03-09
+319,MRI,Results indicate abnormal values.,2025-02-01
+1314,X-Ray,Results indicate normal values.,2025-02-10
+1508,Blood Test,Results indicate normal values.,2025-01-14
+2901,X-Ray,Results indicate abnormal values.,2025-01-22
+596,MRI,Results indicate low values.,2025-03-02
+319,CT Scan,Results indicate high values.,2025-03-10
+983,X-Ray,Results indicate abnormal values.,2025-02-27
+3435,X-Ray,Results indicate high values.,2025-01-21
+1287,CT Scan,Results indicate abnormal values.,2025-03-05
+864,X-Ray,Results indicate low values.,2025-02-22
+2808,X-Ray,Results indicate normal values.,2025-03-06
+1181,MRI,Results indicate abnormal values.,2025-03-08
+1626,MRI,Results indicate low values.,2025-02-11
+294,CT Scan,Results indicate normal values.,2025-02-04
+2476,MRI,Results indicate abnormal values.,2025-02-27
+2132,X-Ray,Results indicate low values.,2025-02-16
+758,X-Ray,Results indicate normal values.,2025-01-30
+3402,Blood Test,Results indicate low values.,2025-02-10
+865,Blood Test,Results indicate abnormal values.,2025-03-11
+2722,X-Ray,Results indicate abnormal values.,2025-03-15
+1586,CT Scan,Results indicate high values.,2025-02-10
+1198,CT Scan,Results indicate high values.,2025-02-11
+2081,X-Ray,Results indicate high values.,2025-01-05
+3069,Blood Test,Results indicate low values.,2025-02-23
+3008,Blood Test,Results indicate normal values.,2025-01-16
+1586,CT Scan,Results indicate abnormal values.,2025-03-12
+2427,X-Ray,Results indicate normal values.,2025-03-05
+256,Blood Test,Results indicate abnormal values.,2025-01-14
+1452,CT Scan,Results indicate high values.,2025-02-10
+2373,X-Ray,Results indicate abnormal values.,2025-02-19
+2633,Blood Test,Results indicate abnormal values.,2025-02-20
+2612,CT Scan,Results indicate low values.,2025-01-27
+1008,MRI,Results indicate abnormal values.,2025-02-06
+3091,X-Ray,Results indicate low values.,2025-02-01
+610,X-Ray,Results indicate low values.,2025-02-03
+1833,CT Scan,Results indicate high values.,2025-02-13
+2117,CT Scan,Results indicate low values.,2025-02-12
+28,X-Ray,Results indicate low values.,2025-01-08
+1834,X-Ray,Results indicate high values.,2025-01-31
+2675,Blood Test,Results indicate normal values.,2025-01-23
+1053,X-Ray,Results indicate high values.,2025-02-11
+1029,CT Scan,Results indicate low values.,2025-01-09
+1665,Blood Test,Results indicate high values.,2025-02-24
+675,CT Scan,Results indicate normal values.,2025-03-02
+1638,Blood Test,Results indicate high values.,2025-02-05
+2133,Blood Test,Results indicate high values.,2025-02-20
+1006,Blood Test,Results indicate low values.,2025-02-24
+2909,X-Ray,Results indicate high values.,2025-02-24
+593,CT Scan,Results indicate high values.,2025-03-08
+2181,MRI,Results indicate normal values.,2025-03-04
+2213,CT Scan,Results indicate high values.,2025-01-17
+119,CT Scan,Results indicate high values.,2025-01-07
+2589,CT Scan,Results indicate normal values.,2025-01-31
+1338,MRI,Results indicate normal values.,2025-01-25
+1719,X-Ray,Results indicate low values.,2025-01-07
+2815,CT Scan,Results indicate high values.,2025-01-22
+3064,Blood Test,Results indicate abnormal values.,2025-02-20
+2963,X-Ray,Results indicate low values.,2025-01-24
+1282,CT Scan,Results indicate high values.,2025-02-11
+1813,MRI,Results indicate high values.,2025-03-02
+2416,CT Scan,Results indicate normal values.,2025-02-25
+623,MRI,Results indicate normal values.,2025-02-19
+3146,CT Scan,Results indicate low values.,2025-01-09
+3344,X-Ray,Results indicate normal values.,2025-02-05
+1786,CT Scan,Results indicate abnormal values.,2025-02-26
+1486,CT Scan,Results indicate high values.,2025-02-16
+2208,X-Ray,Results indicate low values.,2025-03-14
+2089,Blood Test,Results indicate high values.,2025-03-04
+1253,MRI,Results indicate low values.,2025-01-15
+3012,Blood Test,Results indicate normal values.,2025-02-07
+1619,CT Scan,Results indicate high values.,2025-01-26
+1169,Blood Test,Results indicate normal values.,2025-01-15
+3208,CT Scan,Results indicate low values.,2025-01-14
+570,Blood Test,Results indicate low values.,2025-02-18
+1741,Blood Test,Results indicate high values.,2025-01-25
+1711,X-Ray,Results indicate normal values.,2025-02-09
+1411,CT Scan,Results indicate high values.,2025-03-09
+828,X-Ray,Results indicate abnormal values.,2025-02-02
+1107,CT Scan,Results indicate low values.,2025-02-19
+2842,X-Ray,Results indicate abnormal values.,2025-02-28
+300,X-Ray,Results indicate high values.,2025-01-11
+1368,MRI,Results indicate high values.,2025-01-21
+1383,X-Ray,Results indicate low values.,2025-02-14
+992,MRI,Results indicate high values.,2025-01-20
+473,X-Ray,Results indicate abnormal values.,2025-01-21
+588,MRI,Results indicate high values.,2025-01-25
+2286,MRI,Results indicate low values.,2025-02-13
+3030,Blood Test,Results indicate normal values.,2025-03-07
+3088,Blood Test,Results indicate normal values.,2025-03-05
+3096,CT Scan,Results indicate high values.,2025-02-12
+3452,MRI,Results indicate normal values.,2025-01-17
+633,X-Ray,Results indicate abnormal values.,2025-02-27
+2961,MRI,Results indicate abnormal values.,2025-02-08
+2526,MRI,Results indicate abnormal values.,2025-02-10
+49,CT Scan,Results indicate normal values.,2025-03-06
+1265,Blood Test,Results indicate abnormal values.,2025-02-21
+2120,MRI,Results indicate low values.,2025-03-15
+224,MRI,Results indicate abnormal values.,2025-02-28
+471,MRI,Results indicate low values.,2025-03-12
+64,MRI,Results indicate low values.,2025-01-01
+2385,X-Ray,Results indicate normal values.,2025-01-18
+2367,Blood Test,Results indicate normal values.,2025-02-05
+2387,Blood Test,Results indicate normal values.,2025-01-02
+3481,CT Scan,Results indicate normal values.,2025-01-30
+1582,MRI,Results indicate high values.,2025-01-19
+1812,MRI,Results indicate normal values.,2025-01-14
+1725,X-Ray,Results indicate high values.,2025-01-06
+2915,X-Ray,Results indicate abnormal values.,2025-02-17
+2194,CT Scan,Results indicate abnormal values.,2025-01-05
+3365,X-Ray,Results indicate abnormal values.,2025-03-08
+730,MRI,Results indicate high values.,2025-03-06
+1225,MRI,Results indicate low values.,2025-01-04
+2723,Blood Test,Results indicate low values.,2025-02-03
+2515,MRI,Results indicate high values.,2025-01-25
+1528,Blood Test,Results indicate high values.,2025-02-28
+60,Blood Test,Results indicate normal values.,2025-02-14
+2865,Blood Test,Results indicate abnormal values.,2025-03-03
+247,Blood Test,Results indicate normal values.,2025-01-15
+3310,MRI,Results indicate high values.,2025-03-01
+3160,MRI,Results indicate normal values.,2025-01-19
+2961,X-Ray,Results indicate abnormal values.,2025-01-18
+3157,MRI,Results indicate abnormal values.,2025-02-10
+845,X-Ray,Results indicate abnormal values.,2025-02-11
+1089,X-Ray,Results indicate high values.,2025-03-11
+504,Blood Test,Results indicate high values.,2025-01-29
+2835,CT Scan,Results indicate high values.,2025-01-31
+1695,CT Scan,Results indicate abnormal values.,2025-02-24
+1503,MRI,Results indicate high values.,2025-03-12
+2131,Blood Test,Results indicate high values.,2025-03-11
+1750,CT Scan,Results indicate high values.,2025-01-22
+1198,CT Scan,Results indicate low values.,2025-02-10
+3152,MRI,Results indicate high values.,2025-02-07
+1376,CT Scan,Results indicate low values.,2025-01-25
+126,CT Scan,Results indicate low values.,2025-02-16
+2053,X-Ray,Results indicate high values.,2025-01-29
+3029,MRI,Results indicate high values.,2025-02-17
+1013,X-Ray,Results indicate normal values.,2025-01-15
+1938,Blood Test,Results indicate low values.,2025-01-09
+130,MRI,Results indicate normal values.,2025-02-18
+2586,CT Scan,Results indicate abnormal values.,2025-02-19
+3281,CT Scan,Results indicate abnormal values.,2025-01-09
+1761,MRI,Results indicate high values.,2025-03-04
+1009,CT Scan,Results indicate abnormal values.,2025-02-06
+330,MRI,Results indicate low values.,2025-03-02
+1281,CT Scan,Results indicate high values.,2025-01-20
+436,Blood Test,Results indicate normal values.,2025-02-16
+1577,CT Scan,Results indicate abnormal values.,2025-02-09
+3324,X-Ray,Results indicate low values.,2025-02-20
+1764,MRI,Results indicate low values.,2025-02-03
+724,Blood Test,Results indicate abnormal values.,2025-02-07
+1201,X-Ray,Results indicate abnormal values.,2025-02-07
+2927,X-Ray,Results indicate abnormal values.,2025-02-25
+1148,CT Scan,Results indicate normal values.,2025-01-22
+2872,CT Scan,Results indicate low values.,2025-02-22
+2825,X-Ray,Results indicate abnormal values.,2025-01-11
+1508,Blood Test,Results indicate high values.,2025-01-23
+1730,CT Scan,Results indicate abnormal values.,2025-03-03
+2826,X-Ray,Results indicate low values.,2025-03-12
+9,Blood Test,Results indicate high values.,2025-01-20
+281,MRI,Results indicate high values.,2025-03-10
+2835,CT Scan,Results indicate low values.,2025-01-19
+1647,CT Scan,Results indicate normal values.,2025-01-24
+1312,Blood Test,Results indicate abnormal values.,2025-01-12
+1335,MRI,Results indicate high values.,2025-01-31
+463,CT Scan,Results indicate normal values.,2025-01-16
+1320,CT Scan,Results indicate abnormal values.,2025-02-04
+1887,X-Ray,Results indicate abnormal values.,2025-03-10
+2430,CT Scan,Results indicate abnormal values.,2025-01-01
+1252,Blood Test,Results indicate low values.,2025-01-22
+16,X-Ray,Results indicate normal values.,2025-01-01
+1607,MRI,Results indicate high values.,2025-02-08
+1042,CT Scan,Results indicate low values.,2025-01-10
+1178,CT Scan,Results indicate low values.,2025-01-08
+2284,Blood Test,Results indicate high values.,2025-02-25
+552,MRI,Results indicate normal values.,2025-02-20
+1161,CT Scan,Results indicate normal values.,2025-02-04
+3053,X-Ray,Results indicate low values.,2025-02-28
+894,X-Ray,Results indicate low values.,2025-02-16
+650,MRI,Results indicate abnormal values.,2025-03-06
+860,Blood Test,Results indicate abnormal values.,2025-03-03
+2152,CT Scan,Results indicate low values.,2025-01-04
+2105,Blood Test,Results indicate abnormal values.,2025-02-18
+651,CT Scan,Results indicate abnormal values.,2025-02-14
+1537,X-Ray,Results indicate normal values.,2025-01-11
+1860,CT Scan,Results indicate low values.,2025-01-04
+1210,X-Ray,Results indicate normal values.,2025-03-13
+1055,MRI,Results indicate abnormal values.,2025-01-11
+2321,CT Scan,Results indicate normal values.,2025-01-04
+1480,MRI,Results indicate low values.,2025-02-13
+543,X-Ray,Results indicate low values.,2025-01-24
+51,MRI,Results indicate abnormal values.,2025-02-17
+849,MRI,Results indicate abnormal values.,2025-03-04
+1758,Blood Test,Results indicate high values.,2025-02-11
+2575,CT Scan,Results indicate abnormal values.,2025-01-30
+1906,MRI,Results indicate high values.,2025-02-24
+1205,Blood Test,Results indicate abnormal values.,2025-02-13
+2161,Blood Test,Results indicate high values.,2025-02-22
+1219,MRI,Results indicate high values.,2025-01-10
+298,Blood Test,Results indicate normal values.,2025-01-02
+3415,MRI,Results indicate abnormal values.,2025-03-04
+2881,X-Ray,Results indicate normal values.,2025-03-08
+3127,X-Ray,Results indicate low values.,2025-01-26
+1429,Blood Test,Results indicate abnormal values.,2025-02-04
+2016,X-Ray,Results indicate high values.,2025-03-13
+2524,MRI,Results indicate low values.,2025-02-26
+2309,MRI,Results indicate low values.,2025-02-13
+3302,CT Scan,Results indicate abnormal values.,2025-02-25
+2039,MRI,Results indicate low values.,2025-01-24
+433,Blood Test,Results indicate high values.,2025-03-01
+1395,X-Ray,Results indicate low values.,2025-01-29
+752,Blood Test,Results indicate low values.,2025-03-01
+383,CT Scan,Results indicate abnormal values.,2025-03-13
+3333,Blood Test,Results indicate abnormal values.,2025-02-20
+3399,MRI,Results indicate high values.,2025-01-25
+1552,Blood Test,Results indicate normal values.,2025-02-01
+1027,CT Scan,Results indicate low values.,2025-02-16
+1374,CT Scan,Results indicate high values.,2025-02-02
+1708,X-Ray,Results indicate low values.,2025-02-03
+2347,X-Ray,Results indicate normal values.,2025-01-17
+2499,Blood Test,Results indicate high values.,2025-01-18
+360,CT Scan,Results indicate normal values.,2025-02-24
+1722,CT Scan,Results indicate normal values.,2025-03-02
+961,X-Ray,Results indicate abnormal values.,2025-01-24
+1197,MRI,Results indicate normal values.,2025-03-05
+3081,CT Scan,Results indicate normal values.,2025-01-29
+2425,MRI,Results indicate low values.,2025-03-13
+2941,CT Scan,Results indicate high values.,2025-02-12
+718,Blood Test,Results indicate high values.,2025-03-12
+2128,MRI,Results indicate abnormal values.,2025-01-22
+2657,Blood Test,Results indicate normal values.,2025-02-09
+2413,Blood Test,Results indicate high values.,2025-02-20
+182,X-Ray,Results indicate abnormal values.,2025-02-13
+2543,X-Ray,Results indicate abnormal values.,2025-02-12
+461,X-Ray,Results indicate high values.,2025-01-19
+1807,Blood Test,Results indicate low values.,2025-03-12
+2309,CT Scan,Results indicate abnormal values.,2025-02-21
+630,X-Ray,Results indicate high values.,2025-01-13
+227,X-Ray,Results indicate normal values.,2025-01-26
+754,MRI,Results indicate low values.,2025-01-15
+466,Blood Test,Results indicate abnormal values.,2025-01-20
+1548,Blood Test,Results indicate normal values.,2025-01-30
+1402,MRI,Results indicate low values.,2025-02-13
+1381,CT Scan,Results indicate normal values.,2025-01-01
+2562,CT Scan,Results indicate low values.,2025-03-10
+2845,X-Ray,Results indicate normal values.,2025-02-28
+1037,MRI,Results indicate normal values.,2025-01-11
+593,Blood Test,Results indicate low values.,2025-02-11
+960,X-Ray,Results indicate abnormal values.,2025-02-28
+1807,CT Scan,Results indicate high values.,2025-02-15
+539,MRI,Results indicate high values.,2025-01-06
+909,CT Scan,Results indicate abnormal values.,2025-01-13
+2018,MRI,Results indicate abnormal values.,2025-01-25
+2951,MRI,Results indicate normal values.,2025-01-31
+1832,X-Ray,Results indicate abnormal values.,2025-01-21
+3000,CT Scan,Results indicate low values.,2025-03-04
+1691,Blood Test,Results indicate normal values.,2025-01-14
+2572,CT Scan,Results indicate low values.,2025-03-10
+1532,Blood Test,Results indicate low values.,2025-02-18
+486,MRI,Results indicate abnormal values.,2025-02-21
+156,CT Scan,Results indicate abnormal values.,2025-01-21
+3364,Blood Test,Results indicate low values.,2025-01-28
+1925,X-Ray,Results indicate low values.,2025-01-16
+2611,MRI,Results indicate normal values.,2025-03-12
+485,Blood Test,Results indicate normal values.,2025-03-10
+1798,MRI,Results indicate low values.,2025-02-10
+113,MRI,Results indicate low values.,2025-03-04
+2321,MRI,Results indicate high values.,2025-01-02
+3409,CT Scan,Results indicate high values.,2025-02-08
+2072,MRI,Results indicate high values.,2025-03-08
+1243,CT Scan,Results indicate low values.,2025-02-19
+2346,CT Scan,Results indicate abnormal values.,2025-02-02
+1637,Blood Test,Results indicate low values.,2025-02-16
+3070,MRI,Results indicate high values.,2025-01-16
+1568,CT Scan,Results indicate high values.,2025-01-20
+2383,X-Ray,Results indicate high values.,2025-02-18
+25,CT Scan,Results indicate normal values.,2025-03-11
+2207,X-Ray,Results indicate normal values.,2025-03-11
+2033,MRI,Results indicate normal values.,2025-01-20
+642,X-Ray,Results indicate abnormal values.,2025-02-14
+1306,Blood Test,Results indicate normal values.,2025-01-24
+1457,MRI,Results indicate normal values.,2025-01-19
+1459,Blood Test,Results indicate high values.,2025-01-31
+912,Blood Test,Results indicate high values.,2025-01-03
+1375,Blood Test,Results indicate normal values.,2025-02-27
+838,MRI,Results indicate normal values.,2025-03-11
+990,CT Scan,Results indicate low values.,2025-03-05
+1327,CT Scan,Results indicate abnormal values.,2025-01-21
+1593,CT Scan,Results indicate abnormal values.,2025-03-14
+2227,Blood Test,Results indicate high values.,2025-01-20
+2416,X-Ray,Results indicate normal values.,2025-01-31
+1227,Blood Test,Results indicate normal values.,2025-01-25
+906,Blood Test,Results indicate high values.,2025-02-25
+2092,CT Scan,Results indicate abnormal values.,2025-02-19
+1072,X-Ray,Results indicate normal values.,2025-03-04
+1900,X-Ray,Results indicate low values.,2025-02-13
+2912,Blood Test,Results indicate high values.,2025-02-14
+2025,CT Scan,Results indicate normal values.,2025-01-29
+3490,X-Ray,Results indicate high values.,2025-01-07
+356,CT Scan,Results indicate high values.,2025-03-15
+387,X-Ray,Results indicate high values.,2025-01-18
+582,X-Ray,Results indicate low values.,2025-02-10
+990,CT Scan,Results indicate normal values.,2025-02-28
+1906,Blood Test,Results indicate high values.,2025-02-15
+2042,Blood Test,Results indicate high values.,2025-01-16
+1945,X-Ray,Results indicate high values.,2025-02-22
+1762,MRI,Results indicate high values.,2025-02-18
+3242,MRI,Results indicate normal values.,2025-01-03
+1015,Blood Test,Results indicate normal values.,2025-03-10
+1141,CT Scan,Results indicate low values.,2025-01-17
+1620,Blood Test,Results indicate low values.,2025-01-15
+3051,Blood Test,Results indicate normal values.,2025-03-06
+1789,MRI,Results indicate abnormal values.,2025-02-02
+2161,MRI,Results indicate abnormal values.,2025-01-01
+3200,CT Scan,Results indicate normal values.,2025-01-18
+1986,MRI,Results indicate normal values.,2025-01-16
+904,X-Ray,Results indicate high values.,2025-03-01
+283,Blood Test,Results indicate high values.,2025-02-24
+3141,CT Scan,Results indicate normal values.,2025-03-11
+2908,Blood Test,Results indicate low values.,2025-01-05
+1593,Blood Test,Results indicate high values.,2025-03-09
+77,MRI,Results indicate low values.,2025-01-15
+2162,X-Ray,Results indicate normal values.,2025-01-25
+165,Blood Test,Results indicate low values.,2025-02-09
+2857,Blood Test,Results indicate normal values.,2025-02-12
+3162,MRI,Results indicate normal values.,2025-01-28
+932,CT Scan,Results indicate abnormal values.,2025-01-17
+1522,X-Ray,Results indicate low values.,2025-01-07
+3239,X-Ray,Results indicate abnormal values.,2025-02-19
+321,Blood Test,Results indicate low values.,2025-03-07
+3138,X-Ray,Results indicate normal values.,2025-02-11
+2515,MRI,Results indicate normal values.,2025-01-15
+1772,X-Ray,Results indicate abnormal values.,2025-01-28
+2656,X-Ray,Results indicate high values.,2025-01-22
+349,Blood Test,Results indicate abnormal values.,2025-03-09
+2668,MRI,Results indicate low values.,2025-02-05
+3176,Blood Test,Results indicate abnormal values.,2025-03-06
+723,Blood Test,Results indicate normal values.,2025-03-01
+671,CT Scan,Results indicate normal values.,2025-02-03
+850,Blood Test,Results indicate low values.,2025-01-27
+66,CT Scan,Results indicate abnormal values.,2025-02-02
+3239,X-Ray,Results indicate abnormal values.,2025-02-12
+573,Blood Test,Results indicate normal values.,2025-03-05
+1463,MRI,Results indicate high values.,2025-01-29
+1913,Blood Test,Results indicate low values.,2025-02-06
+709,CT Scan,Results indicate normal values.,2025-01-10
+3069,X-Ray,Results indicate normal values.,2025-01-15
+2094,X-Ray,Results indicate normal values.,2025-03-04
+748,X-Ray,Results indicate low values.,2025-02-12
+2143,X-Ray,Results indicate low values.,2025-03-05
+2424,Blood Test,Results indicate normal values.,2025-03-09
+3232,MRI,Results indicate abnormal values.,2025-02-01
+3224,MRI,Results indicate low values.,2025-01-31
+1404,X-Ray,Results indicate normal values.,2025-01-10
+430,MRI,Results indicate abnormal values.,2025-02-01
+448,MRI,Results indicate abnormal values.,2025-02-22
+1936,Blood Test,Results indicate high values.,2025-01-06
+1492,MRI,Results indicate normal values.,2025-02-11
+2749,Blood Test,Results indicate abnormal values.,2025-01-22
+2838,CT Scan,Results indicate high values.,2025-01-20
+3283,Blood Test,Results indicate normal values.,2025-01-26
+497,MRI,Results indicate abnormal values.,2025-03-05
+3072,CT Scan,Results indicate abnormal values.,2025-03-05
+1542,X-Ray,Results indicate normal values.,2025-01-08
+2867,CT Scan,Results indicate low values.,2025-02-08
+3392,MRI,Results indicate abnormal values.,2025-02-05
+804,Blood Test,Results indicate abnormal values.,2025-01-28
+3187,CT Scan,Results indicate high values.,2025-01-23
+1255,X-Ray,Results indicate normal values.,2025-01-02
+395,X-Ray,Results indicate high values.,2025-01-14
+2569,MRI,Results indicate high values.,2025-01-06
+2342,CT Scan,Results indicate abnormal values.,2025-01-24
+310,CT Scan,Results indicate low values.,2025-02-07
+1097,MRI,Results indicate abnormal values.,2025-01-19
+1277,CT Scan,Results indicate abnormal values.,2025-03-10
+785,CT Scan,Results indicate normal values.,2025-02-07
+1644,CT Scan,Results indicate high values.,2025-02-27
+62,MRI,Results indicate normal values.,2025-03-05
+1495,Blood Test,Results indicate low values.,2025-02-20
+3193,Blood Test,Results indicate high values.,2025-01-28
+3350,MRI,Results indicate normal values.,2025-02-21
+3341,CT Scan,Results indicate normal values.,2025-01-04
+3326,Blood Test,Results indicate abnormal values.,2025-01-31
+2452,Blood Test,Results indicate abnormal values.,2025-02-09
+1943,MRI,Results indicate abnormal values.,2025-02-02
+1871,CT Scan,Results indicate high values.,2025-02-09
+1682,X-Ray,Results indicate normal values.,2025-01-11
+3411,MRI,Results indicate low values.,2025-03-05
+1425,X-Ray,Results indicate abnormal values.,2025-01-15
+1009,Blood Test,Results indicate high values.,2025-01-04
+230,CT Scan,Results indicate high values.,2025-02-15
+2573,X-Ray,Results indicate high values.,2025-02-04
+338,MRI,Results indicate low values.,2025-03-04
+1149,Blood Test,Results indicate abnormal values.,2025-01-15
+2793,Blood Test,Results indicate high values.,2025-02-10
+1004,Blood Test,Results indicate low values.,2025-01-23
+312,CT Scan,Results indicate abnormal values.,2025-01-29
+1751,CT Scan,Results indicate abnormal values.,2025-01-26
+2970,X-Ray,Results indicate high values.,2025-01-12
+1306,X-Ray,Results indicate low values.,2025-02-13
+3279,X-Ray,Results indicate low values.,2025-02-06
+964,X-Ray,Results indicate low values.,2025-03-13
+2327,MRI,Results indicate high values.,2025-02-02
+932,MRI,Results indicate normal values.,2025-01-03
+302,X-Ray,Results indicate high values.,2025-01-21
+2716,CT Scan,Results indicate low values.,2025-01-23
+200,MRI,Results indicate abnormal values.,2025-01-08
+695,Blood Test,Results indicate high values.,2025-02-15
+1149,MRI,Results indicate normal values.,2025-02-28
+1302,CT Scan,Results indicate abnormal values.,2025-01-05
+3410,CT Scan,Results indicate normal values.,2025-01-06
+3468,X-Ray,Results indicate abnormal values.,2025-02-18
+471,CT Scan,Results indicate high values.,2025-03-09
+2438,X-Ray,Results indicate low values.,2025-02-05
+232,X-Ray,Results indicate low values.,2025-01-06
+177,X-Ray,Results indicate high values.,2025-01-30
+359,X-Ray,Results indicate high values.,2025-03-08
+2023,MRI,Results indicate high values.,2025-02-22
+2596,X-Ray,Results indicate normal values.,2025-02-06
+958,Blood Test,Results indicate normal values.,2025-01-14
+3453,CT Scan,Results indicate abnormal values.,2025-02-20
+952,MRI,Results indicate normal values.,2025-01-18
+1515,X-Ray,Results indicate abnormal values.,2025-01-01
+367,Blood Test,Results indicate normal values.,2025-02-02
+192,Blood Test,Results indicate low values.,2025-01-24
+2269,MRI,Results indicate high values.,2025-01-18
+3410,CT Scan,Results indicate low values.,2025-02-23
+1348,X-Ray,Results indicate normal values.,2025-03-07
+2194,MRI,Results indicate normal values.,2025-03-12
+164,Blood Test,Results indicate abnormal values.,2025-01-18
+1255,CT Scan,Results indicate low values.,2025-02-19
+3200,MRI,Results indicate normal values.,2025-02-03
+126,CT Scan,Results indicate low values.,2025-02-04
+1722,CT Scan,Results indicate normal values.,2025-01-04
+2011,CT Scan,Results indicate normal values.,2025-03-02
+2791,MRI,Results indicate abnormal values.,2025-03-04
+3499,Blood Test,Results indicate low values.,2025-01-22
+809,MRI,Results indicate normal values.,2025-02-03
+133,Blood Test,Results indicate high values.,2025-02-13
+414,X-Ray,Results indicate abnormal values.,2025-03-04
+1589,CT Scan,Results indicate high values.,2025-02-16
+2183,CT Scan,Results indicate normal values.,2025-02-15
+285,X-Ray,Results indicate low values.,2025-02-07
+212,CT Scan,Results indicate high values.,2025-02-12
+911,X-Ray,Results indicate normal values.,2025-01-05
+2341,Blood Test,Results indicate abnormal values.,2025-02-14
+2647,MRI,Results indicate normal values.,2025-01-01
+209,X-Ray,Results indicate normal values.,2025-01-25
+1916,CT Scan,Results indicate abnormal values.,2025-02-28
+2831,X-Ray,Results indicate low values.,2025-02-04
+2161,X-Ray,Results indicate low values.,2025-02-14
+1283,X-Ray,Results indicate abnormal values.,2025-01-25
+329,CT Scan,Results indicate high values.,2025-01-04
+3237,MRI,Results indicate normal values.,2025-02-07
+1996,MRI,Results indicate normal values.,2025-01-28
+2119,CT Scan,Results indicate abnormal values.,2025-01-30
+229,MRI,Results indicate normal values.,2025-03-08
+2444,CT Scan,Results indicate low values.,2025-03-05
+3210,Blood Test,Results indicate abnormal values.,2025-01-14
+2989,X-Ray,Results indicate abnormal values.,2025-01-16
+2848,Blood Test,Results indicate high values.,2025-01-22
+187,X-Ray,Results indicate low values.,2025-02-24
+3405,X-Ray,Results indicate high values.,2025-01-15
+3219,CT Scan,Results indicate normal values.,2025-03-04
+2470,CT Scan,Results indicate normal values.,2025-02-19
+1184,CT Scan,Results indicate normal values.,2025-01-10
+1954,MRI,Results indicate high values.,2025-02-06
+3089,Blood Test,Results indicate high values.,2025-01-04
+780,CT Scan,Results indicate abnormal values.,2025-03-07
+1653,Blood Test,Results indicate normal values.,2025-02-06
+3481,Blood Test,Results indicate abnormal values.,2025-02-24
+863,MRI,Results indicate high values.,2025-02-17
+915,Blood Test,Results indicate normal values.,2025-03-08
+88,Blood Test,Results indicate normal values.,2025-02-03
+1897,X-Ray,Results indicate abnormal values.,2025-01-05
+2367,Blood Test,Results indicate abnormal values.,2025-02-12
+170,X-Ray,Results indicate low values.,2025-01-31
+767,Blood Test,Results indicate normal values.,2025-01-08
+96,Blood Test,Results indicate high values.,2025-01-11
+401,Blood Test,Results indicate abnormal values.,2025-01-17
+1915,X-Ray,Results indicate normal values.,2025-02-06
+3358,MRI,Results indicate high values.,2025-02-03
+3212,X-Ray,Results indicate abnormal values.,2025-01-30
+1449,X-Ray,Results indicate abnormal values.,2025-03-06
+22,Blood Test,Results indicate abnormal values.,2025-01-26
+2395,MRI,Results indicate high values.,2025-02-14
+1079,X-Ray,Results indicate low values.,2025-02-26
+1345,X-Ray,Results indicate normal values.,2025-02-08
+3169,CT Scan,Results indicate abnormal values.,2025-01-06
+1052,X-Ray,Results indicate high values.,2025-02-26
+845,Blood Test,Results indicate normal values.,2025-02-06
+237,X-Ray,Results indicate abnormal values.,2025-02-07
+40,CT Scan,Results indicate abnormal values.,2025-03-15
+2416,X-Ray,Results indicate low values.,2025-01-23
+2905,X-Ray,Results indicate high values.,2025-02-05
+1804,CT Scan,Results indicate low values.,2025-03-05
+3112,Blood Test,Results indicate abnormal values.,2025-01-17
+1982,Blood Test,Results indicate high values.,2025-02-24
+2231,CT Scan,Results indicate high values.,2025-01-25
+3156,Blood Test,Results indicate abnormal values.,2025-01-27
+1106,MRI,Results indicate normal values.,2025-03-07
+2921,CT Scan,Results indicate abnormal values.,2025-03-04
+680,CT Scan,Results indicate normal values.,2025-02-09
+416,Blood Test,Results indicate normal values.,2025-03-10
+2579,X-Ray,Results indicate abnormal values.,2025-03-08
+307,MRI,Results indicate abnormal values.,2025-01-08
+2797,Blood Test,Results indicate low values.,2025-01-01
+3007,X-Ray,Results indicate abnormal values.,2025-01-18
+1978,CT Scan,Results indicate abnormal values.,2025-03-01
+178,X-Ray,Results indicate normal values.,2025-03-09
+2252,Blood Test,Results indicate high values.,2025-01-04
+1794,X-Ray,Results indicate abnormal values.,2025-02-28
+2903,CT Scan,Results indicate low values.,2025-03-11
+1267,Blood Test,Results indicate low values.,2025-02-27
+883,MRI,Results indicate abnormal values.,2025-03-06
+3079,MRI,Results indicate high values.,2025-02-11
+120,X-Ray,Results indicate abnormal values.,2025-02-18
+1281,X-Ray,Results indicate low values.,2025-01-19
+2021,Blood Test,Results indicate normal values.,2025-01-28
+620,X-Ray,Results indicate low values.,2025-03-05
+1719,X-Ray,Results indicate normal values.,2025-01-14
+2225,MRI,Results indicate normal values.,2025-02-01
+351,CT Scan,Results indicate abnormal values.,2025-02-02
+2793,MRI,Results indicate high values.,2025-02-07
+537,Blood Test,Results indicate high values.,2025-02-25
+3428,MRI,Results indicate high values.,2025-02-02
+1966,MRI,Results indicate low values.,2025-01-12
+353,MRI,Results indicate high values.,2025-02-27
+1862,X-Ray,Results indicate low values.,2025-02-20
+1312,Blood Test,Results indicate high values.,2025-03-13
+2794,MRI,Results indicate normal values.,2025-01-29
+1422,Blood Test,Results indicate normal values.,2025-03-04
+2060,MRI,Results indicate normal values.,2025-01-17
+2188,CT Scan,Results indicate normal values.,2025-02-23
+1183,Blood Test,Results indicate high values.,2025-01-26
+2498,X-Ray,Results indicate high values.,2025-01-28
+2427,X-Ray,Results indicate low values.,2025-01-14
+2358,Blood Test,Results indicate low values.,2025-02-20
+1081,Blood Test,Results indicate abnormal values.,2025-02-16
+2143,MRI,Results indicate abnormal values.,2025-02-09
+2152,CT Scan,Results indicate low values.,2025-02-04
+300,MRI,Results indicate abnormal values.,2025-02-16
+2633,MRI,Results indicate abnormal values.,2025-03-04
+3172,Blood Test,Results indicate abnormal values.,2025-01-21
+835,X-Ray,Results indicate abnormal values.,2025-01-20
+2028,CT Scan,Results indicate high values.,2025-02-03
+1794,MRI,Results indicate abnormal values.,2025-03-05
+3019,MRI,Results indicate abnormal values.,2025-03-12
+3286,MRI,Results indicate normal values.,2025-02-20
+2308,X-Ray,Results indicate high values.,2025-02-18
+3461,CT Scan,Results indicate high values.,2025-02-09
+541,X-Ray,Results indicate low values.,2025-01-11
+2406,X-Ray,Results indicate low values.,2025-02-26
+1774,X-Ray,Results indicate normal values.,2025-02-11
+2348,X-Ray,Results indicate high values.,2025-02-27
+1143,X-Ray,Results indicate abnormal values.,2025-02-08
+2008,Blood Test,Results indicate low values.,2025-01-30
+32,CT Scan,Results indicate normal values.,2025-03-13
+2712,CT Scan,Results indicate low values.,2025-01-09
+2918,MRI,Results indicate high values.,2025-02-09
+1423,MRI,Results indicate high values.,2025-03-12
+2491,CT Scan,Results indicate normal values.,2025-02-15
+2079,Blood Test,Results indicate abnormal values.,2025-03-06
+2672,MRI,Results indicate high values.,2025-01-03
+1955,MRI,Results indicate abnormal values.,2025-03-15
+3392,CT Scan,Results indicate high values.,2025-02-24
+9,CT Scan,Results indicate normal values.,2025-02-06
+1000,X-Ray,Results indicate high values.,2025-02-13
+2303,Blood Test,Results indicate low values.,2025-03-14
+1597,CT Scan,Results indicate normal values.,2025-01-10
+681,X-Ray,Results indicate abnormal values.,2025-01-04
+3408,CT Scan,Results indicate normal values.,2025-01-21
+2569,CT Scan,Results indicate normal values.,2025-02-22
+1702,Blood Test,Results indicate low values.,2025-01-17
+2785,Blood Test,Results indicate normal values.,2025-03-02
+3366,Blood Test,Results indicate high values.,2025-02-16
+1064,X-Ray,Results indicate abnormal values.,2025-01-31
+1301,MRI,Results indicate high values.,2025-02-07
+723,MRI,Results indicate abnormal values.,2025-03-11
+779,X-Ray,Results indicate low values.,2025-01-04
+1069,CT Scan,Results indicate high values.,2025-01-04
+2046,MRI,Results indicate high values.,2025-01-28
+597,CT Scan,Results indicate high values.,2025-01-31
+2342,CT Scan,Results indicate high values.,2025-02-22
+500,MRI,Results indicate abnormal values.,2025-03-05
+1507,MRI,Results indicate normal values.,2025-02-07
+1561,X-Ray,Results indicate high values.,2025-01-31
+1327,Blood Test,Results indicate high values.,2025-01-04
+2791,Blood Test,Results indicate high values.,2025-03-09
+2231,CT Scan,Results indicate abnormal values.,2025-02-21
+2252,Blood Test,Results indicate normal values.,2025-01-06
+2520,MRI,Results indicate high values.,2025-02-10
+1850,CT Scan,Results indicate low values.,2025-02-21
+1959,Blood Test,Results indicate high values.,2025-02-05
+547,Blood Test,Results indicate low values.,2025-01-02
+2649,MRI,Results indicate low values.,2025-01-19
+1772,CT Scan,Results indicate normal values.,2025-03-07
+142,CT Scan,Results indicate abnormal values.,2025-03-08
+643,CT Scan,Results indicate low values.,2025-03-11
+3254,Blood Test,Results indicate normal values.,2025-01-21
+12,MRI,Results indicate low values.,2025-01-09
+570,X-Ray,Results indicate high values.,2025-03-06
+230,X-Ray,Results indicate low values.,2025-02-11
+1945,X-Ray,Results indicate low values.,2025-01-13
+3231,MRI,Results indicate normal values.,2025-01-28
+3248,CT Scan,Results indicate normal values.,2025-03-03
+1514,CT Scan,Results indicate low values.,2025-02-04
+1290,CT Scan,Results indicate abnormal values.,2025-01-20
+951,X-Ray,Results indicate low values.,2025-01-29
+1962,CT Scan,Results indicate low values.,2025-02-18
+1850,CT Scan,Results indicate normal values.,2025-02-03
+279,X-Ray,Results indicate low values.,2025-01-18
+2444,CT Scan,Results indicate high values.,2025-02-10
+211,X-Ray,Results indicate abnormal values.,2025-03-06
+3466,Blood Test,Results indicate high values.,2025-02-05
+888,Blood Test,Results indicate high values.,2025-03-04
+1020,MRI,Results indicate normal values.,2025-02-09
+989,MRI,Results indicate high values.,2025-01-15
+887,X-Ray,Results indicate low values.,2025-02-27
+1641,MRI,Results indicate normal values.,2025-01-31
+287,X-Ray,Results indicate normal values.,2025-02-07
+2105,X-Ray,Results indicate abnormal values.,2025-01-07
+330,Blood Test,Results indicate normal values.,2025-03-05
+3172,Blood Test,Results indicate normal values.,2025-02-17
+2295,CT Scan,Results indicate low values.,2025-03-11
+2344,CT Scan,Results indicate abnormal values.,2025-02-26
+563,Blood Test,Results indicate high values.,2025-01-28
+2462,MRI,Results indicate abnormal values.,2025-01-04
+469,MRI,Results indicate abnormal values.,2025-01-29
+1345,MRI,Results indicate normal values.,2025-02-10
+1003,MRI,Results indicate high values.,2025-01-08
+2247,Blood Test,Results indicate abnormal values.,2025-01-21
+872,CT Scan,Results indicate normal values.,2025-03-04
+2274,Blood Test,Results indicate high values.,2025-02-17
+2470,Blood Test,Results indicate low values.,2025-03-02
+3162,X-Ray,Results indicate abnormal values.,2025-03-11
+143,MRI,Results indicate high values.,2025-01-18
+2678,Blood Test,Results indicate abnormal values.,2025-02-18
+1141,Blood Test,Results indicate high values.,2025-01-21
+350,X-Ray,Results indicate high values.,2025-01-11
+1956,X-Ray,Results indicate low values.,2025-03-10
+1175,MRI,Results indicate low values.,2025-03-08
+454,CT Scan,Results indicate normal values.,2025-03-09
+2059,MRI,Results indicate abnormal values.,2025-02-26
+296,MRI,Results indicate normal values.,2025-03-05
+1976,X-Ray,Results indicate high values.,2025-02-28
+911,CT Scan,Results indicate high values.,2025-02-16
+2358,X-Ray,Results indicate low values.,2025-01-12
+65,Blood Test,Results indicate high values.,2025-02-10
+1082,Blood Test,Results indicate high values.,2025-02-18
+1878,Blood Test,Results indicate abnormal values.,2025-01-13
+1698,MRI,Results indicate normal values.,2025-03-06
+1126,X-Ray,Results indicate normal values.,2025-02-06
+2481,X-Ray,Results indicate abnormal values.,2025-03-03
+952,Blood Test,Results indicate abnormal values.,2025-01-23
+2899,Blood Test,Results indicate low values.,2025-02-27
+1014,CT Scan,Results indicate low values.,2025-01-17
+2316,CT Scan,Results indicate low values.,2025-02-16
+2431,MRI,Results indicate high values.,2025-01-16
+2029,MRI,Results indicate normal values.,2025-03-03
+259,MRI,Results indicate normal values.,2025-02-06
+2064,Blood Test,Results indicate abnormal values.,2025-02-21
+2690,X-Ray,Results indicate high values.,2025-01-24
+1485,X-Ray,Results indicate low values.,2025-01-03
+2552,X-Ray,Results indicate normal values.,2025-03-12
+581,Blood Test,Results indicate low values.,2025-02-09
+986,Blood Test,Results indicate normal values.,2025-01-24
+1842,MRI,Results indicate low values.,2025-01-14
+299,MRI,Results indicate abnormal values.,2025-01-30
+1028,CT Scan,Results indicate normal values.,2025-03-07
+3324,CT Scan,Results indicate high values.,2025-03-01
+383,CT Scan,Results indicate abnormal values.,2025-01-27
+372,Blood Test,Results indicate high values.,2025-03-01
+1470,MRI,Results indicate high values.,2025-01-21
+730,Blood Test,Results indicate high values.,2025-02-01
+589,MRI,Results indicate high values.,2025-01-25
+800,X-Ray,Results indicate low values.,2025-01-31
+2043,Blood Test,Results indicate high values.,2025-02-27
+2618,X-Ray,Results indicate normal values.,2025-02-25
+2500,X-Ray,Results indicate high values.,2025-03-01
+2324,CT Scan,Results indicate high values.,2025-02-27
+503,Blood Test,Results indicate low values.,2025-01-18
+981,Blood Test,Results indicate normal values.,2025-03-04
+2030,CT Scan,Results indicate normal values.,2025-02-06
+2906,Blood Test,Results indicate low values.,2025-01-14
+660,X-Ray,Results indicate low values.,2025-01-31
+309,MRI,Results indicate high values.,2025-01-23
+2791,X-Ray,Results indicate abnormal values.,2025-02-25
+2560,MRI,Results indicate normal values.,2025-03-15
+2802,Blood Test,Results indicate low values.,2025-02-16
+1355,Blood Test,Results indicate abnormal values.,2025-01-22
+897,Blood Test,Results indicate low values.,2025-01-14
+165,MRI,Results indicate low values.,2025-03-01
+1933,CT Scan,Results indicate low values.,2025-03-13
+2056,MRI,Results indicate abnormal values.,2025-01-02
+3036,Blood Test,Results indicate normal values.,2025-02-08
+1991,X-Ray,Results indicate high values.,2025-01-12
+2005,X-Ray,Results indicate high values.,2025-01-02
+1830,MRI,Results indicate abnormal values.,2025-01-14
+892,CT Scan,Results indicate normal values.,2025-02-02
+2671,Blood Test,Results indicate high values.,2025-01-04
+483,X-Ray,Results indicate abnormal values.,2025-01-30
+996,Blood Test,Results indicate low values.,2025-01-16
+3270,CT Scan,Results indicate normal values.,2025-02-06
+2206,MRI,Results indicate high values.,2025-02-27
+1920,Blood Test,Results indicate normal values.,2025-03-01
+2929,X-Ray,Results indicate abnormal values.,2025-01-25
+2465,CT Scan,Results indicate normal values.,2025-02-26
+2503,CT Scan,Results indicate high values.,2025-01-04
+2214,Blood Test,Results indicate high values.,2025-03-02
+1494,MRI,Results indicate normal values.,2025-03-14
+1751,CT Scan,Results indicate normal values.,2025-02-26
+1921,CT Scan,Results indicate low values.,2025-01-12
+859,X-Ray,Results indicate low values.,2025-01-03
+80,CT Scan,Results indicate abnormal values.,2025-03-14
+2163,Blood Test,Results indicate high values.,2025-01-26
+1090,X-Ray,Results indicate abnormal values.,2025-02-11
+861,MRI,Results indicate high values.,2025-03-03
+2400,MRI,Results indicate abnormal values.,2025-02-03
+1585,MRI,Results indicate high values.,2025-01-07
+1648,Blood Test,Results indicate abnormal values.,2025-02-01
+1764,MRI,Results indicate normal values.,2025-01-21
+1716,Blood Test,Results indicate high values.,2025-03-14
+171,CT Scan,Results indicate low values.,2025-03-06
+176,MRI,Results indicate normal values.,2025-03-04
+1303,CT Scan,Results indicate high values.,2025-02-15
+2134,MRI,Results indicate normal values.,2025-02-01
+3157,Blood Test,Results indicate low values.,2025-01-22
+485,Blood Test,Results indicate abnormal values.,2025-01-16
+1092,X-Ray,Results indicate low values.,2025-01-09
+1672,CT Scan,Results indicate low values.,2025-01-08
+683,Blood Test,Results indicate low values.,2025-01-31
+3134,MRI,Results indicate normal values.,2025-02-04
+1600,MRI,Results indicate abnormal values.,2025-02-03
+1347,X-Ray,Results indicate abnormal values.,2025-02-12
+199,X-Ray,Results indicate high values.,2025-02-15
+1394,CT Scan,Results indicate low values.,2025-02-06
+767,Blood Test,Results indicate high values.,2025-01-08
+3151,Blood Test,Results indicate normal values.,2025-02-02
+1653,Blood Test,Results indicate low values.,2025-02-02
+1813,MRI,Results indicate high values.,2025-01-11
+2636,Blood Test,Results indicate high values.,2025-03-01
+2012,CT Scan,Results indicate low values.,2025-03-03
+3356,X-Ray,Results indicate high values.,2025-02-11
+659,MRI,Results indicate high values.,2025-02-22
+641,X-Ray,Results indicate normal values.,2025-02-07
+1124,X-Ray,Results indicate abnormal values.,2025-01-18
+2009,X-Ray,Results indicate normal values.,2025-02-05
+1803,MRI,Results indicate low values.,2025-01-15
+2415,Blood Test,Results indicate high values.,2025-02-14
+1324,Blood Test,Results indicate normal values.,2025-01-04
+1042,X-Ray,Results indicate abnormal values.,2025-02-18
+2555,MRI,Results indicate high values.,2025-01-10
+1412,X-Ray,Results indicate normal values.,2025-02-11
+484,CT Scan,Results indicate abnormal values.,2025-03-01
+2369,X-Ray,Results indicate normal values.,2025-03-05
+893,CT Scan,Results indicate high values.,2025-02-06
+1189,MRI,Results indicate high values.,2025-01-12
+1116,Blood Test,Results indicate high values.,2025-02-27
+256,X-Ray,Results indicate normal values.,2025-02-05
+1661,MRI,Results indicate high values.,2025-01-13
+1015,CT Scan,Results indicate low values.,2025-02-05
+3156,Blood Test,Results indicate low values.,2025-03-03
+1796,CT Scan,Results indicate abnormal values.,2025-01-08
+3118,X-Ray,Results indicate high values.,2025-03-13
+2572,Blood Test,Results indicate high values.,2025-01-18
+1608,CT Scan,Results indicate abnormal values.,2025-02-23
+2213,X-Ray,Results indicate normal values.,2025-01-30
+2355,CT Scan,Results indicate low values.,2025-01-06
+2089,Blood Test,Results indicate abnormal values.,2025-02-10
+2118,MRI,Results indicate low values.,2025-02-14
+2208,MRI,Results indicate high values.,2025-02-07
+798,MRI,Results indicate abnormal values.,2025-01-16
+906,X-Ray,Results indicate low values.,2025-01-24
+67,MRI,Results indicate normal values.,2025-01-26
+1628,X-Ray,Results indicate abnormal values.,2025-01-19
+2863,MRI,Results indicate normal values.,2025-03-12
+908,Blood Test,Results indicate low values.,2025-02-11
+3038,CT Scan,Results indicate normal values.,2025-01-18
+225,Blood Test,Results indicate normal values.,2025-02-06
+763,MRI,Results indicate abnormal values.,2025-03-10
+408,MRI,Results indicate low values.,2025-01-26
+2018,MRI,Results indicate normal values.,2025-02-20
+2361,CT Scan,Results indicate abnormal values.,2025-02-03
+138,CT Scan,Results indicate abnormal values.,2025-01-22
+1480,CT Scan,Results indicate abnormal values.,2025-03-11
+589,CT Scan,Results indicate abnormal values.,2025-01-06
+1814,Blood Test,Results indicate abnormal values.,2025-01-17
+2576,CT Scan,Results indicate low values.,2025-02-22
+262,MRI,Results indicate abnormal values.,2025-01-26
+3397,Blood Test,Results indicate low values.,2025-03-13
+3410,Blood Test,Results indicate abnormal values.,2025-02-05
+649,CT Scan,Results indicate low values.,2025-02-23
+1333,CT Scan,Results indicate low values.,2025-03-06
+3269,MRI,Results indicate abnormal values.,2025-01-08
+2167,CT Scan,Results indicate normal values.,2025-03-14
+1875,CT Scan,Results indicate low values.,2025-01-01
+200,MRI,Results indicate high values.,2025-01-11
+3159,MRI,Results indicate normal values.,2025-02-26
+1998,MRI,Results indicate normal values.,2025-03-06
+1773,CT Scan,Results indicate abnormal values.,2025-01-25
+2727,X-Ray,Results indicate normal values.,2025-02-01
+1788,CT Scan,Results indicate normal values.,2025-02-23
+274,MRI,Results indicate high values.,2025-02-05
+1250,X-Ray,Results indicate low values.,2025-02-13
+2756,MRI,Results indicate abnormal values.,2025-02-24
+3369,X-Ray,Results indicate low values.,2025-02-11
+2277,CT Scan,Results indicate normal values.,2025-02-05
+3483,X-Ray,Results indicate abnormal values.,2025-01-14
+2830,X-Ray,Results indicate low values.,2025-01-26
+2934,CT Scan,Results indicate high values.,2025-01-26
+2908,CT Scan,Results indicate low values.,2025-02-11
+110,CT Scan,Results indicate abnormal values.,2025-03-04
+40,Blood Test,Results indicate normal values.,2025-03-11
+882,CT Scan,Results indicate normal values.,2025-01-11
+2786,MRI,Results indicate normal values.,2025-01-22
+2390,MRI,Results indicate abnormal values.,2025-01-01
+2470,MRI,Results indicate abnormal values.,2025-01-20
+3054,CT Scan,Results indicate high values.,2025-01-19
+2881,MRI,Results indicate low values.,2025-02-23
+3222,CT Scan,Results indicate high values.,2025-02-10
+2287,Blood Test,Results indicate low values.,2025-02-27
+559,Blood Test,Results indicate normal values.,2025-01-29
+2816,CT Scan,Results indicate high values.,2025-02-21
+2169,Blood Test,Results indicate high values.,2025-02-15
+2204,CT Scan,Results indicate abnormal values.,2025-03-03
+1440,Blood Test,Results indicate normal values.,2025-01-07
+682,CT Scan,Results indicate low values.,2025-01-18
+1363,X-Ray,Results indicate low values.,2025-02-22
+455,MRI,Results indicate normal values.,2025-02-18
+2085,MRI,Results indicate high values.,2025-02-07
+527,X-Ray,Results indicate high values.,2025-01-19
+242,Blood Test,Results indicate abnormal values.,2025-01-31
+2455,Blood Test,Results indicate abnormal values.,2025-01-24
+3037,CT Scan,Results indicate high values.,2025-01-18
+1560,CT Scan,Results indicate high values.,2025-02-13
+2593,X-Ray,Results indicate high values.,2025-01-02
+2282,Blood Test,Results indicate normal values.,2025-02-25
+3462,MRI,Results indicate abnormal values.,2025-03-14
+1748,X-Ray,Results indicate high values.,2025-03-02
+2518,MRI,Results indicate normal values.,2025-02-03
+470,Blood Test,Results indicate normal values.,2025-02-09
+1700,CT Scan,Results indicate high values.,2025-02-23
+1458,MRI,Results indicate normal values.,2025-02-11
+2702,Blood Test,Results indicate normal values.,2025-01-12
+505,Blood Test,Results indicate low values.,2025-02-02
+797,X-Ray,Results indicate abnormal values.,2025-01-18
+2992,MRI,Results indicate normal values.,2025-01-29
+440,X-Ray,Results indicate low values.,2025-02-11
+134,MRI,Results indicate low values.,2025-03-03
+1912,Blood Test,Results indicate normal values.,2025-02-06
+2135,Blood Test,Results indicate low values.,2025-01-31
+1364,MRI,Results indicate normal values.,2025-01-21
+456,MRI,Results indicate high values.,2025-02-25
+22,MRI,Results indicate abnormal values.,2025-01-11
+2596,Blood Test,Results indicate abnormal values.,2025-03-11
+1670,X-Ray,Results indicate low values.,2025-01-31
+3113,CT Scan,Results indicate low values.,2025-03-03
+917,Blood Test,Results indicate high values.,2025-01-02
+2108,Blood Test,Results indicate abnormal values.,2025-03-13
+518,Blood Test,Results indicate abnormal values.,2025-03-08
+855,Blood Test,Results indicate high values.,2025-03-07
+3146,MRI,Results indicate high values.,2025-02-18
+2099,CT Scan,Results indicate low values.,2025-03-04
+757,CT Scan,Results indicate low values.,2025-01-04
+2399,X-Ray,Results indicate normal values.,2025-02-17
+136,MRI,Results indicate normal values.,2025-02-04
+2597,Blood Test,Results indicate abnormal values.,2025-01-02
+1576,X-Ray,Results indicate abnormal values.,2025-03-09
+3191,MRI,Results indicate low values.,2025-01-12
+2769,X-Ray,Results indicate low values.,2025-02-19
+2120,MRI,Results indicate normal values.,2025-02-08
+3095,Blood Test,Results indicate high values.,2025-02-01
+498,Blood Test,Results indicate abnormal values.,2025-02-08
+2695,MRI,Results indicate abnormal values.,2025-03-11
+204,X-Ray,Results indicate low values.,2025-03-11
+1,Blood Test,Results indicate high values.,2025-01-06
+637,MRI,Results indicate normal values.,2025-02-04
+3390,MRI,Results indicate high values.,2025-02-22
+1950,Blood Test,Results indicate low values.,2025-01-10
+341,Blood Test,Results indicate normal values.,2025-01-04
+1892,CT Scan,Results indicate low values.,2025-02-03
+950,MRI,Results indicate high values.,2025-03-04
+933,CT Scan,Results indicate high values.,2025-02-25
+2029,MRI,Results indicate high values.,2025-03-11
+3425,Blood Test,Results indicate abnormal values.,2025-02-18
+2444,CT Scan,Results indicate normal values.,2025-02-03
+1034,X-Ray,Results indicate normal values.,2025-02-06
+1356,Blood Test,Results indicate high values.,2025-01-01
+1241,MRI,Results indicate low values.,2025-03-05
+1267,X-Ray,Results indicate high values.,2025-03-04
+3100,X-Ray,Results indicate normal values.,2025-02-25
+411,Blood Test,Results indicate low values.,2025-01-26
+2658,CT Scan,Results indicate abnormal values.,2025-02-19
+3296,MRI,Results indicate low values.,2025-02-03
+3451,X-Ray,Results indicate normal values.,2025-01-05
+783,Blood Test,Results indicate abnormal values.,2025-01-08
+2898,X-Ray,Results indicate low values.,2025-01-22
+2986,CT Scan,Results indicate low values.,2025-01-03
+2293,X-Ray,Results indicate low values.,2025-02-21
+2627,X-Ray,Results indicate high values.,2025-01-11
+461,Blood Test,Results indicate abnormal values.,2025-03-14
+608,Blood Test,Results indicate normal values.,2025-01-03
+2949,MRI,Results indicate normal values.,2025-03-14
+2956,CT Scan,Results indicate abnormal values.,2025-03-13
+2608,X-Ray,Results indicate normal values.,2025-01-08
+2125,Blood Test,Results indicate normal values.,2025-01-18
+623,Blood Test,Results indicate low values.,2025-03-04
+1506,X-Ray,Results indicate low values.,2025-02-04
+791,X-Ray,Results indicate high values.,2025-02-26
+3254,X-Ray,Results indicate normal values.,2025-02-07
+120,MRI,Results indicate normal values.,2025-01-31
+2296,X-Ray,Results indicate high values.,2025-02-15
+2787,CT Scan,Results indicate high values.,2025-02-08
+1181,CT Scan,Results indicate low values.,2025-02-27
+3386,MRI,Results indicate abnormal values.,2025-01-08
+2381,X-Ray,Results indicate normal values.,2025-01-09
+232,X-Ray,Results indicate normal values.,2025-03-08
+341,X-Ray,Results indicate abnormal values.,2025-01-04
+805,X-Ray,Results indicate normal values.,2025-03-12
+59,X-Ray,Results indicate normal values.,2025-02-05
+2207,X-Ray,Results indicate high values.,2025-02-02
+1492,X-Ray,Results indicate high values.,2025-01-04
+1568,X-Ray,Results indicate abnormal values.,2025-02-06
+1235,Blood Test,Results indicate high values.,2025-02-28
+3348,Blood Test,Results indicate low values.,2025-02-11
+946,X-Ray,Results indicate abnormal values.,2025-01-10
+2122,MRI,Results indicate abnormal values.,2025-02-11
+704,X-Ray,Results indicate abnormal values.,2025-01-13
+890,CT Scan,Results indicate normal values.,2025-01-02
+1362,MRI,Results indicate high values.,2025-01-16
+628,X-Ray,Results indicate normal values.,2025-01-24
+134,Blood Test,Results indicate low values.,2025-02-28
+598,MRI,Results indicate abnormal values.,2025-02-19
+1958,Blood Test,Results indicate low values.,2025-03-12
+2161,Blood Test,Results indicate abnormal values.,2025-03-07
+311,MRI,Results indicate low values.,2025-02-16
+2496,MRI,Results indicate low values.,2025-01-20
+2610,CT Scan,Results indicate abnormal values.,2025-01-15
+3491,MRI,Results indicate normal values.,2025-01-20
+2783,Blood Test,Results indicate high values.,2025-01-07
+2868,X-Ray,Results indicate abnormal values.,2025-02-09
+210,X-Ray,Results indicate high values.,2025-02-09
+927,X-Ray,Results indicate high values.,2025-03-05
+2781,CT Scan,Results indicate low values.,2025-01-27
+1476,CT Scan,Results indicate low values.,2025-03-13
+1753,CT Scan,Results indicate low values.,2025-03-07
+1377,MRI,Results indicate abnormal values.,2025-03-12
+1591,Blood Test,Results indicate normal values.,2025-01-08
+1314,CT Scan,Results indicate high values.,2025-02-01
+269,MRI,Results indicate normal values.,2025-03-10
+2564,CT Scan,Results indicate low values.,2025-01-13
+2737,CT Scan,Results indicate high values.,2025-01-06
+3156,MRI,Results indicate normal values.,2025-01-30
+885,Blood Test,Results indicate high values.,2025-02-27
+1712,CT Scan,Results indicate abnormal values.,2025-02-21
+34,CT Scan,Results indicate normal values.,2025-03-05
+2063,Blood Test,Results indicate normal values.,2025-03-01
+2781,MRI,Results indicate low values.,2025-01-18
+381,CT Scan,Results indicate low values.,2025-01-11
+770,MRI,Results indicate abnormal values.,2025-01-05
+376,Blood Test,Results indicate abnormal values.,2025-02-02
+1365,X-Ray,Results indicate normal values.,2025-03-03
+3293,MRI,Results indicate abnormal values.,2025-02-24
+2208,MRI,Results indicate high values.,2025-03-15
+1069,Blood Test,Results indicate high values.,2025-02-23
+2332,CT Scan,Results indicate high values.,2025-01-28
+2599,CT Scan,Results indicate abnormal values.,2025-01-07
+2094,Blood Test,Results indicate high values.,2025-02-27
+160,Blood Test,Results indicate abnormal values.,2025-02-16
+2476,Blood Test,Results indicate abnormal values.,2025-02-15
+1579,MRI,Results indicate high values.,2025-02-10
+2446,MRI,Results indicate abnormal values.,2025-02-12
+611,CT Scan,Results indicate low values.,2025-02-23
+1397,Blood Test,Results indicate low values.,2025-01-28
+2526,MRI,Results indicate low values.,2025-03-13
+2658,X-Ray,Results indicate normal values.,2025-03-06
+157,Blood Test,Results indicate normal values.,2025-02-28
+2949,Blood Test,Results indicate abnormal values.,2025-02-12
+2571,MRI,Results indicate abnormal values.,2025-02-02
+101,X-Ray,Results indicate abnormal values.,2025-01-17
+1112,X-Ray,Results indicate low values.,2025-01-13
+264,CT Scan,Results indicate abnormal values.,2025-01-14
+989,MRI,Results indicate normal values.,2025-02-12
+1657,X-Ray,Results indicate abnormal values.,2025-01-06
+364,CT Scan,Results indicate high values.,2025-02-17
+3475,X-Ray,Results indicate abnormal values.,2025-03-11
+2469,X-Ray,Results indicate normal values.,2025-02-04
+3281,X-Ray,Results indicate high values.,2025-01-30
+1080,Blood Test,Results indicate high values.,2025-01-12
+2214,MRI,Results indicate high values.,2025-02-18
+3422,CT Scan,Results indicate abnormal values.,2025-02-01
+3031,X-Ray,Results indicate normal values.,2025-01-29
+1998,MRI,Results indicate normal values.,2025-02-17
+3070,Blood Test,Results indicate normal values.,2025-01-04
+1312,Blood Test,Results indicate abnormal values.,2025-01-28
+1778,Blood Test,Results indicate high values.,2025-02-07
+925,Blood Test,Results indicate normal values.,2025-02-16
+2740,X-Ray,Results indicate abnormal values.,2025-01-18
+2739,Blood Test,Results indicate abnormal values.,2025-02-08
+2089,X-Ray,Results indicate low values.,2025-01-24
+1409,CT Scan,Results indicate low values.,2025-01-25
+2782,Blood Test,Results indicate normal values.,2025-01-04
+140,Blood Test,Results indicate low values.,2025-01-06
+2619,X-Ray,Results indicate normal values.,2025-01-10
+2231,CT Scan,Results indicate normal values.,2025-01-03
+1993,X-Ray,Results indicate low values.,2025-02-20
+2960,CT Scan,Results indicate high values.,2025-03-06
+642,Blood Test,Results indicate normal values.,2025-01-11
+799,MRI,Results indicate low values.,2025-01-13
+2279,X-Ray,Results indicate high values.,2025-01-26
+1256,Blood Test,Results indicate normal values.,2025-01-05
+2072,CT Scan,Results indicate normal values.,2025-01-16
+3108,MRI,Results indicate abnormal values.,2025-01-10
+3468,Blood Test,Results indicate high values.,2025-02-03
+3172,Blood Test,Results indicate abnormal values.,2025-01-12
+2762,Blood Test,Results indicate abnormal values.,2025-02-13
+3329,CT Scan,Results indicate low values.,2025-02-16
+3294,CT Scan,Results indicate normal values.,2025-02-10
+1507,X-Ray,Results indicate low values.,2025-02-21
+673,CT Scan,Results indicate low values.,2025-02-22
+804,CT Scan,Results indicate low values.,2025-02-18
+119,MRI,Results indicate normal values.,2025-03-03
+1600,CT Scan,Results indicate normal values.,2025-02-11
+1714,Blood Test,Results indicate low values.,2025-02-05
+1974,MRI,Results indicate normal values.,2025-02-21
+420,MRI,Results indicate low values.,2025-03-08
+3244,X-Ray,Results indicate low values.,2025-02-07
+1723,Blood Test,Results indicate high values.,2025-02-26
+2793,X-Ray,Results indicate low values.,2025-03-12
+1418,X-Ray,Results indicate high values.,2025-02-06
+2109,Blood Test,Results indicate abnormal values.,2025-01-10
+2688,MRI,Results indicate normal values.,2025-02-12
+1710,MRI,Results indicate normal values.,2025-02-07
+3195,CT Scan,Results indicate low values.,2025-01-28
+1264,X-Ray,Results indicate normal values.,2025-02-28
+2588,Blood Test,Results indicate abnormal values.,2025-01-29
+2499,Blood Test,Results indicate abnormal values.,2025-02-19
+2642,CT Scan,Results indicate low values.,2025-01-21
+576,CT Scan,Results indicate low values.,2025-01-14
+1489,X-Ray,Results indicate abnormal values.,2025-01-08
+2832,MRI,Results indicate low values.,2025-01-21
+2172,Blood Test,Results indicate normal values.,2025-02-09
+424,X-Ray,Results indicate abnormal values.,2025-03-01
+2651,Blood Test,Results indicate high values.,2025-03-09
+2434,CT Scan,Results indicate low values.,2025-01-16
+507,X-Ray,Results indicate normal values.,2025-01-30
+455,CT Scan,Results indicate high values.,2025-03-12
+2278,CT Scan,Results indicate high values.,2025-03-01
+1077,MRI,Results indicate high values.,2025-03-03
+3476,X-Ray,Results indicate low values.,2025-01-20
+1868,Blood Test,Results indicate abnormal values.,2025-03-14
+1122,CT Scan,Results indicate low values.,2025-03-07
+2136,Blood Test,Results indicate high values.,2025-02-24
+1229,MRI,Results indicate low values.,2025-01-14
+2036,Blood Test,Results indicate abnormal values.,2025-01-09
+3333,X-Ray,Results indicate high values.,2025-01-17
+2197,MRI,Results indicate normal values.,2025-02-19
+3265,CT Scan,Results indicate normal values.,2025-01-12
+3401,MRI,Results indicate abnormal values.,2025-01-19
+1757,Blood Test,Results indicate normal values.,2025-02-25
+140,X-Ray,Results indicate high values.,2025-02-06
+672,MRI,Results indicate normal values.,2025-02-27
+2838,MRI,Results indicate normal values.,2025-03-15
+1005,X-Ray,Results indicate abnormal values.,2025-01-03
+479,CT Scan,Results indicate low values.,2025-02-24
+425,MRI,Results indicate normal values.,2025-02-09
+1636,X-Ray,Results indicate low values.,2025-01-23
+1940,X-Ray,Results indicate low values.,2025-02-24
+1234,X-Ray,Results indicate low values.,2025-03-02
+1179,Blood Test,Results indicate normal values.,2025-01-17
+775,CT Scan,Results indicate abnormal values.,2025-03-06
+1886,MRI,Results indicate low values.,2025-02-19
+831,MRI,Results indicate low values.,2025-01-14
+2580,CT Scan,Results indicate high values.,2025-03-06
+2105,X-Ray,Results indicate normal values.,2025-01-01
+1174,Blood Test,Results indicate abnormal values.,2025-02-27
+3339,Blood Test,Results indicate high values.,2025-01-07
+1308,MRI,Results indicate high values.,2025-01-08
+3004,X-Ray,Results indicate normal values.,2025-03-02
+2889,MRI,Results indicate high values.,2025-02-01
+1659,Blood Test,Results indicate high values.,2025-02-15
+1364,MRI,Results indicate high values.,2025-01-30
+1566,X-Ray,Results indicate high values.,2025-01-13
+2723,X-Ray,Results indicate low values.,2025-03-02
+191,Blood Test,Results indicate low values.,2025-02-02
+182,X-Ray,Results indicate high values.,2025-01-15
+2513,MRI,Results indicate high values.,2025-01-27
+2456,X-Ray,Results indicate low values.,2025-03-15
+859,MRI,Results indicate high values.,2025-03-07
+2486,CT Scan,Results indicate high values.,2025-01-14
+2477,MRI,Results indicate abnormal values.,2025-02-23
+77,X-Ray,Results indicate abnormal values.,2025-02-14
+3073,MRI,Results indicate high values.,2025-01-24
+3167,X-Ray,Results indicate high values.,2025-01-05
+2260,Blood Test,Results indicate normal values.,2025-02-07
+2479,CT Scan,Results indicate normal values.,2025-02-26
+3007,MRI,Results indicate low values.,2025-03-14
+1291,X-Ray,Results indicate normal values.,2025-02-21
+482,MRI,Results indicate high values.,2025-01-10
+3294,MRI,Results indicate high values.,2025-01-13
+2511,Blood Test,Results indicate low values.,2025-02-17
+1562,MRI,Results indicate abnormal values.,2025-01-10
+2631,CT Scan,Results indicate normal values.,2025-01-19
+2809,MRI,Results indicate normal values.,2025-02-17
+2667,MRI,Results indicate high values.,2025-01-24
+1537,MRI,Results indicate abnormal values.,2025-01-24
+3230,CT Scan,Results indicate high values.,2025-03-08
+2582,X-Ray,Results indicate abnormal values.,2025-02-25
+2153,X-Ray,Results indicate normal values.,2025-01-26
+1937,MRI,Results indicate high values.,2025-01-25
+814,X-Ray,Results indicate abnormal values.,2025-01-31
+238,X-Ray,Results indicate abnormal values.,2025-02-15
+2974,X-Ray,Results indicate abnormal values.,2025-02-14
+1141,CT Scan,Results indicate high values.,2025-02-05
+3459,Blood Test,Results indicate low values.,2025-01-05
+1531,CT Scan,Results indicate abnormal values.,2025-02-14
+417,X-Ray,Results indicate low values.,2025-01-10
+187,CT Scan,Results indicate low values.,2025-02-21
+148,Blood Test,Results indicate abnormal values.,2025-02-20
+1278,CT Scan,Results indicate normal values.,2025-02-13
+2626,MRI,Results indicate high values.,2025-03-07
+2587,CT Scan,Results indicate normal values.,2025-01-18
+3221,X-Ray,Results indicate low values.,2025-02-12
+1762,MRI,Results indicate high values.,2025-01-20
+2278,MRI,Results indicate normal values.,2025-02-11
+841,X-Ray,Results indicate high values.,2025-02-11
+3489,Blood Test,Results indicate normal values.,2025-03-15
+316,MRI,Results indicate low values.,2025-01-07
+1809,Blood Test,Results indicate high values.,2025-02-25
+931,MRI,Results indicate low values.,2025-03-12
+57,X-Ray,Results indicate normal values.,2025-02-16
+3061,X-Ray,Results indicate normal values.,2025-02-21
+3255,CT Scan,Results indicate high values.,2025-01-30
+3043,CT Scan,Results indicate high values.,2025-03-02
+915,X-Ray,Results indicate normal values.,2025-02-07
+2367,Blood Test,Results indicate high values.,2025-03-04
+682,MRI,Results indicate high values.,2025-01-30
+2380,MRI,Results indicate low values.,2025-02-16
+2581,CT Scan,Results indicate normal values.,2025-02-21
+3123,MRI,Results indicate abnormal values.,2025-01-19
+1153,Blood Test,Results indicate low values.,2025-02-10
+2079,Blood Test,Results indicate abnormal values.,2025-03-14
+1574,X-Ray,Results indicate high values.,2025-02-17
+302,MRI,Results indicate high values.,2025-03-08
+186,X-Ray,Results indicate normal values.,2025-01-25
+549,CT Scan,Results indicate low values.,2025-03-08
+2031,Blood Test,Results indicate abnormal values.,2025-01-25
+3157,MRI,Results indicate low values.,2025-01-12
+1712,CT Scan,Results indicate high values.,2025-03-08
+2779,X-Ray,Results indicate normal values.,2025-02-03
+1357,MRI,Results indicate low values.,2025-02-06
+152,MRI,Results indicate high values.,2025-03-04
+987,MRI,Results indicate low values.,2025-01-25
+1829,Blood Test,Results indicate abnormal values.,2025-03-09
+3147,CT Scan,Results indicate high values.,2025-01-13
+2321,MRI,Results indicate low values.,2025-01-01
+2208,X-Ray,Results indicate abnormal values.,2025-01-17
+1958,X-Ray,Results indicate low values.,2025-01-07
+2725,MRI,Results indicate abnormal values.,2025-01-06
+2680,CT Scan,Results indicate high values.,2025-01-29
+3001,CT Scan,Results indicate low values.,2025-03-08
+2027,MRI,Results indicate abnormal values.,2025-02-11
+3028,X-Ray,Results indicate low values.,2025-02-24
+2154,X-Ray,Results indicate high values.,2025-03-02
+2980,Blood Test,Results indicate normal values.,2025-01-26
+1438,CT Scan,Results indicate low values.,2025-01-17
+1990,CT Scan,Results indicate low values.,2025-01-03
+2240,MRI,Results indicate high values.,2025-03-06
+3073,X-Ray,Results indicate normal values.,2025-01-17
+2444,MRI,Results indicate high values.,2025-03-07
+1550,Blood Test,Results indicate low values.,2025-01-01
+1709,X-Ray,Results indicate high values.,2025-02-05
+2325,CT Scan,Results indicate high values.,2025-01-15
+1805,CT Scan,Results indicate low values.,2025-02-09
+1042,X-Ray,Results indicate abnormal values.,2025-03-10
+2742,X-Ray,Results indicate high values.,2025-01-16
+1035,MRI,Results indicate abnormal values.,2025-02-17
+1539,CT Scan,Results indicate low values.,2025-02-16
+1396,Blood Test,Results indicate high values.,2025-02-13
+1273,Blood Test,Results indicate normal values.,2025-01-14
+514,Blood Test,Results indicate low values.,2025-02-12
+900,MRI,Results indicate low values.,2025-01-09
+1921,CT Scan,Results indicate low values.,2025-03-06
+797,CT Scan,Results indicate low values.,2025-01-05
+1068,MRI,Results indicate normal values.,2025-03-03
+57,X-Ray,Results indicate low values.,2025-01-12
+1580,Blood Test,Results indicate normal values.,2025-01-20
+2670,X-Ray,Results indicate normal values.,2025-02-17
+3498,MRI,Results indicate high values.,2025-01-02
+1456,X-Ray,Results indicate normal values.,2025-02-09
+3225,Blood Test,Results indicate low values.,2025-02-25
+2615,X-Ray,Results indicate abnormal values.,2025-02-22
+158,Blood Test,Results indicate high values.,2025-01-18
+2784,X-Ray,Results indicate high values.,2025-03-05
+297,Blood Test,Results indicate high values.,2025-01-25
+2269,CT Scan,Results indicate normal values.,2025-02-16
+1928,MRI,Results indicate high values.,2025-02-10
+2398,CT Scan,Results indicate normal values.,2025-01-19
+1689,CT Scan,Results indicate high values.,2025-03-04
+3449,X-Ray,Results indicate normal values.,2025-01-10
+309,MRI,Results indicate high values.,2025-01-18
+572,CT Scan,Results indicate low values.,2025-02-21
+2445,X-Ray,Results indicate normal values.,2025-02-17
+406,MRI,Results indicate abnormal values.,2025-02-07
+708,CT Scan,Results indicate normal values.,2025-02-12
+1346,CT Scan,Results indicate low values.,2025-02-09
+3400,MRI,Results indicate high values.,2025-02-15
+129,MRI,Results indicate abnormal values.,2025-01-07
+3387,CT Scan,Results indicate normal values.,2025-02-19
+1891,CT Scan,Results indicate low values.,2025-01-06
+1092,CT Scan,Results indicate normal values.,2025-03-02
+2896,Blood Test,Results indicate normal values.,2025-02-13
+3288,X-Ray,Results indicate normal values.,2025-03-06
+1498,Blood Test,Results indicate low values.,2025-01-29
+1975,MRI,Results indicate abnormal values.,2025-02-22
+2384,MRI,Results indicate abnormal values.,2025-01-30
+101,CT Scan,Results indicate high values.,2025-02-20
+879,Blood Test,Results indicate high values.,2025-02-12
+3150,CT Scan,Results indicate abnormal values.,2025-01-20
+759,X-Ray,Results indicate high values.,2025-02-14
+3290,X-Ray,Results indicate abnormal values.,2025-03-04
+3359,X-Ray,Results indicate low values.,2025-03-06
+863,X-Ray,Results indicate abnormal values.,2025-01-10
+2624,CT Scan,Results indicate abnormal values.,2025-02-21
+1946,Blood Test,Results indicate normal values.,2025-02-06
+1020,MRI,Results indicate abnormal values.,2025-01-08
+1503,X-Ray,Results indicate high values.,2025-03-09
+2860,X-Ray,Results indicate low values.,2025-01-12
+1142,CT Scan,Results indicate normal values.,2025-03-12
+1404,X-Ray,Results indicate normal values.,2025-02-13
+131,X-Ray,Results indicate abnormal values.,2025-02-13
+2900,MRI,Results indicate abnormal values.,2025-03-08
+2194,Blood Test,Results indicate abnormal values.,2025-03-01
+453,Blood Test,Results indicate abnormal values.,2025-02-02
+3082,Blood Test,Results indicate high values.,2025-01-19
+2264,CT Scan,Results indicate abnormal values.,2025-01-27
+1150,CT Scan,Results indicate low values.,2025-03-14
+121,CT Scan,Results indicate low values.,2025-01-19
+822,MRI,Results indicate high values.,2025-02-05
+1861,CT Scan,Results indicate high values.,2025-02-20
+1645,CT Scan,Results indicate high values.,2025-01-16
+1788,CT Scan,Results indicate abnormal values.,2025-02-28
+2312,Blood Test,Results indicate high values.,2025-02-28
+1818,Blood Test,Results indicate low values.,2025-01-08
+2964,Blood Test,Results indicate normal values.,2025-03-09
+1958,X-Ray,Results indicate low values.,2025-02-18
+2517,MRI,Results indicate low values.,2025-01-26
+70,CT Scan,Results indicate abnormal values.,2025-03-11
+1569,CT Scan,Results indicate normal values.,2025-01-10
+1288,X-Ray,Results indicate abnormal values.,2025-02-07
+1307,MRI,Results indicate abnormal values.,2025-02-13
+962,CT Scan,Results indicate abnormal values.,2025-02-22
+3207,CT Scan,Results indicate low values.,2025-01-26
+923,Blood Test,Results indicate low values.,2025-01-12
+1832,X-Ray,Results indicate abnormal values.,2025-01-27
+2658,X-Ray,Results indicate abnormal values.,2025-02-04
+2615,MRI,Results indicate abnormal values.,2025-03-11
+341,MRI,Results indicate abnormal values.,2025-01-17
+802,X-Ray,Results indicate high values.,2025-01-29
+984,CT Scan,Results indicate low values.,2025-03-05
+3189,X-Ray,Results indicate low values.,2025-01-29
+1255,CT Scan,Results indicate abnormal values.,2025-03-08
+2050,X-Ray,Results indicate normal values.,2025-02-23
+1041,X-Ray,Results indicate normal values.,2025-01-06
+2213,Blood Test,Results indicate low values.,2025-01-13
+3135,MRI,Results indicate abnormal values.,2025-02-07
+3264,Blood Test,Results indicate normal values.,2025-02-17
+1588,MRI,Results indicate abnormal values.,2025-01-24
+1088,X-Ray,Results indicate high values.,2025-02-28
+348,Blood Test,Results indicate normal values.,2025-01-29
+464,CT Scan,Results indicate normal values.,2025-02-22
+2608,X-Ray,Results indicate normal values.,2025-01-28
+3117,MRI,Results indicate normal values.,2025-01-29
+421,CT Scan,Results indicate abnormal values.,2025-01-26
+2098,MRI,Results indicate high values.,2025-02-02
+2857,Blood Test,Results indicate normal values.,2025-02-12
+1555,CT Scan,Results indicate low values.,2025-01-22
+2220,X-Ray,Results indicate high values.,2025-02-03
+3164,X-Ray,Results indicate abnormal values.,2025-02-25
+1744,CT Scan,Results indicate high values.,2025-01-14
+1357,MRI,Results indicate low values.,2025-02-09
+1447,CT Scan,Results indicate normal values.,2025-02-13
+2884,CT Scan,Results indicate low values.,2025-01-15
+1821,CT Scan,Results indicate high values.,2025-01-02
+916,MRI,Results indicate low values.,2025-03-05
+958,Blood Test,Results indicate normal values.,2025-02-28
+396,Blood Test,Results indicate high values.,2025-01-17
+1849,X-Ray,Results indicate abnormal values.,2025-01-20
+2088,MRI,Results indicate normal values.,2025-01-29
+2139,MRI,Results indicate high values.,2025-01-13
+429,Blood Test,Results indicate low values.,2025-01-03
+3222,CT Scan,Results indicate normal values.,2025-03-04
+2684,MRI,Results indicate normal values.,2025-02-26
+1948,X-Ray,Results indicate normal values.,2025-02-18
+1871,Blood Test,Results indicate normal values.,2025-02-27
+1562,MRI,Results indicate abnormal values.,2025-01-31
+147,Blood Test,Results indicate abnormal values.,2025-02-13
+1641,CT Scan,Results indicate abnormal values.,2025-01-14
+1409,MRI,Results indicate normal values.,2025-03-05
+2655,MRI,Results indicate abnormal values.,2025-01-05
+1366,Blood Test,Results indicate normal values.,2025-02-02
+3324,X-Ray,Results indicate abnormal values.,2025-02-02
+2818,MRI,Results indicate low values.,2025-03-03
+2913,MRI,Results indicate low values.,2025-01-02
+2767,MRI,Results indicate high values.,2025-01-27
+3451,Blood Test,Results indicate normal values.,2025-01-17
+780,Blood Test,Results indicate low values.,2025-01-12
+2693,X-Ray,Results indicate low values.,2025-01-16
+2696,MRI,Results indicate normal values.,2025-02-11
+2567,Blood Test,Results indicate low values.,2025-01-19
+1123,Blood Test,Results indicate normal values.,2025-02-20
+2926,X-Ray,Results indicate low values.,2025-02-05
+200,Blood Test,Results indicate high values.,2025-01-17
+995,CT Scan,Results indicate high values.,2025-02-27
+1441,X-Ray,Results indicate high values.,2025-02-23
+1859,CT Scan,Results indicate abnormal values.,2025-03-10
+1538,CT Scan,Results indicate abnormal values.,2025-01-11
+3177,MRI,Results indicate high values.,2025-02-09
+1365,MRI,Results indicate high values.,2025-02-15
+607,MRI,Results indicate normal values.,2025-01-05
+2075,Blood Test,Results indicate abnormal values.,2025-03-03
+3001,CT Scan,Results indicate low values.,2025-02-02
+1303,CT Scan,Results indicate high values.,2025-02-14
+845,X-Ray,Results indicate normal values.,2025-03-13
+1432,X-Ray,Results indicate low values.,2025-02-15
+2377,CT Scan,Results indicate normal values.,2025-01-03
+574,Blood Test,Results indicate abnormal values.,2025-02-06
+3288,CT Scan,Results indicate normal values.,2025-02-26
+2139,CT Scan,Results indicate normal values.,2025-02-27
+2647,CT Scan,Results indicate low values.,2025-02-17
+1896,X-Ray,Results indicate abnormal values.,2025-02-02
+2904,Blood Test,Results indicate normal values.,2025-03-03
+356,CT Scan,Results indicate high values.,2025-02-09
+2127,X-Ray,Results indicate high values.,2025-02-14
+8,MRI,Results indicate abnormal values.,2025-02-16
+99,MRI,Results indicate low values.,2025-02-21
+3356,X-Ray,Results indicate normal values.,2025-02-10
+2771,X-Ray,Results indicate low values.,2025-02-17
+2389,X-Ray,Results indicate high values.,2025-02-02
+2150,MRI,Results indicate normal values.,2025-01-20
+3079,MRI,Results indicate abnormal values.,2025-03-15
+3425,Blood Test,Results indicate high values.,2025-01-15
+1741,MRI,Results indicate abnormal values.,2025-02-03
+1725,X-Ray,Results indicate normal values.,2025-01-01
+1657,Blood Test,Results indicate normal values.,2025-02-28
+343,MRI,Results indicate normal values.,2025-01-22
+1266,Blood Test,Results indicate high values.,2025-01-08
+219,X-Ray,Results indicate high values.,2025-01-10
+1691,X-Ray,Results indicate abnormal values.,2025-03-10
+3219,X-Ray,Results indicate high values.,2025-02-05
+2063,Blood Test,Results indicate normal values.,2025-01-24
+2446,MRI,Results indicate high values.,2025-03-09
+1143,MRI,Results indicate normal values.,2025-01-13
+2388,Blood Test,Results indicate high values.,2025-01-12
+1904,Blood Test,Results indicate abnormal values.,2025-03-10
+609,MRI,Results indicate abnormal values.,2025-02-06
+803,Blood Test,Results indicate abnormal values.,2025-03-07
+2195,Blood Test,Results indicate high values.,2025-03-12
+1098,CT Scan,Results indicate abnormal values.,2025-02-16
+2192,MRI,Results indicate low values.,2025-02-08
+326,Blood Test,Results indicate normal values.,2025-01-30
+2166,X-Ray,Results indicate high values.,2025-02-25
+363,X-Ray,Results indicate high values.,2025-02-25
+3401,CT Scan,Results indicate abnormal values.,2025-01-18
+3484,MRI,Results indicate high values.,2025-01-22
+3312,X-Ray,Results indicate low values.,2025-02-01
+3418,MRI,Results indicate low values.,2025-01-29
+2442,CT Scan,Results indicate high values.,2025-01-17
+394,MRI,Results indicate abnormal values.,2025-03-13
+2509,Blood Test,Results indicate abnormal values.,2025-01-01
+326,X-Ray,Results indicate abnormal values.,2025-03-12
+1975,MRI,Results indicate high values.,2025-03-11
+2198,X-Ray,Results indicate low values.,2025-02-03
+1627,CT Scan,Results indicate low values.,2025-01-08
+2093,CT Scan,Results indicate abnormal values.,2025-01-12
+3001,MRI,Results indicate high values.,2025-03-10
+2873,CT Scan,Results indicate high values.,2025-02-12
+1171,MRI,Results indicate high values.,2025-01-29
+1854,X-Ray,Results indicate abnormal values.,2025-02-21
+2231,X-Ray,Results indicate normal values.,2025-01-23
+361,CT Scan,Results indicate abnormal values.,2025-03-08
+2700,CT Scan,Results indicate normal values.,2025-01-20
+991,CT Scan,Results indicate abnormal values.,2025-02-20
+764,MRI,Results indicate abnormal values.,2025-02-24
+3032,Blood Test,Results indicate high values.,2025-01-23
+412,X-Ray,Results indicate low values.,2025-01-20
+2991,Blood Test,Results indicate normal values.,2025-01-14
+690,Blood Test,Results indicate high values.,2025-02-18
+1675,X-Ray,Results indicate normal values.,2025-02-07
+1944,MRI,Results indicate high values.,2025-02-26
+1455,MRI,Results indicate normal values.,2025-03-15
+3255,CT Scan,Results indicate high values.,2025-03-10
+2959,X-Ray,Results indicate low values.,2025-01-14
+2831,X-Ray,Results indicate abnormal values.,2025-03-08
+2318,CT Scan,Results indicate normal values.,2025-02-22
+205,X-Ray,Results indicate low values.,2025-01-18
+1034,MRI,Results indicate low values.,2025-02-02
+2168,X-Ray,Results indicate high values.,2025-02-09
+2177,MRI,Results indicate normal values.,2025-01-14
+3386,CT Scan,Results indicate abnormal values.,2025-01-26
+2821,MRI,Results indicate abnormal values.,2025-01-25
+994,CT Scan,Results indicate high values.,2025-03-11
+2432,MRI,Results indicate low values.,2025-02-05
+2700,Blood Test,Results indicate high values.,2025-01-07
+1869,X-Ray,Results indicate normal values.,2025-03-15
+792,MRI,Results indicate low values.,2025-02-07
+2670,X-Ray,Results indicate abnormal values.,2025-02-19
+316,CT Scan,Results indicate normal values.,2025-02-23
+2112,CT Scan,Results indicate high values.,2025-01-18
+3153,Blood Test,Results indicate abnormal values.,2025-03-06
+321,Blood Test,Results indicate abnormal values.,2025-01-26
+1178,CT Scan,Results indicate high values.,2025-01-02
+154,MRI,Results indicate low values.,2025-02-24
+2413,X-Ray,Results indicate normal values.,2025-01-15
+264,CT Scan,Results indicate normal values.,2025-03-02
+2237,MRI,Results indicate normal values.,2025-01-10
+194,CT Scan,Results indicate abnormal values.,2025-02-07
+310,Blood Test,Results indicate high values.,2025-01-18
+733,MRI,Results indicate low values.,2025-02-19
+2868,CT Scan,Results indicate abnormal values.,2025-02-21
+2592,Blood Test,Results indicate normal values.,2025-02-21
+3460,Blood Test,Results indicate low values.,2025-01-07
+2789,MRI,Results indicate abnormal values.,2025-02-13
+2304,CT Scan,Results indicate high values.,2025-01-13
+2331,MRI,Results indicate low values.,2025-02-06
+1828,MRI,Results indicate normal values.,2025-02-20
+2191,X-Ray,Results indicate abnormal values.,2025-01-31
+2805,MRI,Results indicate high values.,2025-01-11
+1563,X-Ray,Results indicate normal values.,2025-02-03
+206,Blood Test,Results indicate high values.,2025-02-20
+722,MRI,Results indicate normal values.,2025-02-18
+3232,MRI,Results indicate normal values.,2025-01-17
+641,Blood Test,Results indicate high values.,2025-02-06
+969,CT Scan,Results indicate normal values.,2025-03-15
+3403,Blood Test,Results indicate abnormal values.,2025-01-03
+455,X-Ray,Results indicate normal values.,2025-03-12
+1756,Blood Test,Results indicate normal values.,2025-01-04
+613,X-Ray,Results indicate abnormal values.,2025-02-16
+3223,MRI,Results indicate low values.,2025-02-06
+1484,Blood Test,Results indicate low values.,2025-01-27
+95,X-Ray,Results indicate high values.,2025-01-19
+2900,X-Ray,Results indicate normal values.,2025-03-08
+2745,X-Ray,Results indicate high values.,2025-02-07
+1609,MRI,Results indicate abnormal values.,2025-01-06
+3311,Blood Test,Results indicate normal values.,2025-01-29
+2717,X-Ray,Results indicate abnormal values.,2025-02-10
+83,Blood Test,Results indicate low values.,2025-02-24
+3239,CT Scan,Results indicate high values.,2025-02-14
+2683,X-Ray,Results indicate normal values.,2025-03-02
+1002,MRI,Results indicate low values.,2025-03-13
+2574,X-Ray,Results indicate abnormal values.,2025-01-14
+2712,X-Ray,Results indicate low values.,2025-01-18
+3137,X-Ray,Results indicate low values.,2025-03-12
+1084,MRI,Results indicate low values.,2025-02-06
+2432,Blood Test,Results indicate high values.,2025-02-21
+1872,X-Ray,Results indicate abnormal values.,2025-03-05
+1498,CT Scan,Results indicate abnormal values.,2025-03-04
+260,CT Scan,Results indicate normal values.,2025-01-06
+3100,X-Ray,Results indicate abnormal values.,2025-01-04
+2431,MRI,Results indicate low values.,2025-01-04
+2950,MRI,Results indicate normal values.,2025-02-16
+1501,X-Ray,Results indicate normal values.,2025-03-09
+3495,CT Scan,Results indicate abnormal values.,2025-01-01
+388,Blood Test,Results indicate low values.,2025-01-21
+356,MRI,Results indicate high values.,2025-01-23
+343,X-Ray,Results indicate high values.,2025-02-03
+2422,CT Scan,Results indicate normal values.,2025-01-14
+3358,X-Ray,Results indicate high values.,2025-02-11
+980,MRI,Results indicate low values.,2025-02-10
+3076,X-Ray,Results indicate low values.,2025-01-07
+3157,X-Ray,Results indicate high values.,2025-01-16
+935,X-Ray,Results indicate high values.,2025-01-31
+786,X-Ray,Results indicate abnormal values.,2025-01-31
+2154,X-Ray,Results indicate low values.,2025-03-12
+3129,MRI,Results indicate normal values.,2025-03-11
+33,X-Ray,Results indicate abnormal values.,2025-01-23
+1216,MRI,Results indicate low values.,2025-01-17
+2160,Blood Test,Results indicate low values.,2025-02-28
+3417,CT Scan,Results indicate high values.,2025-01-22
+3354,Blood Test,Results indicate abnormal values.,2025-02-03
+1300,Blood Test,Results indicate low values.,2025-02-18
+2847,X-Ray,Results indicate high values.,2025-02-23
+3103,X-Ray,Results indicate normal values.,2025-02-03
+2370,Blood Test,Results indicate high values.,2025-01-22
+1762,CT Scan,Results indicate abnormal values.,2025-03-09
+3105,Blood Test,Results indicate low values.,2025-01-19
+2712,Blood Test,Results indicate high values.,2025-03-06
+3164,CT Scan,Results indicate normal values.,2025-01-03
+2129,X-Ray,Results indicate abnormal values.,2025-02-10
+1717,Blood Test,Results indicate normal values.,2025-03-10
+2211,X-Ray,Results indicate abnormal values.,2025-02-16
+23,X-Ray,Results indicate normal values.,2025-01-06
+1265,Blood Test,Results indicate high values.,2025-01-23
+2067,Blood Test,Results indicate low values.,2025-02-20
+1789,CT Scan,Results indicate high values.,2025-01-08
+2041,Blood Test,Results indicate high values.,2025-02-14
+1823,X-Ray,Results indicate high values.,2025-01-08
+1718,X-Ray,Results indicate abnormal values.,2025-02-09
+1435,Blood Test,Results indicate low values.,2025-02-07
+3481,CT Scan,Results indicate abnormal values.,2025-03-09
+2289,CT Scan,Results indicate abnormal values.,2025-03-07
+3314,X-Ray,Results indicate low values.,2025-01-07
+2103,MRI,Results indicate low values.,2025-03-10
+3308,Blood Test,Results indicate normal values.,2025-03-14
+790,X-Ray,Results indicate normal values.,2025-01-20
+764,CT Scan,Results indicate low values.,2025-01-13
+2092,X-Ray,Results indicate normal values.,2025-03-02
+2446,CT Scan,Results indicate abnormal values.,2025-02-10
+295,MRI,Results indicate high values.,2025-01-06
+901,X-Ray,Results indicate normal values.,2025-01-14
+2641,MRI,Results indicate low values.,2025-01-17
+2029,Blood Test,Results indicate high values.,2025-01-30
+191,MRI,Results indicate abnormal values.,2025-02-07
+1677,Blood Test,Results indicate abnormal values.,2025-03-07
+1887,Blood Test,Results indicate abnormal values.,2025-03-02
+572,Blood Test,Results indicate low values.,2025-01-07
+1130,MRI,Results indicate low values.,2025-02-09
+2691,CT Scan,Results indicate high values.,2025-01-26
+242,Blood Test,Results indicate high values.,2025-02-26
+2735,MRI,Results indicate abnormal values.,2025-02-28
+3331,Blood Test,Results indicate normal values.,2025-01-30
+2178,MRI,Results indicate normal values.,2025-01-23
+605,CT Scan,Results indicate low values.,2025-02-06
+301,X-Ray,Results indicate low values.,2025-01-24
+1206,CT Scan,Results indicate high values.,2025-01-11
+657,CT Scan,Results indicate normal values.,2025-02-10
+2254,CT Scan,Results indicate low values.,2025-02-15
+401,X-Ray,Results indicate abnormal values.,2025-01-05
+399,X-Ray,Results indicate abnormal values.,2025-02-16
+2022,Blood Test,Results indicate low values.,2025-01-31
+600,CT Scan,Results indicate normal values.,2025-01-03
+2775,Blood Test,Results indicate abnormal values.,2025-03-03
+1038,Blood Test,Results indicate low values.,2025-01-21
+3358,X-Ray,Results indicate abnormal values.,2025-01-31
+2422,MRI,Results indicate normal values.,2025-02-10
+2422,MRI,Results indicate normal values.,2025-02-17
+2994,CT Scan,Results indicate low values.,2025-01-07
+2534,CT Scan,Results indicate low values.,2025-03-11
+722,MRI,Results indicate low values.,2025-02-11
+29,X-Ray,Results indicate normal values.,2025-01-03
+3034,X-Ray,Results indicate normal values.,2025-02-26
+1421,MRI,Results indicate low values.,2025-03-11
+2450,MRI,Results indicate high values.,2025-01-02
+2249,Blood Test,Results indicate low values.,2025-01-27
+2927,Blood Test,Results indicate normal values.,2025-01-10
+2774,X-Ray,Results indicate high values.,2025-03-06
+2347,MRI,Results indicate normal values.,2025-01-20
+98,X-Ray,Results indicate normal values.,2025-02-06
+2614,CT Scan,Results indicate normal values.,2025-03-14
+1654,Blood Test,Results indicate abnormal values.,2025-02-13
+2656,X-Ray,Results indicate abnormal values.,2025-01-27
+3259,Blood Test,Results indicate high values.,2025-01-03
+2426,Blood Test,Results indicate abnormal values.,2025-03-09
+839,CT Scan,Results indicate normal values.,2025-03-14
+1120,X-Ray,Results indicate low values.,2025-01-19
+2802,Blood Test,Results indicate normal values.,2025-03-02
+2030,CT Scan,Results indicate low values.,2025-02-05
+1134,X-Ray,Results indicate high values.,2025-03-07
+566,Blood Test,Results indicate normal values.,2025-01-26
+2335,X-Ray,Results indicate normal values.,2025-02-04
+1726,CT Scan,Results indicate high values.,2025-01-18
+1872,CT Scan,Results indicate low values.,2025-01-14
+2296,CT Scan,Results indicate low values.,2025-01-17
+570,MRI,Results indicate low values.,2025-02-28
+1124,CT Scan,Results indicate normal values.,2025-02-21
+331,Blood Test,Results indicate normal values.,2025-01-27
+386,CT Scan,Results indicate high values.,2025-01-14
+538,CT Scan,Results indicate high values.,2025-01-13
+1687,Blood Test,Results indicate normal values.,2025-01-08
+648,X-Ray,Results indicate high values.,2025-02-09
+2166,MRI,Results indicate abnormal values.,2025-02-25
+2565,X-Ray,Results indicate high values.,2025-03-01
+1830,MRI,Results indicate low values.,2025-01-18
+2211,X-Ray,Results indicate normal values.,2025-02-25
+1765,MRI,Results indicate abnormal values.,2025-01-12
+860,CT Scan,Results indicate high values.,2025-01-19
+1062,MRI,Results indicate low values.,2025-02-10
+450,Blood Test,Results indicate low values.,2025-02-14
+2529,MRI,Results indicate high values.,2025-01-28
+836,MRI,Results indicate high values.,2025-02-04
+2281,X-Ray,Results indicate high values.,2025-02-10
+753,Blood Test,Results indicate abnormal values.,2025-01-06
+3483,Blood Test,Results indicate low values.,2025-03-04
+3012,MRI,Results indicate abnormal values.,2025-02-13
+911,Blood Test,Results indicate abnormal values.,2025-02-02
+2528,CT Scan,Results indicate normal values.,2025-01-22
+3029,MRI,Results indicate normal values.,2025-02-23
+3451,Blood Test,Results indicate low values.,2025-01-07
+1936,X-Ray,Results indicate low values.,2025-01-21
+2431,CT Scan,Results indicate high values.,2025-02-12
+2668,MRI,Results indicate normal values.,2025-01-16
+932,CT Scan,Results indicate normal values.,2025-02-10
+2056,MRI,Results indicate normal values.,2025-01-13
+1599,CT Scan,Results indicate abnormal values.,2025-02-13
+2120,Blood Test,Results indicate normal values.,2025-02-13
+2657,Blood Test,Results indicate high values.,2025-01-20
+1232,Blood Test,Results indicate low values.,2025-02-27
+693,Blood Test,Results indicate high values.,2025-01-06
+1117,CT Scan,Results indicate low values.,2025-01-07
+1999,X-Ray,Results indicate high values.,2025-02-18
+30,Blood Test,Results indicate abnormal values.,2025-02-19
+327,MRI,Results indicate low values.,2025-01-17
+2833,X-Ray,Results indicate normal values.,2025-01-31
+333,X-Ray,Results indicate abnormal values.,2025-02-25
+1998,Blood Test,Results indicate normal values.,2025-01-03
+2724,X-Ray,Results indicate normal values.,2025-01-22
+3280,MRI,Results indicate abnormal values.,2025-02-15
+2766,CT Scan,Results indicate high values.,2025-03-13
+1531,CT Scan,Results indicate high values.,2025-01-04
+857,MRI,Results indicate high values.,2025-02-19
+726,X-Ray,Results indicate high values.,2025-01-27
+1382,MRI,Results indicate high values.,2025-01-21
+518,X-Ray,Results indicate high values.,2025-01-06
+1918,MRI,Results indicate normal values.,2025-01-23
+1856,CT Scan,Results indicate abnormal values.,2025-01-15
+2208,X-Ray,Results indicate normal values.,2025-01-13
+1207,X-Ray,Results indicate high values.,2025-01-11
+1335,X-Ray,Results indicate abnormal values.,2025-01-10
+1104,X-Ray,Results indicate low values.,2025-01-29
+605,X-Ray,Results indicate high values.,2025-01-07
+519,Blood Test,Results indicate high values.,2025-02-07
+1362,X-Ray,Results indicate normal values.,2025-02-11
+405,MRI,Results indicate abnormal values.,2025-02-05
+1503,CT Scan,Results indicate normal values.,2025-01-05
+2461,X-Ray,Results indicate abnormal values.,2025-02-07
+3482,MRI,Results indicate low values.,2025-02-12
+1668,CT Scan,Results indicate low values.,2025-02-18
+825,CT Scan,Results indicate abnormal values.,2025-02-08
+2679,X-Ray,Results indicate high values.,2025-02-27
+1594,X-Ray,Results indicate high values.,2025-02-13
+1410,Blood Test,Results indicate abnormal values.,2025-03-13
+2543,Blood Test,Results indicate high values.,2025-02-23
+323,X-Ray,Results indicate normal values.,2025-01-13
+2336,MRI,Results indicate normal values.,2025-01-30
+2359,X-Ray,Results indicate high values.,2025-01-01
+3055,X-Ray,Results indicate high values.,2025-03-04
+2845,MRI,Results indicate abnormal values.,2025-02-06
+363,MRI,Results indicate low values.,2025-01-12
+1060,X-Ray,Results indicate high values.,2025-01-15
+798,X-Ray,Results indicate abnormal values.,2025-01-23
+419,Blood Test,Results indicate high values.,2025-02-27
+383,CT Scan,Results indicate normal values.,2025-02-16
+2944,MRI,Results indicate low values.,2025-01-24
+1205,CT Scan,Results indicate abnormal values.,2025-03-01
+2523,Blood Test,Results indicate normal values.,2025-02-23
+561,X-Ray,Results indicate low values.,2025-02-16
+2371,CT Scan,Results indicate high values.,2025-03-04
+966,MRI,Results indicate low values.,2025-01-27
+2235,Blood Test,Results indicate low values.,2025-03-04
+3478,MRI,Results indicate normal values.,2025-01-09
+1017,MRI,Results indicate high values.,2025-01-23
+2645,MRI,Results indicate normal values.,2025-02-07
+3251,Blood Test,Results indicate abnormal values.,2025-02-01
+616,MRI,Results indicate high values.,2025-01-21
+2358,MRI,Results indicate normal values.,2025-01-21
+3406,CT Scan,Results indicate high values.,2025-02-02
+1937,MRI,Results indicate normal values.,2025-01-12
+593,CT Scan,Results indicate abnormal values.,2025-03-15
+3220,MRI,Results indicate low values.,2025-03-15
+1060,MRI,Results indicate high values.,2025-01-24
+362,Blood Test,Results indicate low values.,2025-01-08
+1262,MRI,Results indicate abnormal values.,2025-02-27
+3376,CT Scan,Results indicate abnormal values.,2025-01-12
+3410,Blood Test,Results indicate abnormal values.,2025-01-21
+547,MRI,Results indicate high values.,2025-02-25
+2059,MRI,Results indicate low values.,2025-01-21
+12,MRI,Results indicate low values.,2025-02-12
+82,CT Scan,Results indicate high values.,2025-02-23
+605,CT Scan,Results indicate normal values.,2025-01-20
+2312,X-Ray,Results indicate abnormal values.,2025-02-26
+938,CT Scan,Results indicate abnormal values.,2025-02-02
+3439,Blood Test,Results indicate normal values.,2025-01-02
+1518,MRI,Results indicate normal values.,2025-01-24
+2131,Blood Test,Results indicate high values.,2025-01-08
+1628,Blood Test,Results indicate normal values.,2025-03-03
+1820,CT Scan,Results indicate abnormal values.,2025-02-20
+441,MRI,Results indicate abnormal values.,2025-02-11
+1243,Blood Test,Results indicate low values.,2025-02-05
+3319,CT Scan,Results indicate low values.,2025-01-15
+658,X-Ray,Results indicate low values.,2025-01-12
+1544,X-Ray,Results indicate low values.,2025-02-06
+2584,CT Scan,Results indicate abnormal values.,2025-01-17
+1480,X-Ray,Results indicate high values.,2025-01-02
+1779,Blood Test,Results indicate low values.,2025-02-09
+653,MRI,Results indicate normal values.,2025-02-05
+2918,Blood Test,Results indicate low values.,2025-01-27
+2257,X-Ray,Results indicate normal values.,2025-03-05
+926,X-Ray,Results indicate high values.,2025-02-02
+2123,MRI,Results indicate normal values.,2025-01-16
+545,Blood Test,Results indicate low values.,2025-02-26
+1717,Blood Test,Results indicate low values.,2025-02-15
+2447,CT Scan,Results indicate normal values.,2025-01-01
+1267,Blood Test,Results indicate low values.,2025-02-07
+936,MRI,Results indicate normal values.,2025-03-13
+764,Blood Test,Results indicate high values.,2025-02-08
+3401,MRI,Results indicate high values.,2025-03-07
+1316,CT Scan,Results indicate normal values.,2025-01-02
+2339,MRI,Results indicate abnormal values.,2025-02-23
+3495,X-Ray,Results indicate normal values.,2025-03-02
+969,Blood Test,Results indicate normal values.,2025-02-01
+2100,X-Ray,Results indicate abnormal values.,2025-03-15
+713,CT Scan,Results indicate low values.,2025-03-11
+3313,CT Scan,Results indicate normal values.,2025-02-01
+1796,MRI,Results indicate high values.,2025-02-19
+2757,CT Scan,Results indicate low values.,2025-01-09
+926,MRI,Results indicate normal values.,2025-02-07
+468,MRI,Results indicate high values.,2025-02-17
+2873,X-Ray,Results indicate high values.,2025-01-27
+2729,MRI,Results indicate abnormal values.,2025-01-04
+3122,X-Ray,Results indicate abnormal values.,2025-03-12
+570,MRI,Results indicate normal values.,2025-02-08
+3085,Blood Test,Results indicate abnormal values.,2025-01-21
+2448,Blood Test,Results indicate low values.,2025-02-05
+631,CT Scan,Results indicate abnormal values.,2025-03-08
+3094,MRI,Results indicate high values.,2025-02-07
+765,Blood Test,Results indicate low values.,2025-01-26
+1417,MRI,Results indicate high values.,2025-01-10
+2932,X-Ray,Results indicate normal values.,2025-01-01
+1675,Blood Test,Results indicate normal values.,2025-02-15
+945,MRI,Results indicate low values.,2025-01-08
+1975,X-Ray,Results indicate high values.,2025-02-25
+733,X-Ray,Results indicate abnormal values.,2025-01-24
+2077,MRI,Results indicate normal values.,2025-02-27
+3402,X-Ray,Results indicate abnormal values.,2025-03-11
+1442,X-Ray,Results indicate normal values.,2025-01-28
+1837,CT Scan,Results indicate normal values.,2025-01-08
+1138,X-Ray,Results indicate low values.,2025-03-04
+1695,MRI,Results indicate normal values.,2025-03-15
+2033,CT Scan,Results indicate high values.,2025-01-03
+3136,MRI,Results indicate low values.,2025-03-02
+48,CT Scan,Results indicate abnormal values.,2025-03-14
+1925,MRI,Results indicate abnormal values.,2025-01-31
+2795,CT Scan,Results indicate high values.,2025-01-12
+1797,X-Ray,Results indicate high values.,2025-02-13
+3041,MRI,Results indicate low values.,2025-01-18
+1175,X-Ray,Results indicate normal values.,2025-01-10
+1405,MRI,Results indicate high values.,2025-02-20
+176,X-Ray,Results indicate low values.,2025-02-27
+3343,CT Scan,Results indicate normal values.,2025-02-09
+2418,Blood Test,Results indicate normal values.,2025-03-03
+2634,X-Ray,Results indicate normal values.,2025-02-13
+2104,MRI,Results indicate high values.,2025-02-15
+2120,Blood Test,Results indicate abnormal values.,2025-01-09
+2601,CT Scan,Results indicate low values.,2025-01-30
+3464,X-Ray,Results indicate low values.,2025-01-05
+2707,X-Ray,Results indicate normal values.,2025-01-18
+278,Blood Test,Results indicate high values.,2025-03-02
+1607,CT Scan,Results indicate normal values.,2025-02-03
+3339,CT Scan,Results indicate abnormal values.,2025-01-08
+2513,MRI,Results indicate normal values.,2025-03-03
+1104,X-Ray,Results indicate low values.,2025-01-14
+2873,X-Ray,Results indicate normal values.,2025-02-11
+366,X-Ray,Results indicate high values.,2025-03-09
+1034,CT Scan,Results indicate abnormal values.,2025-03-06
+3488,X-Ray,Results indicate low values.,2025-01-20
+2840,MRI,Results indicate normal values.,2025-02-04
+2067,X-Ray,Results indicate normal values.,2025-01-23
+2265,X-Ray,Results indicate low values.,2025-02-09
+213,MRI,Results indicate low values.,2025-03-03
+1372,Blood Test,Results indicate abnormal values.,2025-01-25
+3202,X-Ray,Results indicate low values.,2025-01-07
+3118,Blood Test,Results indicate low values.,2025-02-12
+1996,MRI,Results indicate abnormal values.,2025-02-28
+2685,CT Scan,Results indicate normal values.,2025-01-13
+1038,Blood Test,Results indicate normal values.,2025-01-21
+1874,CT Scan,Results indicate high values.,2025-03-02
+420,X-Ray,Results indicate normal values.,2025-02-23
+2705,MRI,Results indicate low values.,2025-02-27
+2068,X-Ray,Results indicate normal values.,2025-02-21
+112,X-Ray,Results indicate low values.,2025-01-23
+2291,Blood Test,Results indicate high values.,2025-01-21
+701,X-Ray,Results indicate high values.,2025-01-15
+3465,X-Ray,Results indicate abnormal values.,2025-02-11
+2345,CT Scan,Results indicate abnormal values.,2025-02-21
+1581,CT Scan,Results indicate low values.,2025-01-28
+544,X-Ray,Results indicate abnormal values.,2025-02-07
+171,CT Scan,Results indicate low values.,2025-01-16
+1577,MRI,Results indicate high values.,2025-01-30
+118,CT Scan,Results indicate abnormal values.,2025-01-22
+163,X-Ray,Results indicate normal values.,2025-02-22
+515,X-Ray,Results indicate normal values.,2025-02-04
+3432,MRI,Results indicate abnormal values.,2025-02-20
+3136,CT Scan,Results indicate high values.,2025-02-25
+1455,MRI,Results indicate low values.,2025-02-26
+289,Blood Test,Results indicate normal values.,2025-01-31
+2165,X-Ray,Results indicate normal values.,2025-01-21
+409,Blood Test,Results indicate low values.,2025-01-28
+3043,MRI,Results indicate normal values.,2025-01-02
+1069,Blood Test,Results indicate abnormal values.,2025-03-14
+2327,Blood Test,Results indicate high values.,2025-02-04
+2468,CT Scan,Results indicate low values.,2025-02-25
+2657,Blood Test,Results indicate high values.,2025-03-03
+1797,CT Scan,Results indicate normal values.,2025-02-14
+773,CT Scan,Results indicate high values.,2025-03-01
+1647,MRI,Results indicate low values.,2025-03-15
+2802,Blood Test,Results indicate high values.,2025-01-18
+2050,CT Scan,Results indicate low values.,2025-01-04
+3242,X-Ray,Results indicate normal values.,2025-01-31
+383,MRI,Results indicate low values.,2025-01-22
+3440,X-Ray,Results indicate abnormal values.,2025-02-26
+1793,Blood Test,Results indicate abnormal values.,2025-01-16
+3047,X-Ray,Results indicate normal values.,2025-02-09
+441,CT Scan,Results indicate normal values.,2025-02-14
+327,CT Scan,Results indicate high values.,2025-02-23
+1416,X-Ray,Results indicate abnormal values.,2025-01-20
+1862,CT Scan,Results indicate abnormal values.,2025-02-10
+1339,CT Scan,Results indicate low values.,2025-01-18
+991,CT Scan,Results indicate low values.,2025-01-22
+945,MRI,Results indicate abnormal values.,2025-01-02
+1073,CT Scan,Results indicate low values.,2025-02-02
+2385,MRI,Results indicate low values.,2025-01-02
+1590,Blood Test,Results indicate low values.,2025-01-01
+2095,MRI,Results indicate high values.,2025-01-12
+2985,CT Scan,Results indicate high values.,2025-01-10
+2785,CT Scan,Results indicate low values.,2025-02-22
+1776,CT Scan,Results indicate abnormal values.,2025-03-05
+300,MRI,Results indicate high values.,2025-02-25
+1094,MRI,Results indicate normal values.,2025-03-15
+1386,MRI,Results indicate high values.,2025-01-14
+239,Blood Test,Results indicate normal values.,2025-02-05
+2406,Blood Test,Results indicate high values.,2025-02-11
+3269,X-Ray,Results indicate normal values.,2025-01-07
+2576,X-Ray,Results indicate low values.,2025-01-11
+193,MRI,Results indicate abnormal values.,2025-01-13
+2304,Blood Test,Results indicate normal values.,2025-02-27
+3194,X-Ray,Results indicate low values.,2025-03-14
+334,X-Ray,Results indicate low values.,2025-03-03
+405,MRI,Results indicate low values.,2025-03-09
+285,MRI,Results indicate high values.,2025-01-29
+3453,Blood Test,Results indicate low values.,2025-03-07
+1049,MRI,Results indicate normal values.,2025-02-20
+600,X-Ray,Results indicate low values.,2025-01-14
+2515,X-Ray,Results indicate abnormal values.,2025-01-13
+582,Blood Test,Results indicate abnormal values.,2025-03-02
+3231,CT Scan,Results indicate normal values.,2025-01-09
+1558,MRI,Results indicate normal values.,2025-01-21
+3453,MRI,Results indicate abnormal values.,2025-01-28
+2669,X-Ray,Results indicate normal values.,2025-03-05
+1765,CT Scan,Results indicate high values.,2025-02-22
+470,MRI,Results indicate normal values.,2025-02-17
+1633,Blood Test,Results indicate normal values.,2025-02-28
+1746,X-Ray,Results indicate normal values.,2025-01-17
+3235,CT Scan,Results indicate normal values.,2025-02-15
+91,X-Ray,Results indicate abnormal values.,2025-01-28
+2070,CT Scan,Results indicate low values.,2025-01-17
+2662,X-Ray,Results indicate normal values.,2025-02-07
+1636,CT Scan,Results indicate normal values.,2025-03-02
+1472,MRI,Results indicate low values.,2025-03-13
+1560,MRI,Results indicate normal values.,2025-01-18
+1033,MRI,Results indicate abnormal values.,2025-02-22
+1316,CT Scan,Results indicate normal values.,2025-03-01
+1549,Blood Test,Results indicate abnormal values.,2025-01-27
+369,Blood Test,Results indicate abnormal values.,2025-01-03
+2697,Blood Test,Results indicate low values.,2025-02-10
+845,CT Scan,Results indicate low values.,2025-02-07
+3367,Blood Test,Results indicate low values.,2025-02-09
+2470,MRI,Results indicate low values.,2025-01-29
+1128,Blood Test,Results indicate normal values.,2025-02-25
+1247,X-Ray,Results indicate abnormal values.,2025-03-15
+3377,MRI,Results indicate abnormal values.,2025-01-20
+1895,CT Scan,Results indicate high values.,2025-01-19
+1485,X-Ray,Results indicate normal values.,2025-02-09
+2303,X-Ray,Results indicate low values.,2025-01-06
+2728,X-Ray,Results indicate low values.,2025-03-12
+2900,Blood Test,Results indicate normal values.,2025-02-15
+2707,CT Scan,Results indicate low values.,2025-02-05
+1269,X-Ray,Results indicate high values.,2025-02-21
+2827,Blood Test,Results indicate low values.,2025-03-06
+17,MRI,Results indicate normal values.,2025-02-10
+2933,X-Ray,Results indicate normal values.,2025-01-12
+94,Blood Test,Results indicate low values.,2025-02-09
+375,CT Scan,Results indicate abnormal values.,2025-01-01
+1107,Blood Test,Results indicate low values.,2025-03-10
+373,CT Scan,Results indicate abnormal values.,2025-03-05
+1151,CT Scan,Results indicate low values.,2025-01-15
+1698,X-Ray,Results indicate low values.,2025-02-02
+1786,CT Scan,Results indicate low values.,2025-03-07
+2739,MRI,Results indicate normal values.,2025-01-08
+951,X-Ray,Results indicate abnormal values.,2025-02-04
+1666,X-Ray,Results indicate normal values.,2025-01-19
+1293,MRI,Results indicate high values.,2025-01-30
+306,MRI,Results indicate high values.,2025-01-04
+2068,X-Ray,Results indicate normal values.,2025-02-24
+123,CT Scan,Results indicate high values.,2025-01-07
+423,X-Ray,Results indicate high values.,2025-02-27
+1564,X-Ray,Results indicate normal values.,2025-02-21
+2238,CT Scan,Results indicate low values.,2025-03-13
+3495,X-Ray,Results indicate low values.,2025-01-11
+1446,CT Scan,Results indicate normal values.,2025-01-23
+3107,Blood Test,Results indicate normal values.,2025-02-07
+3438,Blood Test,Results indicate high values.,2025-03-01
+1017,Blood Test,Results indicate normal values.,2025-03-13
+1167,Blood Test,Results indicate low values.,2025-02-05
+264,Blood Test,Results indicate normal values.,2025-02-04
+1408,Blood Test,Results indicate low values.,2025-02-21
+806,X-Ray,Results indicate abnormal values.,2025-03-04
+1030,CT Scan,Results indicate normal values.,2025-03-05
+2677,X-Ray,Results indicate low values.,2025-01-19
+3017,Blood Test,Results indicate high values.,2025-01-16
+1847,MRI,Results indicate high values.,2025-01-12
+1042,MRI,Results indicate normal values.,2025-01-10
+412,CT Scan,Results indicate low values.,2025-02-18
+1720,CT Scan,Results indicate high values.,2025-01-15
+3381,MRI,Results indicate low values.,2025-03-07
+471,MRI,Results indicate low values.,2025-01-13
+3336,CT Scan,Results indicate normal values.,2025-02-13
+2799,CT Scan,Results indicate high values.,2025-02-24
+3130,CT Scan,Results indicate normal values.,2025-03-09
+1181,MRI,Results indicate normal values.,2025-02-01
+1856,Blood Test,Results indicate normal values.,2025-02-20
+1735,Blood Test,Results indicate high values.,2025-02-14
+895,X-Ray,Results indicate high values.,2025-01-20
+1494,CT Scan,Results indicate high values.,2025-02-07
+167,Blood Test,Results indicate high values.,2025-02-11
+2320,Blood Test,Results indicate abnormal values.,2025-01-20
+3308,X-Ray,Results indicate normal values.,2025-01-10
+1091,X-Ray,Results indicate abnormal values.,2025-02-26
+1611,MRI,Results indicate normal values.,2025-03-13
+597,X-Ray,Results indicate high values.,2025-03-15
+2236,X-Ray,Results indicate low values.,2025-01-27
+451,Blood Test,Results indicate low values.,2025-03-09
+3429,MRI,Results indicate normal values.,2025-03-08
+2792,X-Ray,Results indicate normal values.,2025-01-09
+3033,X-Ray,Results indicate low values.,2025-03-03
+2695,MRI,Results indicate high values.,2025-01-03
+2585,MRI,Results indicate high values.,2025-03-10
+2277,CT Scan,Results indicate low values.,2025-03-14
+1414,Blood Test,Results indicate high values.,2025-01-19
+1349,CT Scan,Results indicate abnormal values.,2025-03-04
+2611,X-Ray,Results indicate low values.,2025-02-26
+3461,MRI,Results indicate low values.,2025-02-22
+3017,MRI,Results indicate normal values.,2025-02-15
+1323,MRI,Results indicate abnormal values.,2025-03-09
+801,MRI,Results indicate abnormal values.,2025-02-28
+371,MRI,Results indicate abnormal values.,2025-02-09
+3382,MRI,Results indicate low values.,2025-01-30
+2891,CT Scan,Results indicate low values.,2025-01-24
+561,CT Scan,Results indicate low values.,2025-01-17
+1591,Blood Test,Results indicate normal values.,2025-01-29
+2465,Blood Test,Results indicate abnormal values.,2025-01-04
+3397,MRI,Results indicate abnormal values.,2025-01-26
+3130,Blood Test,Results indicate abnormal values.,2025-02-10
+1408,X-Ray,Results indicate abnormal values.,2025-01-27
+1759,X-Ray,Results indicate normal values.,2025-02-13
+2608,Blood Test,Results indicate normal values.,2025-01-17
+1937,X-Ray,Results indicate abnormal values.,2025-03-06
+1691,Blood Test,Results indicate high values.,2025-02-12
+3172,CT Scan,Results indicate normal values.,2025-03-01
+2006,CT Scan,Results indicate normal values.,2025-03-05
+2302,MRI,Results indicate high values.,2025-01-01
+301,CT Scan,Results indicate low values.,2025-01-25
+758,X-Ray,Results indicate low values.,2025-03-12
+486,X-Ray,Results indicate normal values.,2025-02-17
+2663,MRI,Results indicate low values.,2025-01-18
+1906,MRI,Results indicate abnormal values.,2025-01-24
+398,CT Scan,Results indicate high values.,2025-01-18
+1583,CT Scan,Results indicate normal values.,2025-03-14
+1601,Blood Test,Results indicate normal values.,2025-01-02
+2601,X-Ray,Results indicate normal values.,2025-02-06
+3443,MRI,Results indicate high values.,2025-02-24
+648,CT Scan,Results indicate abnormal values.,2025-03-09
+1308,X-Ray,Results indicate high values.,2025-03-13
+1639,MRI,Results indicate high values.,2025-01-18
+1638,MRI,Results indicate high values.,2025-01-12
+2378,Blood Test,Results indicate abnormal values.,2025-01-02
+1215,MRI,Results indicate abnormal values.,2025-01-28
+2303,CT Scan,Results indicate abnormal values.,2025-01-15
+697,MRI,Results indicate high values.,2025-02-22
+1789,CT Scan,Results indicate abnormal values.,2025-02-01
+2754,X-Ray,Results indicate high values.,2025-01-23
+1941,CT Scan,Results indicate normal values.,2025-01-02
+1863,CT Scan,Results indicate normal values.,2025-03-13
+1551,X-Ray,Results indicate high values.,2025-02-16
+3039,CT Scan,Results indicate normal values.,2025-02-18
+1204,Blood Test,Results indicate low values.,2025-02-02
+1099,X-Ray,Results indicate low values.,2025-01-26
+3416,X-Ray,Results indicate normal values.,2025-03-04
+1738,CT Scan,Results indicate low values.,2025-03-02
+2947,MRI,Results indicate abnormal values.,2025-03-12
+2624,Blood Test,Results indicate low values.,2025-03-02
+2679,CT Scan,Results indicate abnormal values.,2025-02-25
+1133,CT Scan,Results indicate normal values.,2025-02-27
+2386,Blood Test,Results indicate low values.,2025-01-03
+2994,MRI,Results indicate abnormal values.,2025-02-23
+440,MRI,Results indicate abnormal values.,2025-02-04
+3115,CT Scan,Results indicate normal values.,2025-02-06
+170,X-Ray,Results indicate normal values.,2025-02-09
+3361,CT Scan,Results indicate normal values.,2025-02-19
+2547,X-Ray,Results indicate normal values.,2025-02-11
+3350,MRI,Results indicate low values.,2025-03-11
+2339,CT Scan,Results indicate low values.,2025-02-08
+2837,X-Ray,Results indicate low values.,2025-03-04
+974,CT Scan,Results indicate normal values.,2025-01-21
+249,CT Scan,Results indicate abnormal values.,2025-01-19
+2176,MRI,Results indicate high values.,2025-01-13
+38,MRI,Results indicate low values.,2025-02-13
+2025,CT Scan,Results indicate abnormal values.,2025-02-18
+1033,MRI,Results indicate abnormal values.,2025-03-13
+2551,Blood Test,Results indicate normal values.,2025-01-05
+2769,CT Scan,Results indicate low values.,2025-02-08
+3085,MRI,Results indicate low values.,2025-02-28
+333,CT Scan,Results indicate abnormal values.,2025-01-02
+1922,MRI,Results indicate high values.,2025-02-02
+169,X-Ray,Results indicate abnormal values.,2025-02-05
+1364,X-Ray,Results indicate high values.,2025-03-12
+772,MRI,Results indicate low values.,2025-03-03
+828,MRI,Results indicate abnormal values.,2025-03-06
+3397,CT Scan,Results indicate normal values.,2025-02-10
+448,X-Ray,Results indicate normal values.,2025-01-29
+2086,MRI,Results indicate low values.,2025-02-16
+591,X-Ray,Results indicate low values.,2025-02-27
+1491,X-Ray,Results indicate normal values.,2025-01-25
+2652,CT Scan,Results indicate low values.,2025-03-03
+234,X-Ray,Results indicate high values.,2025-01-23
+3287,X-Ray,Results indicate high values.,2025-03-10
+3374,MRI,Results indicate low values.,2025-03-13
+2396,MRI,Results indicate normal values.,2025-02-23
+1222,CT Scan,Results indicate normal values.,2025-03-11
+1538,Blood Test,Results indicate low values.,2025-02-26
+3091,CT Scan,Results indicate normal values.,2025-02-06
+1572,X-Ray,Results indicate high values.,2025-02-04
+887,CT Scan,Results indicate normal values.,2025-01-28
+2411,Blood Test,Results indicate low values.,2025-01-16
+1423,Blood Test,Results indicate normal values.,2025-01-20
+1744,MRI,Results indicate high values.,2025-01-10
+731,CT Scan,Results indicate high values.,2025-01-28
+1163,CT Scan,Results indicate high values.,2025-01-17
+904,CT Scan,Results indicate high values.,2025-02-10
+228,X-Ray,Results indicate high values.,2025-01-19
+1883,Blood Test,Results indicate high values.,2025-01-22
+1854,X-Ray,Results indicate high values.,2025-02-24
+1171,Blood Test,Results indicate low values.,2025-01-10
+1273,MRI,Results indicate high values.,2025-01-12
+2673,MRI,Results indicate low values.,2025-02-11
+2511,X-Ray,Results indicate high values.,2025-01-20
+3429,MRI,Results indicate normal values.,2025-02-05
+1965,CT Scan,Results indicate low values.,2025-02-08
+302,CT Scan,Results indicate low values.,2025-02-11
+1428,X-Ray,Results indicate high values.,2025-03-06
+3391,CT Scan,Results indicate high values.,2025-02-04
+2610,CT Scan,Results indicate abnormal values.,2025-03-07
+1353,CT Scan,Results indicate high values.,2025-01-29
+395,CT Scan,Results indicate high values.,2025-02-01
+422,X-Ray,Results indicate low values.,2025-02-09
+3426,X-Ray,Results indicate normal values.,2025-02-09
+1595,MRI,Results indicate normal values.,2025-01-03
+1950,X-Ray,Results indicate normal values.,2025-01-23
+718,MRI,Results indicate low values.,2025-01-01
+577,Blood Test,Results indicate high values.,2025-02-22
+3387,X-Ray,Results indicate low values.,2025-01-28
+943,X-Ray,Results indicate abnormal values.,2025-01-19
+1791,X-Ray,Results indicate normal values.,2025-01-08
+2451,Blood Test,Results indicate normal values.,2025-03-02
+1058,Blood Test,Results indicate abnormal values.,2025-02-08
+985,Blood Test,Results indicate low values.,2025-01-19
+981,X-Ray,Results indicate normal values.,2025-01-30
+1104,CT Scan,Results indicate low values.,2025-03-07
+2566,X-Ray,Results indicate high values.,2025-02-26
+2773,MRI,Results indicate low values.,2025-02-25
+2200,MRI,Results indicate normal values.,2025-02-15
+1656,Blood Test,Results indicate low values.,2025-02-10
+2252,MRI,Results indicate low values.,2025-01-16
+2233,Blood Test,Results indicate abnormal values.,2025-02-11
+621,MRI,Results indicate high values.,2025-02-13
+1304,CT Scan,Results indicate low values.,2025-02-03
+526,CT Scan,Results indicate high values.,2025-02-28
+1574,MRI,Results indicate low values.,2025-01-08
+1974,CT Scan,Results indicate low values.,2025-01-31
+1457,X-Ray,Results indicate high values.,2025-02-02
+2873,X-Ray,Results indicate normal values.,2025-01-09
+2465,CT Scan,Results indicate high values.,2025-02-06
+2179,MRI,Results indicate low values.,2025-02-24
+3428,Blood Test,Results indicate high values.,2025-02-13
+2787,MRI,Results indicate normal values.,2025-03-15
+1100,Blood Test,Results indicate low values.,2025-02-17
+167,Blood Test,Results indicate abnormal values.,2025-01-17
+908,Blood Test,Results indicate abnormal values.,2025-03-03
+1631,X-Ray,Results indicate normal values.,2025-01-23
+719,X-Ray,Results indicate low values.,2025-02-03
+1588,X-Ray,Results indicate normal values.,2025-01-10
+1330,Blood Test,Results indicate abnormal values.,2025-01-10
+2805,MRI,Results indicate low values.,2025-01-28
+1372,CT Scan,Results indicate high values.,2025-02-01
+1647,Blood Test,Results indicate high values.,2025-01-02
+1452,X-Ray,Results indicate normal values.,2025-01-06
+62,MRI,Results indicate normal values.,2025-01-17
+2999,MRI,Results indicate normal values.,2025-01-06
+1526,CT Scan,Results indicate abnormal values.,2025-02-23
+1090,CT Scan,Results indicate abnormal values.,2025-02-27
+2406,MRI,Results indicate abnormal values.,2025-02-01
+472,X-Ray,Results indicate normal values.,2025-01-26
+1811,MRI,Results indicate low values.,2025-02-08
+395,X-Ray,Results indicate abnormal values.,2025-03-10
+1237,Blood Test,Results indicate normal values.,2025-01-18
+797,CT Scan,Results indicate abnormal values.,2025-01-08
+2369,X-Ray,Results indicate low values.,2025-02-10
+1013,Blood Test,Results indicate low values.,2025-01-31
+2766,MRI,Results indicate normal values.,2025-01-04
+281,X-Ray,Results indicate abnormal values.,2025-03-10
+1543,Blood Test,Results indicate high values.,2025-03-03
+951,X-Ray,Results indicate abnormal values.,2025-01-26
+2169,X-Ray,Results indicate high values.,2025-03-08
+300,MRI,Results indicate low values.,2025-02-20
+1123,MRI,Results indicate high values.,2025-02-07
+1512,X-Ray,Results indicate normal values.,2025-02-27
+3377,MRI,Results indicate high values.,2025-03-13
+2467,CT Scan,Results indicate abnormal values.,2025-03-10
+1955,CT Scan,Results indicate normal values.,2025-02-20
+1063,X-Ray,Results indicate high values.,2025-03-01
+3307,Blood Test,Results indicate low values.,2025-01-21
+2185,Blood Test,Results indicate abnormal values.,2025-02-09
+2388,X-Ray,Results indicate high values.,2025-01-28
+1102,MRI,Results indicate high values.,2025-02-17
+1548,X-Ray,Results indicate low values.,2025-03-03
+509,MRI,Results indicate abnormal values.,2025-01-01
+3355,CT Scan,Results indicate high values.,2025-02-06
+3015,X-Ray,Results indicate abnormal values.,2025-01-31
+2955,X-Ray,Results indicate high values.,2025-02-05
+2977,X-Ray,Results indicate normal values.,2025-01-10
+1824,Blood Test,Results indicate normal values.,2025-01-06
+269,Blood Test,Results indicate high values.,2025-01-02
+1295,CT Scan,Results indicate normal values.,2025-02-07
+1298,MRI,Results indicate normal values.,2025-02-26
+1680,MRI,Results indicate abnormal values.,2025-01-08
+1192,MRI,Results indicate high values.,2025-01-09
+2224,X-Ray,Results indicate high values.,2025-01-31
+2988,Blood Test,Results indicate normal values.,2025-01-15
+1281,MRI,Results indicate high values.,2025-02-06
+2692,CT Scan,Results indicate low values.,2025-02-21
+2301,X-Ray,Results indicate low values.,2025-02-26
+2950,X-Ray,Results indicate normal values.,2025-03-04
+712,X-Ray,Results indicate low values.,2025-02-18
+848,MRI,Results indicate abnormal values.,2025-03-09
+3116,X-Ray,Results indicate high values.,2025-01-09
+156,X-Ray,Results indicate high values.,2025-02-19
+2907,CT Scan,Results indicate low values.,2025-02-21
+880,Blood Test,Results indicate low values.,2025-01-09
+761,CT Scan,Results indicate normal values.,2025-01-16
+2219,Blood Test,Results indicate low values.,2025-02-19
+745,Blood Test,Results indicate high values.,2025-03-13
+2436,Blood Test,Results indicate abnormal values.,2025-02-26
+1065,Blood Test,Results indicate low values.,2025-01-07
+1700,X-Ray,Results indicate low values.,2025-01-14
+185,MRI,Results indicate abnormal values.,2025-02-03
+51,X-Ray,Results indicate high values.,2025-03-11
+2524,X-Ray,Results indicate normal values.,2025-01-01
+1362,X-Ray,Results indicate abnormal values.,2025-02-22
+26,Blood Test,Results indicate low values.,2025-02-06
+3118,X-Ray,Results indicate abnormal values.,2025-01-24
+1385,CT Scan,Results indicate abnormal values.,2025-03-15
+2852,MRI,Results indicate abnormal values.,2025-01-22
+1747,Blood Test,Results indicate abnormal values.,2025-02-22
+1669,MRI,Results indicate low values.,2025-02-02
+152,X-Ray,Results indicate abnormal values.,2025-01-24
+2335,CT Scan,Results indicate normal values.,2025-01-17
+644,Blood Test,Results indicate low values.,2025-01-11
+273,Blood Test,Results indicate abnormal values.,2025-02-22
+545,MRI,Results indicate abnormal values.,2025-03-15
+1395,MRI,Results indicate normal values.,2025-01-12
+2414,X-Ray,Results indicate normal values.,2025-01-27
+362,MRI,Results indicate high values.,2025-01-08
+1019,Blood Test,Results indicate normal values.,2025-01-15
+1841,CT Scan,Results indicate normal values.,2025-02-12
+784,Blood Test,Results indicate low values.,2025-02-21
+2520,X-Ray,Results indicate high values.,2025-01-13
+3421,CT Scan,Results indicate low values.,2025-02-02
+580,CT Scan,Results indicate normal values.,2025-03-07
+747,Blood Test,Results indicate normal values.,2025-01-26
+996,X-Ray,Results indicate normal values.,2025-02-18
+885,X-Ray,Results indicate normal values.,2025-01-09
+3344,X-Ray,Results indicate abnormal values.,2025-02-25
+1953,X-Ray,Results indicate normal values.,2025-01-20
+2023,Blood Test,Results indicate abnormal values.,2025-01-28
+1528,MRI,Results indicate high values.,2025-03-02
+2837,CT Scan,Results indicate abnormal values.,2025-01-10
+2657,Blood Test,Results indicate normal values.,2025-02-22
+1577,CT Scan,Results indicate low values.,2025-01-30
+1481,Blood Test,Results indicate normal values.,2025-01-30
+523,Blood Test,Results indicate low values.,2025-01-15
+2876,MRI,Results indicate normal values.,2025-01-31
+1731,Blood Test,Results indicate normal values.,2025-02-18
+1966,Blood Test,Results indicate normal values.,2025-01-18
+2988,X-Ray,Results indicate high values.,2025-02-07
+2142,Blood Test,Results indicate normal values.,2025-02-23
+2890,MRI,Results indicate high values.,2025-01-08
+888,Blood Test,Results indicate normal values.,2025-02-22
+2910,MRI,Results indicate abnormal values.,2025-03-15
+3092,CT Scan,Results indicate abnormal values.,2025-01-14
+325,CT Scan,Results indicate abnormal values.,2025-01-14
+3073,X-Ray,Results indicate low values.,2025-03-03
+683,Blood Test,Results indicate normal values.,2025-01-24
+75,X-Ray,Results indicate abnormal values.,2025-03-11
+72,MRI,Results indicate normal values.,2025-01-16
+1440,CT Scan,Results indicate high values.,2025-02-12
+1548,CT Scan,Results indicate normal values.,2025-02-02
+1813,Blood Test,Results indicate low values.,2025-02-23
+952,Blood Test,Results indicate high values.,2025-02-16
+231,CT Scan,Results indicate low values.,2025-02-05
+68,Blood Test,Results indicate low values.,2025-02-09
+3391,X-Ray,Results indicate abnormal values.,2025-02-03
+1656,Blood Test,Results indicate normal values.,2025-01-19
+2342,MRI,Results indicate abnormal values.,2025-03-04
+679,Blood Test,Results indicate abnormal values.,2025-03-14
+1406,Blood Test,Results indicate abnormal values.,2025-03-05
+1000,Blood Test,Results indicate high values.,2025-01-26
+447,Blood Test,Results indicate low values.,2025-02-14
+2040,X-Ray,Results indicate normal values.,2025-01-03
+3217,MRI,Results indicate abnormal values.,2025-03-07
+1396,X-Ray,Results indicate high values.,2025-02-27
+2367,Blood Test,Results indicate low values.,2025-03-10
+3022,MRI,Results indicate low values.,2025-03-09
+1519,MRI,Results indicate abnormal values.,2025-01-05
+1053,X-Ray,Results indicate abnormal values.,2025-03-08
+3066,MRI,Results indicate normal values.,2025-02-23
+2629,CT Scan,Results indicate abnormal values.,2025-01-24
+984,Blood Test,Results indicate abnormal values.,2025-02-01
+2876,X-Ray,Results indicate high values.,2025-02-07
+946,Blood Test,Results indicate low values.,2025-01-29
+1158,CT Scan,Results indicate low values.,2025-02-22
+3105,Blood Test,Results indicate low values.,2025-02-27
+3356,MRI,Results indicate low values.,2025-02-14
+1155,X-Ray,Results indicate abnormal values.,2025-01-13
+145,CT Scan,Results indicate abnormal values.,2025-01-25
+1003,Blood Test,Results indicate normal values.,2025-01-22
+2366,Blood Test,Results indicate abnormal values.,2025-01-11
+1597,MRI,Results indicate low values.,2025-03-02
+254,CT Scan,Results indicate abnormal values.,2025-01-31
+1456,Blood Test,Results indicate high values.,2025-02-17
+1140,Blood Test,Results indicate high values.,2025-02-16
+3309,CT Scan,Results indicate high values.,2025-01-31
+898,CT Scan,Results indicate high values.,2025-02-25
+1430,MRI,Results indicate low values.,2025-01-24
+849,X-Ray,Results indicate high values.,2025-02-23
+2147,CT Scan,Results indicate low values.,2025-02-08
+3242,MRI,Results indicate high values.,2025-03-05
+1966,Blood Test,Results indicate high values.,2025-01-17
+2198,MRI,Results indicate low values.,2025-01-26
+1009,CT Scan,Results indicate abnormal values.,2025-02-23
+1201,MRI,Results indicate abnormal values.,2025-01-18
+2585,CT Scan,Results indicate high values.,2025-01-11
+2992,Blood Test,Results indicate abnormal values.,2025-01-22
+995,Blood Test,Results indicate abnormal values.,2025-01-13
+1251,Blood Test,Results indicate high values.,2025-03-12
+2433,X-Ray,Results indicate normal values.,2025-02-09
+909,CT Scan,Results indicate high values.,2025-01-27
+500,Blood Test,Results indicate abnormal values.,2025-03-07
+63,CT Scan,Results indicate normal values.,2025-03-15
+3074,CT Scan,Results indicate high values.,2025-02-12
+3053,Blood Test,Results indicate high values.,2025-01-06
+3345,X-Ray,Results indicate normal values.,2025-01-13
+3127,CT Scan,Results indicate high values.,2025-03-13
+199,CT Scan,Results indicate low values.,2025-01-17
+1253,MRI,Results indicate abnormal values.,2025-01-24
+2861,Blood Test,Results indicate abnormal values.,2025-03-15
+2474,Blood Test,Results indicate low values.,2025-03-15
+1444,Blood Test,Results indicate abnormal values.,2025-02-07
+3225,MRI,Results indicate low values.,2025-01-19
+1709,MRI,Results indicate high values.,2025-02-21
+1802,X-Ray,Results indicate high values.,2025-01-04
+2481,Blood Test,Results indicate normal values.,2025-01-31
+3450,CT Scan,Results indicate high values.,2025-02-20
+2463,Blood Test,Results indicate high values.,2025-01-06
+2326,X-Ray,Results indicate normal values.,2025-01-11
+249,Blood Test,Results indicate low values.,2025-02-06
+1311,CT Scan,Results indicate abnormal values.,2025-01-27
+2759,X-Ray,Results indicate abnormal values.,2025-02-28
+918,X-Ray,Results indicate high values.,2025-03-01
+462,Blood Test,Results indicate normal values.,2025-01-23
+3197,X-Ray,Results indicate low values.,2025-02-07
+2220,X-Ray,Results indicate abnormal values.,2025-02-14
+3272,X-Ray,Results indicate low values.,2025-02-28
+1377,MRI,Results indicate low values.,2025-01-18
+3445,X-Ray,Results indicate low values.,2025-02-16
+2055,MRI,Results indicate low values.,2025-03-07
+3250,CT Scan,Results indicate low values.,2025-01-13
+2263,CT Scan,Results indicate high values.,2025-02-21
+1017,CT Scan,Results indicate high values.,2025-02-01
+953,X-Ray,Results indicate normal values.,2025-01-09
+461,MRI,Results indicate high values.,2025-02-02
+2323,MRI,Results indicate abnormal values.,2025-02-14
+3163,CT Scan,Results indicate abnormal values.,2025-03-11
+555,MRI,Results indicate abnormal values.,2025-01-02
+1704,CT Scan,Results indicate low values.,2025-01-27
+1123,X-Ray,Results indicate abnormal values.,2025-03-01
+76,MRI,Results indicate high values.,2025-01-11
+2323,Blood Test,Results indicate abnormal values.,2025-02-26
+2658,X-Ray,Results indicate abnormal values.,2025-01-26
+3334,Blood Test,Results indicate high values.,2025-02-03
+2770,X-Ray,Results indicate low values.,2025-03-03
+600,Blood Test,Results indicate high values.,2025-01-07
+2748,Blood Test,Results indicate normal values.,2025-01-20
+705,X-Ray,Results indicate low values.,2025-01-18
+3301,Blood Test,Results indicate normal values.,2025-02-04
+2456,CT Scan,Results indicate high values.,2025-02-21
+3030,Blood Test,Results indicate normal values.,2025-01-03
+697,MRI,Results indicate high values.,2025-03-04
+568,X-Ray,Results indicate low values.,2025-02-16
+590,CT Scan,Results indicate abnormal values.,2025-03-15
+3191,CT Scan,Results indicate high values.,2025-01-22
+525,CT Scan,Results indicate abnormal values.,2025-01-24
+1834,CT Scan,Results indicate low values.,2025-03-15
+671,MRI,Results indicate normal values.,2025-01-25
+2486,Blood Test,Results indicate abnormal values.,2025-03-10
+866,Blood Test,Results indicate normal values.,2025-01-03
+956,X-Ray,Results indicate abnormal values.,2025-01-31
+3156,X-Ray,Results indicate high values.,2025-01-18
+3025,X-Ray,Results indicate low values.,2025-02-11
+3286,Blood Test,Results indicate normal values.,2025-03-08
+506,X-Ray,Results indicate normal values.,2025-03-13
+1620,CT Scan,Results indicate normal values.,2025-01-13
+1770,MRI,Results indicate normal values.,2025-02-18
+824,CT Scan,Results indicate normal values.,2025-01-14
+2163,MRI,Results indicate low values.,2025-01-14
+1225,X-Ray,Results indicate normal values.,2025-02-15
+3003,MRI,Results indicate high values.,2025-01-29
+1625,Blood Test,Results indicate high values.,2025-03-06
+906,X-Ray,Results indicate high values.,2025-01-20
+1648,MRI,Results indicate abnormal values.,2025-01-10
+2984,Blood Test,Results indicate normal values.,2025-01-08
+1533,MRI,Results indicate low values.,2025-02-18
+2202,MRI,Results indicate low values.,2025-02-13
+298,MRI,Results indicate low values.,2025-01-02
+1304,CT Scan,Results indicate abnormal values.,2025-01-20
+542,Blood Test,Results indicate normal values.,2025-02-21
+2200,CT Scan,Results indicate normal values.,2025-01-06
+3325,Blood Test,Results indicate high values.,2025-01-13
+1650,CT Scan,Results indicate abnormal values.,2025-03-03
+556,X-Ray,Results indicate abnormal values.,2025-02-12
+152,Blood Test,Results indicate abnormal values.,2025-02-13
+3376,MRI,Results indicate normal values.,2025-02-02
+2585,X-Ray,Results indicate low values.,2025-03-02
+2310,X-Ray,Results indicate abnormal values.,2025-02-08
+1001,X-Ray,Results indicate high values.,2025-01-31
+2808,Blood Test,Results indicate low values.,2025-01-09
+2793,Blood Test,Results indicate low values.,2025-02-20
+1200,CT Scan,Results indicate low values.,2025-01-09
+1623,Blood Test,Results indicate low values.,2025-01-17
+1567,X-Ray,Results indicate normal values.,2025-02-13
+676,Blood Test,Results indicate high values.,2025-03-14
+1399,CT Scan,Results indicate abnormal values.,2025-03-12
+2458,CT Scan,Results indicate high values.,2025-02-07
+2205,MRI,Results indicate high values.,2025-02-06
+994,Blood Test,Results indicate normal values.,2025-01-31
+745,Blood Test,Results indicate normal values.,2025-01-10
+3005,X-Ray,Results indicate normal values.,2025-01-28
+1968,MRI,Results indicate high values.,2025-01-14
+354,CT Scan,Results indicate low values.,2025-01-02
+1469,CT Scan,Results indicate high values.,2025-02-14
+3176,CT Scan,Results indicate normal values.,2025-03-04
+3460,Blood Test,Results indicate normal values.,2025-03-03
+2325,MRI,Results indicate low values.,2025-01-20
+2698,MRI,Results indicate abnormal values.,2025-01-21
+2355,Blood Test,Results indicate normal values.,2025-01-11
+802,Blood Test,Results indicate normal values.,2025-03-07
+1854,Blood Test,Results indicate high values.,2025-01-29
+2784,CT Scan,Results indicate normal values.,2025-03-12
+3320,Blood Test,Results indicate normal values.,2025-01-08
+2340,MRI,Results indicate abnormal values.,2025-01-07
+3141,CT Scan,Results indicate normal values.,2025-01-04
+1457,MRI,Results indicate normal values.,2025-03-12
+1757,X-Ray,Results indicate low values.,2025-01-26
+56,MRI,Results indicate high values.,2025-02-13
+2311,X-Ray,Results indicate abnormal values.,2025-02-26
+247,CT Scan,Results indicate high values.,2025-02-03
+2484,Blood Test,Results indicate abnormal values.,2025-03-14
+3286,MRI,Results indicate high values.,2025-02-10
+345,CT Scan,Results indicate abnormal values.,2025-03-06
+1842,X-Ray,Results indicate normal values.,2025-01-18
+2197,MRI,Results indicate low values.,2025-02-21
+1660,X-Ray,Results indicate abnormal values.,2025-01-28
+85,X-Ray,Results indicate normal values.,2025-03-08
+429,X-Ray,Results indicate abnormal values.,2025-01-14
+1104,MRI,Results indicate high values.,2025-02-05
+155,CT Scan,Results indicate low values.,2025-02-22
+684,Blood Test,Results indicate low values.,2025-01-26
+2397,Blood Test,Results indicate normal values.,2025-01-20
+3065,Blood Test,Results indicate high values.,2025-03-07
+409,MRI,Results indicate normal values.,2025-02-28
+2799,Blood Test,Results indicate low values.,2025-01-05
+1648,Blood Test,Results indicate normal values.,2025-02-01
+25,X-Ray,Results indicate abnormal values.,2025-02-11
+1016,MRI,Results indicate low values.,2025-01-21
+686,Blood Test,Results indicate abnormal values.,2025-01-29
+1638,CT Scan,Results indicate abnormal values.,2025-01-12
+3235,X-Ray,Results indicate abnormal values.,2025-01-19
+3078,CT Scan,Results indicate abnormal values.,2025-03-02
+1955,Blood Test,Results indicate normal values.,2025-03-09
+1122,CT Scan,Results indicate low values.,2025-02-13
+2132,MRI,Results indicate normal values.,2025-02-11
+861,MRI,Results indicate low values.,2025-02-04
+3078,MRI,Results indicate high values.,2025-01-24
+84,MRI,Results indicate low values.,2025-02-27
+1460,CT Scan,Results indicate high values.,2025-01-26
+787,MRI,Results indicate low values.,2025-02-18
+1335,MRI,Results indicate normal values.,2025-02-12
+3075,X-Ray,Results indicate normal values.,2025-02-07
+885,Blood Test,Results indicate normal values.,2025-02-13
+883,Blood Test,Results indicate low values.,2025-02-21
+2652,X-Ray,Results indicate abnormal values.,2025-03-11
+967,MRI,Results indicate low values.,2025-03-02
+3483,CT Scan,Results indicate abnormal values.,2025-03-10
+978,Blood Test,Results indicate abnormal values.,2025-01-30
+2094,MRI,Results indicate low values.,2025-03-10
+1792,MRI,Results indicate high values.,2025-01-09
+1565,MRI,Results indicate low values.,2025-01-17
+2285,X-Ray,Results indicate low values.,2025-01-30
+2857,MRI,Results indicate high values.,2025-01-31
+1893,CT Scan,Results indicate low values.,2025-01-21
+3368,CT Scan,Results indicate normal values.,2025-02-22
+493,X-Ray,Results indicate normal values.,2025-01-17
+3286,Blood Test,Results indicate normal values.,2025-01-30
+3422,X-Ray,Results indicate high values.,2025-02-14
+2552,X-Ray,Results indicate normal values.,2025-03-02
+837,X-Ray,Results indicate high values.,2025-03-12
+1120,MRI,Results indicate abnormal values.,2025-02-02
+2964,Blood Test,Results indicate low values.,2025-01-10
+71,MRI,Results indicate normal values.,2025-01-02
+3260,X-Ray,Results indicate high values.,2025-01-30
+2483,Blood Test,Results indicate low values.,2025-01-17
+2888,MRI,Results indicate abnormal values.,2025-01-13
+1184,CT Scan,Results indicate normal values.,2025-02-13
+3121,Blood Test,Results indicate low values.,2025-02-10
+1692,X-Ray,Results indicate high values.,2025-01-18
+522,Blood Test,Results indicate high values.,2025-01-03
+392,X-Ray,Results indicate low values.,2025-01-31
+1425,Blood Test,Results indicate abnormal values.,2025-03-05
+1120,MRI,Results indicate low values.,2025-01-07
+3123,Blood Test,Results indicate low values.,2025-01-02
+3208,MRI,Results indicate low values.,2025-01-19
+524,Blood Test,Results indicate low values.,2025-02-17
+975,X-Ray,Results indicate abnormal values.,2025-01-22
+2309,MRI,Results indicate high values.,2025-02-17
+1900,CT Scan,Results indicate low values.,2025-03-12
+1136,Blood Test,Results indicate abnormal values.,2025-02-16
+1837,CT Scan,Results indicate abnormal values.,2025-01-27
+2334,X-Ray,Results indicate abnormal values.,2025-03-05
+722,MRI,Results indicate abnormal values.,2025-02-03
+3021,Blood Test,Results indicate low values.,2025-03-13
+796,X-Ray,Results indicate normal values.,2025-01-20
+2601,Blood Test,Results indicate abnormal values.,2025-01-24
+2189,CT Scan,Results indicate normal values.,2025-02-24
+695,CT Scan,Results indicate abnormal values.,2025-02-04
+360,X-Ray,Results indicate low values.,2025-02-20
+577,Blood Test,Results indicate abnormal values.,2025-01-13
+3391,MRI,Results indicate low values.,2025-02-03
+1023,Blood Test,Results indicate low values.,2025-01-16
+2579,MRI,Results indicate high values.,2025-02-16
+2938,MRI,Results indicate abnormal values.,2025-02-19
+1894,CT Scan,Results indicate normal values.,2025-01-31
+600,Blood Test,Results indicate normal values.,2025-01-18
+1754,CT Scan,Results indicate low values.,2025-03-10
+2085,MRI,Results indicate high values.,2025-03-09
+3104,MRI,Results indicate low values.,2025-01-23
+448,CT Scan,Results indicate high values.,2025-01-15
+1534,Blood Test,Results indicate low values.,2025-01-14
+144,Blood Test,Results indicate low values.,2025-02-16
+1583,MRI,Results indicate abnormal values.,2025-03-13
+2921,CT Scan,Results indicate normal values.,2025-02-17
+1767,Blood Test,Results indicate normal values.,2025-01-15
+776,Blood Test,Results indicate abnormal values.,2025-02-27
+1755,MRI,Results indicate abnormal values.,2025-03-12
+3483,CT Scan,Results indicate abnormal values.,2025-01-25
+180,X-Ray,Results indicate low values.,2025-01-12
+201,MRI,Results indicate normal values.,2025-02-17
+3430,CT Scan,Results indicate high values.,2025-02-24
+2250,MRI,Results indicate normal values.,2025-02-10
+1779,MRI,Results indicate low values.,2025-02-14
+1303,X-Ray,Results indicate high values.,2025-01-30
+580,CT Scan,Results indicate low values.,2025-03-10
+1600,CT Scan,Results indicate high values.,2025-01-29
+123,X-Ray,Results indicate abnormal values.,2025-01-19
+1697,Blood Test,Results indicate normal values.,2025-02-02
+2271,X-Ray,Results indicate abnormal values.,2025-01-06
+3477,CT Scan,Results indicate low values.,2025-03-10
+2133,MRI,Results indicate low values.,2025-01-16
+1950,MRI,Results indicate low values.,2025-02-14
+3035,CT Scan,Results indicate abnormal values.,2025-03-02
+1321,MRI,Results indicate high values.,2025-01-26
+2003,X-Ray,Results indicate normal values.,2025-01-18
+1491,CT Scan,Results indicate abnormal values.,2025-01-17
+710,X-Ray,Results indicate abnormal values.,2025-02-06
+518,X-Ray,Results indicate abnormal values.,2025-02-03
+2979,MRI,Results indicate normal values.,2025-02-07
+1771,CT Scan,Results indicate abnormal values.,2025-01-27
+2132,Blood Test,Results indicate low values.,2025-01-10
+2179,Blood Test,Results indicate low values.,2025-02-28
+1963,MRI,Results indicate abnormal values.,2025-03-04
+638,Blood Test,Results indicate high values.,2025-02-10
+1697,Blood Test,Results indicate normal values.,2025-02-16
+218,MRI,Results indicate low values.,2025-02-21
+2642,Blood Test,Results indicate normal values.,2025-01-28
+1010,Blood Test,Results indicate low values.,2025-01-21
+677,X-Ray,Results indicate normal values.,2025-01-22
+2019,CT Scan,Results indicate abnormal values.,2025-03-01
+1220,MRI,Results indicate abnormal values.,2025-02-23
+341,CT Scan,Results indicate normal values.,2025-01-07
+3102,X-Ray,Results indicate normal values.,2025-03-15
+2184,CT Scan,Results indicate low values.,2025-02-02
+3453,CT Scan,Results indicate low values.,2025-01-12
+769,MRI,Results indicate high values.,2025-02-01
+3025,X-Ray,Results indicate normal values.,2025-01-03
+1806,CT Scan,Results indicate abnormal values.,2025-02-23
+3421,MRI,Results indicate normal values.,2025-01-05
+3248,Blood Test,Results indicate low values.,2025-02-14
+1573,CT Scan,Results indicate low values.,2025-01-06
+1021,X-Ray,Results indicate low values.,2025-02-03
+2462,MRI,Results indicate low values.,2025-01-01
+2792,Blood Test,Results indicate normal values.,2025-02-15
+2333,Blood Test,Results indicate low values.,2025-02-27
+318,Blood Test,Results indicate low values.,2025-01-08
+1656,X-Ray,Results indicate high values.,2025-03-07
+218,X-Ray,Results indicate low values.,2025-02-07
+3031,MRI,Results indicate high values.,2025-01-27
+3288,MRI,Results indicate high values.,2025-02-14
+2807,MRI,Results indicate low values.,2025-01-01
+70,CT Scan,Results indicate abnormal values.,2025-02-21
+453,X-Ray,Results indicate high values.,2025-03-13
+1377,CT Scan,Results indicate low values.,2025-01-12
+3253,Blood Test,Results indicate abnormal values.,2025-01-12
+2593,MRI,Results indicate normal values.,2025-01-01
+3265,MRI,Results indicate high values.,2025-01-20
+622,MRI,Results indicate low values.,2025-02-18
+2980,X-Ray,Results indicate low values.,2025-01-24
+2025,Blood Test,Results indicate high values.,2025-01-18
+998,X-Ray,Results indicate normal values.,2025-02-10
+2097,Blood Test,Results indicate low values.,2025-02-10
+873,Blood Test,Results indicate high values.,2025-02-06
+1455,Blood Test,Results indicate low values.,2025-01-23
+1350,Blood Test,Results indicate normal values.,2025-02-17
+2112,MRI,Results indicate abnormal values.,2025-01-05
+3239,MRI,Results indicate high values.,2025-03-04
+678,Blood Test,Results indicate low values.,2025-02-17
+2412,Blood Test,Results indicate high values.,2025-02-26
+828,CT Scan,Results indicate abnormal values.,2025-03-10
+1913,X-Ray,Results indicate normal values.,2025-01-24
+382,CT Scan,Results indicate abnormal values.,2025-02-15
+239,CT Scan,Results indicate low values.,2025-02-25
+819,MRI,Results indicate high values.,2025-01-25
+469,CT Scan,Results indicate high values.,2025-02-16
+1924,X-Ray,Results indicate high values.,2025-01-24
+2549,MRI,Results indicate low values.,2025-02-27
+1846,X-Ray,Results indicate low values.,2025-03-11
+3156,MRI,Results indicate abnormal values.,2025-01-27
+2797,CT Scan,Results indicate normal values.,2025-03-04
+1924,Blood Test,Results indicate low values.,2025-01-03
+634,X-Ray,Results indicate high values.,2025-03-05
+2713,MRI,Results indicate normal values.,2025-02-05
+2339,X-Ray,Results indicate normal values.,2025-01-16
+3304,Blood Test,Results indicate high values.,2025-02-01
+3408,CT Scan,Results indicate abnormal values.,2025-01-28
+1996,X-Ray,Results indicate low values.,2025-02-27
+1154,CT Scan,Results indicate normal values.,2025-03-10
+1179,X-Ray,Results indicate abnormal values.,2025-02-07
+3311,Blood Test,Results indicate low values.,2025-02-06
+3352,X-Ray,Results indicate low values.,2025-01-25
+2675,Blood Test,Results indicate low values.,2025-03-04
+2666,MRI,Results indicate normal values.,2025-02-07
+1599,CT Scan,Results indicate abnormal values.,2025-02-02
+3223,Blood Test,Results indicate abnormal values.,2025-03-01
+175,Blood Test,Results indicate normal values.,2025-01-20
+1799,MRI,Results indicate abnormal values.,2025-03-04
+568,MRI,Results indicate normal values.,2025-02-20
+2405,Blood Test,Results indicate high values.,2025-01-30
+2362,Blood Test,Results indicate high values.,2025-02-18
+1157,X-Ray,Results indicate high values.,2025-02-10
+624,CT Scan,Results indicate high values.,2025-01-24
+2149,MRI,Results indicate high values.,2025-03-15
+623,X-Ray,Results indicate abnormal values.,2025-02-11
+1128,CT Scan,Results indicate abnormal values.,2025-03-11
+3111,CT Scan,Results indicate normal values.,2025-02-10
+1540,Blood Test,Results indicate normal values.,2025-01-27
+1413,MRI,Results indicate abnormal values.,2025-02-25
+2285,MRI,Results indicate low values.,2025-02-11
+520,Blood Test,Results indicate high values.,2025-01-03
+1115,MRI,Results indicate abnormal values.,2025-02-21
+96,MRI,Results indicate high values.,2025-02-15
+621,X-Ray,Results indicate normal values.,2025-03-07
+3155,X-Ray,Results indicate normal values.,2025-01-25
+1088,Blood Test,Results indicate normal values.,2025-01-13
+2870,Blood Test,Results indicate low values.,2025-01-07
+17,X-Ray,Results indicate normal values.,2025-01-26
+2805,CT Scan,Results indicate normal values.,2025-01-28
+975,X-Ray,Results indicate low values.,2025-01-06
+795,MRI,Results indicate abnormal values.,2025-01-23
+3269,X-Ray,Results indicate abnormal values.,2025-02-01
+804,Blood Test,Results indicate abnormal values.,2025-01-05
+480,CT Scan,Results indicate abnormal values.,2025-01-08
+318,MRI,Results indicate normal values.,2025-01-02
+1887,Blood Test,Results indicate high values.,2025-02-20
+35,CT Scan,Results indicate low values.,2025-01-08
+1502,X-Ray,Results indicate low values.,2025-02-21
+3461,MRI,Results indicate low values.,2025-03-04
+2492,MRI,Results indicate low values.,2025-02-01
+2042,MRI,Results indicate abnormal values.,2025-02-07
+601,MRI,Results indicate high values.,2025-03-15
+1570,Blood Test,Results indicate normal values.,2025-01-29
+1922,CT Scan,Results indicate normal values.,2025-01-26
+2053,X-Ray,Results indicate high values.,2025-02-20
+1437,MRI,Results indicate normal values.,2025-01-20
+3486,X-Ray,Results indicate low values.,2025-01-30
+448,CT Scan,Results indicate abnormal values.,2025-01-10
+2475,X-Ray,Results indicate high values.,2025-03-01
+1836,CT Scan,Results indicate high values.,2025-03-07
+263,CT Scan,Results indicate normal values.,2025-01-09
+1546,CT Scan,Results indicate normal values.,2025-02-10
+2723,X-Ray,Results indicate high values.,2025-02-19
+3466,MRI,Results indicate high values.,2025-03-06
+215,CT Scan,Results indicate low values.,2025-02-06
+2052,CT Scan,Results indicate high values.,2025-03-03
+2446,X-Ray,Results indicate abnormal values.,2025-03-13
+1082,MRI,Results indicate low values.,2025-01-13
+2611,Blood Test,Results indicate low values.,2025-01-26
+110,Blood Test,Results indicate low values.,2025-01-13
+811,CT Scan,Results indicate normal values.,2025-01-15
+976,MRI,Results indicate abnormal values.,2025-02-07
+2181,CT Scan,Results indicate abnormal values.,2025-02-23
+2884,CT Scan,Results indicate normal values.,2025-01-30
+3336,MRI,Results indicate abnormal values.,2025-03-07
+766,CT Scan,Results indicate abnormal values.,2025-01-30
+1251,CT Scan,Results indicate abnormal values.,2025-02-07
+2884,MRI,Results indicate normal values.,2025-01-27
+630,MRI,Results indicate high values.,2025-01-22
+3095,MRI,Results indicate high values.,2025-02-28
+1617,CT Scan,Results indicate high values.,2025-01-21
+510,Blood Test,Results indicate abnormal values.,2025-01-03
+270,X-Ray,Results indicate high values.,2025-02-22
+2714,MRI,Results indicate high values.,2025-03-12
+618,X-Ray,Results indicate high values.,2025-02-02
+1510,CT Scan,Results indicate normal values.,2025-01-23
+821,CT Scan,Results indicate abnormal values.,2025-01-09
+2260,MRI,Results indicate normal values.,2025-01-12
+581,CT Scan,Results indicate low values.,2025-01-29
+1122,MRI,Results indicate normal values.,2025-01-29
+2861,X-Ray,Results indicate low values.,2025-01-12
+255,X-Ray,Results indicate normal values.,2025-02-19
+1152,Blood Test,Results indicate abnormal values.,2025-02-02
+1488,MRI,Results indicate abnormal values.,2025-03-01
+3230,MRI,Results indicate low values.,2025-02-11
+2357,CT Scan,Results indicate high values.,2025-02-03
+354,X-Ray,Results indicate abnormal values.,2025-01-30
+2213,X-Ray,Results indicate high values.,2025-02-22
+2072,MRI,Results indicate low values.,2025-01-23
+2657,X-Ray,Results indicate normal values.,2025-01-16
+2383,MRI,Results indicate high values.,2025-02-22
+3013,CT Scan,Results indicate high values.,2025-01-20
+1525,CT Scan,Results indicate high values.,2025-01-11
+734,X-Ray,Results indicate low values.,2025-02-21
+3261,Blood Test,Results indicate normal values.,2025-02-11
+2138,X-Ray,Results indicate high values.,2025-03-04
+546,MRI,Results indicate abnormal values.,2025-02-06
+3272,Blood Test,Results indicate abnormal values.,2025-01-30
+2653,CT Scan,Results indicate normal values.,2025-02-01
+1272,X-Ray,Results indicate low values.,2025-03-01
+3471,MRI,Results indicate normal values.,2025-01-02
+1450,MRI,Results indicate high values.,2025-02-13
+293,X-Ray,Results indicate low values.,2025-01-31
+2702,X-Ray,Results indicate high values.,2025-01-22
+1912,MRI,Results indicate high values.,2025-03-03
+512,CT Scan,Results indicate abnormal values.,2025-02-03
+1452,MRI,Results indicate high values.,2025-01-31
+1592,MRI,Results indicate normal values.,2025-03-10
+761,Blood Test,Results indicate low values.,2025-01-07
+2078,MRI,Results indicate high values.,2025-01-08
+348,Blood Test,Results indicate high values.,2025-03-07
+631,MRI,Results indicate low values.,2025-01-24
+3152,X-Ray,Results indicate normal values.,2025-01-20
+501,CT Scan,Results indicate abnormal values.,2025-03-14
+2626,Blood Test,Results indicate normal values.,2025-01-09
+1815,MRI,Results indicate normal values.,2025-01-13
+645,X-Ray,Results indicate normal values.,2025-02-08
+606,X-Ray,Results indicate high values.,2025-02-04
+3353,MRI,Results indicate low values.,2025-01-13
+1925,Blood Test,Results indicate high values.,2025-01-23
+2276,MRI,Results indicate low values.,2025-02-22
+1998,CT Scan,Results indicate low values.,2025-03-05
+2020,CT Scan,Results indicate normal values.,2025-01-03
+3201,X-Ray,Results indicate normal values.,2025-01-23
+2987,Blood Test,Results indicate normal values.,2025-03-13
+2652,CT Scan,Results indicate abnormal values.,2025-02-18
