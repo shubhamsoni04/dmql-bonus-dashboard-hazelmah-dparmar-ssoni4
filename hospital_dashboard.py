@@ -1,4 +1,4 @@
-# Hospital Management System Dashboard 
+# Hospital Management System Dashboard (Final - CSV Version with fixes)
 
 import streamlit as st
 import pandas as pd
@@ -16,7 +16,21 @@ lab_report_data = pd.read_csv('lab_report_data.csv')
 doctor_data = pd.read_csv('doctor_data.csv')
 
 # --------------------------------------------
-# 2. Dashboard Design
+# 2. Data Preprocessing
+# --------------------------------------------
+
+# doctor_data does not have DID, so we create it manually
+doctor_data = doctor_data.copy()
+doctor_data['DID'] = doctor_data.index + 1  # Auto assign unique IDs starting from 1
+
+# Now merge Appointment and Doctor data on DID
+appointments_with_doctor = appointment_data.merge(doctor_data, left_on='DID', right_on='DID', how='left')
+
+# Lab reports sorting
+lab_report_data['ReportDate'] = pd.to_datetime(lab_report_data['ReportDate'], errors='coerce')
+
+# --------------------------------------------
+# 3. Dashboard Design
 # --------------------------------------------
 
 st.title('🏥 Hospital Management System Dashboard')
@@ -30,9 +44,8 @@ pie_chart = px.pie(billing_status_counts, names='PaymentStatus', values='Counts'
 st.plotly_chart(pie_chart)
 st.write("**Insight:** Billing payments are fairly balanced among 'Paid', 'Pending', and 'Rejected', indicating an opportunity to further improve the payment clearance process.")
 
-# Section: Appointments per Doctor (Doctor Name instead of ID)
+# Section: Appointments per Doctor (Top 10 Doctors)
 st.header('Top 10 Doctors by Appointments')
-appointments_with_doctor = appointment_data.merge(doctor_data, left_on='DID', right_on='DID')
 appointments_count = appointments_with_doctor['Name'].value_counts().reset_index()
 appointments_count.columns = ['DoctorName', 'Appointments']
 
@@ -60,7 +73,7 @@ st.plotly_chart(gender_pie_chart)
 st.write("**Insight:** The hospital serves a diverse patient population across different genders.")
 
 # --------------------------------------------
-# 3. Summary Section
+# 4. Summary Section
 # --------------------------------------------
 
 st.markdown("---")
